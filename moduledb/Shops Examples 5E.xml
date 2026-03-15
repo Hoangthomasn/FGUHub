@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<MKshops>
+		<id-00006>
+			<shopitemlist>
+				<id-00001>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00001>
+				<id-00002>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00002>
+				<id-00003>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00003>
+				<id-00004>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00004>
+				<id-00005>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00005>
+				<id-00006>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00006>
+				<id-00007>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00007>
+				<id-00008>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00008>
+				<id-00009>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00009>
+				<id-00010>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00010>
+				<id-00011>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00011>
+				<id-00012>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00012>
+				<id-00013>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00013>
+				<id-00014>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00014>
+				<id-00015>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00015>
+				<id-00016>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00016>
+				<id-00017>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00017>
+				<id-00018>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00018>
+				<id-00019>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00019>
+				<id-00020>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00020>
+				<id-00021>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00021>
+				<id-00022>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00022>
+				<id-00023>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00023>
+				<id-00024>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00024>
+				<id-00025>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00025>
+				<id-00026>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00026>
+				<id-00027>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00027>
+				<id-00028>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00028>
+				<id-00029>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00029>
+				<id-00030>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00030>
+				<id-00031>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00031>
+				<id-00032>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00032>
+				<id-00033>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00033>
+				<id-00034>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00034>
+				<id-00035>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00035>
+				<id-00036>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00036>
+				<id-00037>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00037>
+				<id-00038>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00038>
+				<id-00039>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00039>
+				<id-00040>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00040>
+				<id-00041>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00041>
+				<id-00042>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00042>
+				<id-00043>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00043>
+				<id-00044>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00044>
+				<id-00045>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00045>
+				<id-00046>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00046>
+				<id-00047>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00047>
+				<id-00048>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00048>
+				<id-00049>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00049>
+				<id-00050>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00050>
+				<id-00051>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00051>
+				<id-00052>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00052>
+				<id-00053>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00053>
+				<id-00054>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00054>
+				<id-00055>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00055>
+				<id-00056>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00056>
+				<id-00057>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00057>
+				<id-00058>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00058>
+				<id-00059>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00059>
+				<id-00060>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00060>
+				<id-00061>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00061>
+				<id-00062>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00062>
+				<id-00063>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00063>
+				<id-00064>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00064>
+				<id-00065>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00065>
+				<id-00066>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00066>
+				<id-00067>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00067>
+				<id-00068>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00068>
+				<id-00069>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00069>
+				<id-00070>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00070>
+				<id-00071>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00071>
+				<id-00072>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00072>
+				<id-00073>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00073>
+				<id-00074>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00074>
+				<id-00075>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00075>
+				<id-00076>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00076>
+				<id-00077>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00077>
+				<id-00078>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00078>
+				<id-00079>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00079>
+				<id-00080>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00080>
+				<id-00081>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00081>
+				<id-00082>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00082>
+				<id-00083>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00083>
+				<id-00084>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00084>
+				<id-00085>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00085>
+				<id-00086>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00086>
+				<id-00087>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00087>
+				<id-00088>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00088>
+				<id-00089>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00089>
+				<id-00090>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00090>
+				<id-00091>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00091>
+				<id-00092>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00092>
+				<id-00093>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00093>
+				<id-00094>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00094>
+				<id-00095>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00095>
+				<id-00096>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00096>
+				<id-00097>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00097>
+				<id-00098>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00098>
+				<id-00099>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00099>
+				<id-00100>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00100>
+				<id-00101>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00101>
+				<id-00102>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00102>
+				<id-00103>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00103>
+				<id-00104>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00104>
+				<id-00105>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00105>
+				<id-00106>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00106>
+				<id-00107>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00107>
+				<id-00108>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00108>
+				<id-00109>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00109>
+				<id-00110>
+					<excludedFromPurchase type="number">0</excludedFromPurchase>
+				</id-00110>
+			</shopitemlist>
+		</id-00006>
+	</MKshops>
+</root>

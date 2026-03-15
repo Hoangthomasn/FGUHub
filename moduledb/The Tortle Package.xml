@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<npc>
+		<category name="NPCs - The Tortle Package">
+			<decapus>
+				<abilities>
+					<charisma>
+						<bonus type="number">-2</bonus>
+					</charisma>
+				</abilities>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<picture type="token"></picture>
+				<reactions />
+				<spells />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+				<token3Dflat type="token"></token3Dflat>
+				<traits />
+			</decapus>
+			<dimetrodon>
+				<abilities>
+					<charisma>
+						<bonus type="number">-3</bonus>
+					</charisma>
+				</abilities>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<locked type="number">1</locked>
+				<reactions />
+				<spells />
+				<traits />
+			</dimetrodon>
+			<giantlizard>
+				<abilities>
+					<charisma>
+						<bonus type="number">-3</bonus>
+					</charisma>
+				</abilities>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<traits />
+			</giantlizard>
+			<reefshark>
+				<abilities>
+					<intelligence>
+						<bonus type="number">-5</bonus>
+					</intelligence>
+				</abilities>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<text type="formattedtext">
+					<p />
+				</text>
+			</reefshark>
+			<tortle>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+			</tortle>
+			<tribalwarrior>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+			</tribalwarrior>
+		</category>
+	</npc>
+	<tables>
+		<category name="The Tortle Package">
+			<tab_04_05dirtydastard>
+				<table_positionoffset type="number">0</table_positionoffset>
+				<tablerows>
+					<id-00001>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+						</results>
+					</id-00001>
+				</tablerows>
+			</tab_04_05dirtydastard>
+		</category>
+	</tables>
+</root>

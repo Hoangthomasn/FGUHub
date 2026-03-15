@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modulestate version="5.1" dataversion="20260124">
+	<module name="(PotA Everhart's Party)">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="Calendars">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="Crits and Fumbles">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="D&amp;D Essentials Kit Rulebook">
+		<disallow />
+	</module>
+	<module name="D&amp;D Wayfinder's Guide to Eberron">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD 5E Unearthed Arcana Players">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD Acquisitions Incorporated">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Acquisitions Incorporated Players">
+		<autoload />
+	</module>
+	<module name="DD Basic Rules - DM">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Basic Rules - Player">
+		<disallow />
+	</module>
+	<module name="DD Dragon of Icespire Peak">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Dungeon Masters Guide">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Dungeon Masters Guide - Players">
+		<autoload />
+	</module>
+	<module name="DD Elemental Evil Players Companion">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Explorer's Guide to Wildemount">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Explorer's Guide to Wildemount - Players">
+		<autoload />
+	</module>
+	<module name="DD Guildmaster's Guide to Ravnica Players">
+		<autoload />
+	</module>
+	<module name="DD Lost Mine of Phandelver">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD MM Monster Manual">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Monster Manual - Syrinscape Sounds">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD Monsters of the Multiverse">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Monsters of the Multiverse Players">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD Mordenkainen's Tome of Foes Players">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD Player's Handbook - Syrinscape Sounds">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD Princes of the Apocalypse">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Sword Coast Adventurer's Guide - Campaign Guide">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Sword Coast Adventurer's Guide - Player's Guide">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD Tashas Cauldron of Everything">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD Tashas Cauldron of Everything - Players">
+		<autoload />
+	</module>
+	<module name="DD Tomb of Annihilation - Players">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD Xanathar's Guide to Everything Players">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DD5E SRD Bestiary">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD5E SRD Data">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD5E SRD Magic Items">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="Default Fumble and Critical Hit Tables">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DND2024FREERULES">
+		<disallow />
+	</module>
+	<module name="DNDSRD521BESTIARY">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DNDSRD521MAGICITEMS">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="DNDSRD521PLAYER">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="FG Battle Maps">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="Monster Loot - Dragons of Icespire Peak">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="Monster Loot - Lost Mine of Phandelver">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="Monster Loot - Princes of the Apocalypse">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="Monster Loot - Volume 1 - Monster Manual">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="Monster Loot - Volume 2 - Volo's Guide to Monsters">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="Monster Loot - Volume 3 - Mordenkainen's Tome of Foes">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="Monster Loot - Volume 4 - Fizbans Treasury of Dragons">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="RCR">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="The Tortle Package - Player">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="Volos Guide to Monsters Players">
+		<loaded />
+		<autoload />
+	</module>
+	<module name="WOTC50DMG">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="WOTC50DMGBastions">
+		<autoload />
+	</module>
+	<module name="WOTC50MM">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="WOTC50PHB">
+		<loaded />
+		<autoload />
+	</module>
+</modulestate>

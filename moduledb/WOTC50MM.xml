@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<npc>
+		<id-00158>
+			<locked type="number">0</locked>
+		</id-00158>
+		<id-00202>
+			<coins>
+				<id-00001>
+					<amount type="number">0</amount>
+					<name type="string">PP</name>
+				</id-00001>
+				<id-00002>
+					<amount type="number">0</amount>
+					<name type="string">GP</name>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<name type="string">EP</name>
+				</id-00003>
+				<id-00004>
+					<amount type="number">0</amount>
+					<name type="string">SP</name>
+				</id-00004>
+				<id-00005>
+					<amount type="number">0</amount>
+					<name type="string">CP</name>
+				</id-00005>
+			</coins>
+			<encumbrance>
+				<encumbered type="number">0</encumbered>
+				<encumberedheavy type="number">0</encumberedheavy>
+				<liftpushdrag type="number">0</liftpushdrag>
+				<load type="number">0</load>
+				<max type="number">0</max>
+			</encumbrance>
+			<inventorylist />
+		</id-00202>
+		<id-00263>
+			<coins>
+				<id-00001>
+					<amount type="number">0</amount>
+					<name type="string">PP</name>
+				</id-00001>
+				<id-00002>
+					<amount type="number">0</amount>
+					<name type="string">GP</name>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<name type="string">EP</name>
+				</id-00003>
+				<id-00004>
+					<amount type="number">0</amount>
+					<name type="string">SP</name>
+				</id-00004>
+				<id-00005>
+					<amount type="number">0</amount>
+					<name type="string">CP</name>
+				</id-00005>
+			</coins>
+			<encumbrance>
+				<encumbered type="number">0</encumbered>
+				<encumberedheavy type="number">0</encumberedheavy>
+				<liftpushdrag type="number">0</liftpushdrag>
+				<load type="number">0</load>
+				<max type="number">0</max>
+			</encumbrance>
+			<inventorylist />
+		</id-00263>
+		<id-00278>
+			<coins>
+				<id-00001>
+					<amount type="number">0</amount>
+					<name type="string">PP</name>
+				</id-00001>
+				<id-00002>
+					<amount type="number">0</amount>
+					<name type="string">GP</name>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<name type="string">EP</name>
+				</id-00003>
+				<id-00004>
+					<amount type="number">0</amount>
+					<name type="string">SP</name>
+				</id-00004>
+				<id-00005>
+					<amount type="number">0</amount>
+					<name type="string">CP</name>
+				</id-00005>
+			</coins>
+			<encumbrance>
+				<encumbered type="number">0</encumbered>
+				<encumberedheavy type="number">0</encumberedheavy>
+				<liftpushdrag type="number">0</liftpushdrag>
+				<load type="number">0</load>
+				<max type="number">0</max>
+			</encumbrance>
+			<inventorylist />
+		</id-00278>
+		<id-00466>
+			<locked type="number">0</locked>
+		</id-00466>
+		<id-00467>
+			<holder name="GM" />
+			<abilities>
+				<holder name="GM" />
+				<charisma>
+					<holder name="GM" />
+				</charisma>
+				<constitution>
+					<holder name="GM" />
+				</constitution>
+				<dexterity>
+					<holder name="GM" />
+				</dexterity>
+				<intelligence>
+					<holder name="GM" />
+				</intelligence>
+				<strength>
+					<holder name="GM" />
+				</strength>
+				<wisdom>
+					<holder name="GM" />
+				</wisdom>
+			</abilities>
+			<actions>
+				<holder name="GM" />
+				<id-00001>
+					<holder name="GM" />
+				</id-00001>
+			</actions>
+			<bonusactions>
+				<holder name="GM" />
+			</bonusactions>
+			<initiative>
+				<holder name="GM" />
+			</initiative>
+			<innatespells>
+				<holder name="GM" />
+			</innatespells>
+			<lairactions>
+				<holder name="GM" />
+			</lairactions>
+			<legendaryactions>
+				<holder name="GM" />
+			</legendaryactions>
+			<reactions>
+				<holder name="GM" />
+			</reactions>
+			<spells>
+				<holder name="GM" />
+			</spells>
+			<spellslots>
+				<holder name="GM" />
+			</spellslots>
+			<traits>
+				<holder name="GM" />
+				<id-00001>
+					<holder name="GM" />
+				</id-00001>
+			</traits>
+		</id-00467>
+	</npc>
+</root>

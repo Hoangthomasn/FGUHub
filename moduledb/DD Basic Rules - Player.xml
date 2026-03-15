@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<tables>
+		<tab_folkherodefiningevent>
+			<table_positionoffset type="number">0</table_positionoffset>
+			<tablerows>
+				<id-00001>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00001>
+				<id-00002>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00002>
+				<id-00003>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00003>
+				<id-00004>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00004>
+				<id-00005>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00005>
+				<id-00006>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00006>
+				<id-00007>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00007>
+				<id-00008>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00008>
+				<id-00009>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00009>
+				<id-00010>
+					<results>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00010>
+			</tablerows>
+		</tab_folkherodefiningevent>
+	</tables>
+</root>

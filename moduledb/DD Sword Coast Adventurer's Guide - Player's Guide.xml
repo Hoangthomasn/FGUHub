@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<reference>
+		<backgrounddata>
+			<cloisteredscholar>
+				<holder name="lemon pepper" />
+				<features>
+					<holder name="lemon pepper" />
+					<libraryaccess>
+						<holder name="lemon pepper" />
+					</libraryaccess>
+				</features>
+			</cloisteredscholar>
+		</backgrounddata>
+	</reference>
+</root>

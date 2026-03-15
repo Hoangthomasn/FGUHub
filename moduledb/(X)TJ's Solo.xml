@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<battle>
+		<id-00001>
+			<npclist>
+				<id-00001>
+					<isidentified type="number">0</isidentified>
+				</id-00001>
+				<id-00002>
+					<isidentified type="number">0</isidentified>
+				</id-00002>
+			</npclist>
+		</id-00001>
+		<id-00002>
+			<npclist>
+				<id-00001>
+					<isidentified type="number">0</isidentified>
+				</id-00001>
+				<id-00002>
+					<isidentified type="number">0</isidentified>
+				</id-00002>
+			</npclist>
+		</id-00002>
+	</battle>
+	<reference>
+		<refmanualdata>
+			<id-00001>
+				<blocks>
+					<id-00008>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00008>
+					<id-00009>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00009>
+				</blocks>
+			</id-00001>
+		</refmanualdata>
+	</reference>
+</root>

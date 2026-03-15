@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<reference>
+		<backgrounddata>
+			<acolyte>
+				<holder name="lemon pepper" />
+				<features>
+					<holder name="lemon pepper" />
+					<shelterofthefaithful>
+						<holder name="lemon pepper" />
+					</shelterofthefaithful>
+				</features>
+			</acolyte>
+			<sage>
+				<holder name="lemon pepper" />
+				<features>
+					<holder name="lemon pepper" />
+					<researcher>
+						<holder name="lemon pepper" />
+					</researcher>
+				</features>
+			</sage>
+		</backgrounddata>
+	</reference>
+</root>

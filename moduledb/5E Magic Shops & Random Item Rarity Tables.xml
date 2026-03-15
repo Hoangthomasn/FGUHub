@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<reference>
+		<refmanualdata>
+			<ref_author type="deleted" />
+		</refmanualdata>
+	</reference>
+	<tables>
+		<category name="Armor">
+			<id-00006>
+				<mod type="number">0</mod>
+			</id-00006>
+		</category>
+		<category name="Extra Tables">
+			<id-00086>
+				<output type="string">parcel</output>
+			</id-00086>
+		</category>
+		<category name="Staffs">
+			<id-00030>
+				<locked type="number">0</locked>
+			</id-00030>
+		</category>
+		<category name="Wands">
+			<id-00031>
+				<locked type="number">0</locked>
+			</id-00031>
+			<id-00032>
+				<locked type="number">0</locked>
+			</id-00032>
+			<id-00053>
+				<locked type="number">1</locked>
+			</id-00053>
+		</category>
+	</tables>
+</root>

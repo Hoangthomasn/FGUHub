@@ -1,0 +1,9 @@
+.DS_Store
+chatlog.html
+
+db.session.*.xml
+db.script.*.xml
+
+cache/
+temp/
+backups/

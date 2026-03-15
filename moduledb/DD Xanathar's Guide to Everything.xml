@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<reference>
+		<equipmentdata>
+			<rapier>
+				<bonus type="number">0</bonus>
+			</rapier>
+			<scrollofsnare>
+				<weight type="number">0</weight>
+			</scrollofsnare>
+			<scrollofzephyrstrike>
+				<weight type="number">0</weight>
+			</scrollofzephyrstrike>
+			<shortsword>
+				<bonus type="number">0</bonus>
+			</shortsword>
+		</equipmentdata>
+		<npcdata>
+			<beartrap>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+			</beartrap>
+			<crossbowtrap>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+			</crossbowtrap>
+			<fieryblasttrap>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+			</fieryblasttrap>
+			<poisonneedletrap>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+			</poisonneedletrap>
+			<sphereofcrushingdoomtrap>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spells />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+			</sphereofcrushingdoomtrap>
+		</npcdata>
+		<tables>
+			<tab_berserkersorveterans>
+				<table_positionoffset type="number">0</table_positionoffset>
+			</tab_berserkersorveterans>
+		</tables>
+	</reference>
+</root>

@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<item>
+		<id-00014>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00014>
+		<id-00018>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00018>
+		<id-00022>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00022>
+		<id-00049>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00049>
+		<id-00058>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00058>
+		<id-00092>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00092>
+		<id-00093>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00093>
+		<id-00187>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00187>
+		<id-00333>
+			<public />
+		</id-00333>
+		<id-00339>
+			<public />
+		</id-00339>
+		<id-00340>
+			<public />
+		</id-00340>
+		<id-00342>
+			<public />
+		</id-00342>
+		<id-00347>
+			<public />
+		</id-00347>
+		<id-00349>
+			<public />
+		</id-00349>
+		<id-00353>
+			<public />
+		</id-00353>
+		<id-00360>
+			<public />
+		</id-00360>
+		<id-00362>
+			<public />
+		</id-00362>
+		<id-00363>
+			<public />
+			<cost type="string">200 gp</cost>
+			<locked type="number">1</locked>
+		</id-00363>
+		<id-00365>
+			<public />
+			<locked type="number">1</locked>
+		</id-00365>
+		<id-00378>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00378>
+		<id-00390>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00390>
+		<id-00392>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00392>
+		<id-00397>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00397>
+		<id-00399>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00399>
+		<id-00643>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<destroyon type="number">1</destroyon>
+			<dischargedice type="dice"></dischargedice>
+			<dischargerechargebonus type="number">0</dischargerechargebonus>
+			<dischargerechargedice type="dice"></dischargerechargedice>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<powergroup type="string">Spells</powergroup>
+			<powers />
+			<prepared type="number">0</prepared>
+			<rechargebonus type="number">0</rechargebonus>
+			<rechargedice type="dice"></rechargedice>
+			<rechargeon type="number">0</rechargeon>
+			<rechargesingle type="number">0</rechargesingle>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00643>
+		<id-00648>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00648>
+		<id-00683>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00683>
+		<id-00688>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00688>
+		<id-00723>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00723>
+		<id-00728>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00728>
+		<id-00753>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00753>
+		<id-00763>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00763>
+		<id-00768>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00768>
+		<id-00775>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00775>
+		<id-00803>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00803>
+		<id-00811>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00811>
+		<id-00833>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00833>
+		<id-00843>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00843>
+		<id-00883>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00883>
+		<id-00963>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00963>
+		<id-01020>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<locked type="number">1</locked>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01020>
+		<id-01021>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01021>
+		<id-01048>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01048>
+		<id-01088>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01088>
+		<id-01208>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01208>
+		<id-01215>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01215>
+		<id-01252>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01252>
+		<id-01300>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01300>
+		<id-01310>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01310>
+		<id-01314>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01314>
+		<id-01341>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01341>
+		<id-01342>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01342>
+		<id-01350>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01350>
+		<id-01375>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01375>
+		<id-01381>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01381>
+		<id-01385>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01385>
+		<id-01387>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<locked type="number">1</locked>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01387>
+		<id-01388>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01388>
+		<id-01391>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01391>
+		<id-01416>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01416>
+		<id-01436>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01436>
+		<id-01499>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01499>
+		<id-01529>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01529>
+		<id-01573>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01573>
+		<id-01584>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01584>
+		<id-01611>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01611>
+		<id-01633>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01633>
+		<id-01648>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01648>
+		<id-01649>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01649>
+		<id-01682>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-01682>
+		<id-01782>
+			<public />
+		</id-01782>
+		<id-01788>
+			<public />
+		</id-01788>
+		<id-01789>
+			<public />
+		</id-01789>
+		<id-01790>
+			<public />
+		</id-01790>
+	</item>
+	<reference>
+		<refmanualdata>
+			<id-00002>
+				<blocks>
+					<id-00003>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00003>
+					<id-00004>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00004>
+				</blocks>
+			</id-00002>
+			<id-00014>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00014>
+			<id-00015>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+					<id-00010>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00010>
+				</blocks>
+			</id-00015>
+			<id-00017>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00017>
+			<id-00018>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00018>
+			<id-00020>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00020>
+			<id-00021>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00021>
+			<id-00022>
+				<blocks>
+					<id-00003>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00003>
+				</blocks>
+			</id-00022>
+			<id-00024>
+				<blocks>
+					<id-00004>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00004>
+				</blocks>
+			</id-00024>
+			<id-00025>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00025>
+			<id-00026>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00026>
+			<id-00027>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00027>
+			<id-00029>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00029>
+			<id-00030>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00030>
+			<id-00032>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+					<id-00007>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00007>
+					<id-00010>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00010>
+				</blocks>
+			</id-00032>
+			<id-00033>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00033>
+			<id-00035>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+					<id-00013>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00013>
+				</blocks>
+			</id-00035>
+			<id-00036>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+					<id-00004>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00004>
+				</blocks>
+			</id-00036>
+			<id-00037>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00037>
+			<id-00039>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00039>
+			<id-00040>
+				<blocks>
+					<id-00011>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00011>
+					<id-00012>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00012>
+				</blocks>
+			</id-00040>
+			<id-00041>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00041>
+			<id-00042>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+					<id-00004>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00004>
+					<id-00010>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00010>
+					<id-00011>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00011>
+					<id-00020>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00020>
+				</blocks>
+			</id-00042>
+			<id-00043>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00043>
+			<id-00049>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00049>
+			<id-00050>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00050>
+			<id-00051>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00051>
+			<id-00052>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00052>
+			<id-00053>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00053>
+			<id-00054>
+				<blocks>
+					<id-00006>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00006>
+				</blocks>
+			</id-00054>
+			<id-00056>
+				<blocks>
+					<id-00004>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00004>
+				</blocks>
+			</id-00056>
+			<id-00057>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00057>
+			<id-00127>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00127>
+			<id-00130>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+					<id-00004>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00004>
+				</blocks>
+			</id-00130>
+			<id-00134>
+				<blocks>
+					<id-00003>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00003>
+				</blocks>
+			</id-00134>
+			<id-00137>
+				<blocks>
+					<id-00004>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00004>
+				</blocks>
+			</id-00137>
+			<id-00140>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00140>
+			<id-00143>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00143>
+		</refmanualdata>
+	</reference>
+	<tables>
+		<id-00120>
+			<locked type="number">0</locked>
+		</id-00120>
+		<id-00124>
+			<locked type="number">0</locked>
+		</id-00124>
+		<id-00125>
+			<locked type="number">0</locked>
+		</id-00125>
+		<id-00130>
+			<locked type="number">1</locked>
+		</id-00130>
+		<id-00138>
+			<locked type="number">0</locked>
+		</id-00138>
+		<id-00140>
+			<locked type="number">0</locked>
+		</id-00140>
+		<id-00143>
+			<locked type="number">0</locked>
+		</id-00143>
+		<id-00145>
+			<locked type="number">0</locked>
+		</id-00145>
+		<id-00146>
+			<locked type="number">1</locked>
+		</id-00146>
+		<id-00150>
+			<locked type="number">0</locked>
+		</id-00150>
+		<id-00245>
+			<output type="string">parcel</output>
+		</id-00245>
+	</tables>
+</root>

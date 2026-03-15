@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<npc>
+		<category name="SRD 5.2">
+			<id-00016>
+				<coins>
+					<id-00001>
+						<amount type="number">0</amount>
+						<name type="string">PP</name>
+					</id-00001>
+					<id-00002>
+						<amount type="number">0</amount>
+						<name type="string">GP</name>
+					</id-00002>
+					<id-00003>
+						<amount type="number">0</amount>
+						<name type="string">EP</name>
+					</id-00003>
+					<id-00004>
+						<amount type="number">0</amount>
+						<name type="string">SP</name>
+					</id-00004>
+					<id-00005>
+						<amount type="number">0</amount>
+						<name type="string">CP</name>
+					</id-00005>
+				</coins>
+				<encumbrance>
+					<encumbered type="number">0</encumbered>
+					<encumberedheavy type="number">0</encumberedheavy>
+					<liftpushdrag type="number">0</liftpushdrag>
+					<load type="number">0</load>
+					<max type="number">0</max>
+				</encumbrance>
+				<inventorylist />
+			</id-00016>
+			<id-00243>
+				<locked type="number">0</locked>
+			</id-00243>
+		</category>
+	</npc>
+</root>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<item>
+		<id-00002>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<description type="formattedtext">
+				<p>A corrupted javelin made from driftwood and bone, soaked in polluted water and rot.</p>
+				<p>If the target fails a DC 12 Constitution save, they are Poisoned until the end of their next turn (from infection or rot).</p>
+				<p>On a failure by 5 or more, the target is poisoned for 1 day The target wakes up if it takes damage or if another creature takes an action to shake it awake.</p>
+			</description>
+			<destroyon type="number">1</destroyon>
+			<dischargedice type="dice"></dischargedice>
+			<dischargerechargebonus type="number">0</dischargerechargebonus>
+			<dischargerechargedice type="dice"></dischargerechargedice>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<locked type="number">0</locked>
+			<picture type="token"></picture>
+			<powergroup type="string">Spells</powergroup>
+			<powers>
+				<id-00001>
+					<actions>
+						<id-00001>
+							<durmod type="number">1</durmod>
+							<durunit type="string">hour</durunit>
+							<label type="string">DISCHK; DISATK</label>
+							<order type="number">1</order>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<charges type="number">1</charges>
+					<name type="string">Poison</name>
+					<prepared type="number">0</prepared>
+				</id-00001>
+			</powers>
+			<prepared type="number">0</prepared>
+			<rechargebonus type="number">0</rechargebonus>
+			<rechargedice type="dice"></rechargedice>
+			<rechargeon type="number">0</rechargeon>
+			<rechargesingle type="number">0</rechargesingle>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00002>
+	</item>
+</root>

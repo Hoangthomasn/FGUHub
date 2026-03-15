@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<battle>
+		<id-00023>
+			<npclist>
+				<id-00003>
+					<isidentified type="number">0</isidentified>
+				</id-00003>
+				<id-00005>
+					<isidentified type="number">0</isidentified>
+				</id-00005>
+				<id-00006>
+					<isidentified type="number">0</isidentified>
+				</id-00006>
+			</npclist>
+		</id-00023>
+		<category name="(Colosseum)">
+			<id-00002>
+				<npclist>
+					<id-00001>
+						<isidentified type="number">0</isidentified>
+					</id-00001>
+					<id-00002>
+						<isidentified type="number">0</isidentified>
+					</id-00002>
+					<id-00003>
+						<isidentified type="number">0</isidentified>
+					</id-00003>
+					<id-00004>
+						<isidentified type="number">0</isidentified>
+					</id-00004>
+					<id-00006>
+						<isidentified type="number">0</isidentified>
+					</id-00006>
+					<id-00008>
+						<isidentified type="number">0</isidentified>
+					</id-00008>
+				</npclist>
+			</id-00002>
+		</category>
+	</battle>
+	<npc>
+		<id-00013>
+			<spellslots>
+				<level1 type="number">0</level1>
+				<level2 type="number">0</level2>
+				<level3 type="number">0</level3>
+				<level4 type="number">0</level4>
+				<level5 type="number">0</level5>
+				<level6 type="number">0</level6>
+				<level7 type="number">0</level7>
+				<level8 type="number">0</level8>
+				<level9 type="number">0</level9>
+			</spellslots>
+		</id-00013>
+		<id-00014>
+			<spellslots>
+				<level1 type="number">0</level1>
+				<level2 type="number">0</level2>
+				<level3 type="number">0</level3>
+				<level4 type="number">0</level4>
+				<level5 type="number">0</level5>
+				<level6 type="number">0</level6>
+				<level7 type="number">0</level7>
+				<level8 type="number">0</level8>
+				<level9 type="number">0</level9>
+			</spellslots>
+		</id-00014>
+		<id-00015>
+			<coins>
+				<id-00001>
+					<amount type="number">0</amount>
+					<name type="string">PP</name>
+				</id-00001>
+				<id-00002>
+					<amount type="number">0</amount>
+					<name type="string">GP</name>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<name type="string">EP</name>
+				</id-00003>
+				<id-00004>
+					<amount type="number">0</amount>
+					<name type="string">SP</name>
+				</id-00004>
+				<id-00005>
+					<amount type="number">0</amount>
+					<name type="string">CP</name>
+				</id-00005>
+			</coins>
+			<encumbrance>
+				<encumbered type="number">0</encumbered>
+				<encumberedheavy type="number">0</encumberedheavy>
+				<liftpushdrag type="number">0</liftpushdrag>
+				<load type="number">0</load>
+				<max type="number">0</max>
+			</encumbrance>
+			<inventorylist />
+			<locked type="number">1</locked>
+			<spellslots>
+				<level1 type="number">0</level1>
+				<level2 type="number">0</level2>
+				<level3 type="number">0</level3>
+				<level4 type="number">0</level4>
+				<level5 type="number">0</level5>
+				<level6 type="number">0</level6>
+				<level7 type="number">0</level7>
+				<level8 type="number">0</level8>
+				<level9 type="number">0</level9>
+			</spellslots>
+		</id-00015>
+		<id-00018>
+			<spellslots>
+				<level1 type="number">0</level1>
+				<level2 type="number">0</level2>
+				<level3 type="number">0</level3>
+				<level4 type="number">0</level4>
+				<level5 type="number">0</level5>
+				<level6 type="number">0</level6>
+				<level7 type="number">0</level7>
+				<level8 type="number">0</level8>
+				<level9 type="number">0</level9>
+			</spellslots>
+		</id-00018>
+	</npc>
+</root>

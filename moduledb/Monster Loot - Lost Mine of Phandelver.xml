@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<reference>
+		<refmanualdata>
+			<id-00001>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00001>
+		</refmanualdata>
+	</reference>
+</root>

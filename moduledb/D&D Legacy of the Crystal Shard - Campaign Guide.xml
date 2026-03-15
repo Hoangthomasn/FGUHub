@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<reference>
+		<refmanualdata>
+			<refpage_000000credits>
+				<blocks />
+			</refpage_000000credits>
+			<refpage_000100introduction>
+				<blocks />
+			</refpage_000100introduction>
+			<refpage_000101usingthisadventure>
+				<blocks />
+			</refpage_000101usingthisadventure>
+			<refpage_000102thecrystalshard>
+				<blocks />
+			</refpage_000102thecrystalshard>
+			<refpage_000103icewinddale>
+				<blocks />
+			</refpage_000103icewinddale>
+		</refmanualdata>
+	</reference>
+</root>

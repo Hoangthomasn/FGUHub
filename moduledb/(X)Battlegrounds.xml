@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<battle>
+		<category name="(Altar of Regrets)">
+			<id-00011>
+				<npclist>
+					<id-00003>
+						<isidentified type="number">0</isidentified>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00005.image@(X)Battlegrounds</recordname>
+								</imageref>
+								<imagey type="number">350</imagey>
+							</id-00001>
+						</maplink>
+					</id-00003>
+					<id-00004>
+						<isidentified type="number">0</isidentified>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00005.image@(X)Battlegrounds</recordname>
+								</imageref>
+								<imagex type="number">-20</imagex>
+								<imagey type="number">340</imagey>
+							</id-00001>
+							<id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00005.image@(X)Battlegrounds</recordname>
+								</imageref>
+								<imagex type="number">30</imagex>
+								<imagey type="number">340</imagey>
+							</id-00002>
+						</maplink>
+					</id-00004>
+				</npclist>
+			</id-00011>
+		</category>
+	</battle>
+	<image>
+		<id-00005>
+			<image type="image">
+				<uselos>on</uselos>
+				<grid>on</grid>
+				<gridsize>20,20</gridsize>
+				<color>#16FFFFFF</color>
+				<layers>
+					<layer>
+						<name>Altar of regrats.jpg</name>
+						<id>0</id>
+						<parentid>-33</parentid>
+						<type>image</type>
+						<bitmap>images/Altar of regrats.jpg@(X)Battlegrounds</bitmap>
+						<occluders>
+							<occluder>
+								<id>0</id>
+								<points>23,-218,37,-218,37,-198,37,-183,23,-183,23,-198</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>1</id>
+								<points>23,-198,37,-198,83,-198,96,-198,96,-183,83,-183,37,-183,23,-183</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>2</id>
+								<points>96,-183,83,-183,83,-198,83,-201,83,-217,96,-217,96,-201,96,-198</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>3</id>
+								<points>83,-217,96,-217,162,-217,181,-217,182,-217,197,-217,197,-201,182,-201,96,-201,83,-201</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>4</id>
+								<points>217,-182,197,-182,183,-182,183,-197,197,-197,217,-197</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>5</id>
+								<points>182,-217,197,-217,197,-201,197,-197,197,-182,197,-181,182,-181,182,-201,182,-217</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>6</id>
+								<points>162,-382,181,-382,181,-344,181,-268,181,-262,181,-261,181,-217,181,-213,162,-213,162,-217,162,-344</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>7</id>
+								<points>217,-262,187,-262,181,-262,177,-262,177,-268,181,-268,187,-268,217,-268</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>8</id>
+								<points>176,-344,181,-344,187,-344,187,-268,187,-262,187,-261,181,-261,176,-261,176,-344</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>9</id>
+								<points>187,-344,181,-344,176,-344,162,-344,162,-382,162,-419,187,-419</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>10</id>
+								<points>187,-464,324,-464,324,-344,187,-344,187,-419,187,-460,187,-463</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>11</id>
+								<points>262,-269,293,-269,324,-269,346,-269,346,-262,329,-262,324,-262,302,-262,293,-262,262,-262</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>12</id>
+								<points>293,-344,324,-344,324,-269,324,-266,324,-262,302,-262,293,-262,293,-269</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>13</id>
+								<points>263,-199,283,-199,329,-199,329,-194,329,-182,320,-182,283,-182,263,-182</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>14</id>
+								<points>329,-182,320,-182,283,-182,283,-199,283,-217,329,-217,329,-199,329,-194</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>15</id>
+								<points>329,-217,302,-217,302,-262,302,-266,324,-266,329,-266,329,-262</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>16</id>
+								<points>-187,-420,-216,-420,-216,-464,-189,-464,-187,-464,-187,-460,-187,-420</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>17</id>
+								<points>-236,-420,-216,-420,-187,-420,-164,-420,-164,-342,-236,-342</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>18</id>
+								<points>-235,-239,-195,-239,-164,-239,-163,-239,-163,-232,-164,-232,-195,-232,-235,-232</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>19</id>
+								<points>-164,-212,-194,-212,-195,-212,-195,-232,-195,-239,-195,-342,-164,-342,-164,-239,-164,-232,-164,-216</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>20</id>
+								<points>-194,-216,-164,-216,-82,-216,-82,-198,-82,-182,-83,-182,-194,-182,-194,-212</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>21</id>
+								<points>-83,-198,-82,-198,-22,-198,-22,-181,-83,-181,-83,-182</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>22</id>
+								<points>-22,-198,-38,-198,-38,-218,-22,-218</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>23</id>
+								<points>-213,-119,-183,-119,-183,-102,-213,-102</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>24</id>
+								<points>-183,-119,-194,-119,-194,-182,-183,-182</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>25</id>
+								<points>-265,-232,-284,-232,-348,-232,-348,-237,-348,-238,-304,-238,-265,-238</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>26</id>
+								<points>-284,-182,-314,-182,-348,-182,-352,-182,-352,-237,-348,-237,-284,-237,-284,-232</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>27</id>
+								<points>-247,-102,-314,-102,-321,-102,-348,-102,-348,-116,-321,-116,-314,-116,-247,-116</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>28</id>
+								<points>-348,-194,-314,-194,-314,-182,-314,-116,-314,-102,-321,-102,-348,-102,-348,-116,-348,-122,-348,-182</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>29</id>
+								<points>-349,-461,-304,-461,-304,-459,-304,-445,-304,-443,-304,-343,-304,-238,-304,-237,-348,-237,-349,-237</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>30</id>
+								<points>-305,-459,-304,-459,-243,-459,-243,-443,-263,-443,-304,-443,-305,-443,-305,-445</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>31</id>
+								<points>-243,-465,-216,-465,-216,-464,-216,-459,-243,-459</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>32</id>
+								<points>-263,-343,-304,-343,-325,-343,-325,-445,-305,-445,-304,-445,-263,-445,-263,-443</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>33</id>
+								<points>-303,27,-320,27,-345,27,-348,27,-348,-43,-348,-53,-348,-60,-321,-60,-303,-60,-303,-43</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>34</id>
+								<points>-348,-60,-321,-60,-303,-60,-243,-60,-243,-43,-303,-43,-348,-43,-348,-53</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>35</id>
+								<points>-197,-59,-135,-59,-25,-59,-25,-43,-135,-43,-197,-43</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>36</id>
+								<points>-23,-22,-135,-22,-135,-43,-135,-59,-135,-123,-135,-124,-23,-124,-23,-123</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>37</id>
+								<points>-136,-139,-23,-139,-23,-124,-23,-123,-135,-123,-136,-123</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>38</id>
+								<points>-122,38,-136,38,-136,-22,-135,-22,-122,-22</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>39</id>
+								<points>24,-139,119,-139,119,-21,24,-21</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>40</id>
+								<points>161,-139,178,-139,178,-116,178,-102,178,-22,161,-22</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>41</id>
+								<points>217,-102,178,-102,165,-102,165,-116,178,-116,217,-116</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>42</id>
+								<points>262,-119,296,-119,331,-119,355,-119,355,-103,329,-103,312,-103,262,-103</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>43</id>
+								<points>296,-136,320,-136,331,-136,331,-131,331,-119,331,-104,329,-104,312,-104,296,-104,296,-119</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>44</id>
+								<points>312,-111,329,-111,329,-104,329,-103,329,52,312,52,312,-103,312,-104</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>45</id>
+								<points>162,22,177,22,177,52,177,69,177,98,162,98</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>46</id>
+								<points>174,52,177,52,312,52,312,69,177,69,174,69</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>47</id>
+								<points>312,52,329,52,329,69,312,69</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>48</id>
+								<points>312,69,329,69,345,69,345,226,312,226,312,167,312,161</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>49</id>
+								<points>222,161,291,161,312,161,327,161,327,167,312,167,291,167,222,167</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>50</id>
+								<points>291,161,312,161,312,167,312,226,312,321,291,321,291,167,291,161</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>51</id>
+								<points>282,321,291,321,312,321,339,321,339,326,339,327,312,327,302,327,282,327</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>52</id>
+								<points>339,329,312,329,312,327,312,326,312,321,312,226,339,226,339,321,339,326,339,327</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>53</id>
+								<points>302,326,312,326,339,326,358,326,358,468,302,468,302,464,302,410,302,327</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>54</id>
+								<points>327,464,302,464,95,464,94,464,94,421,94,412,94,410,117,410,182,410,203,410,208,410,302,410,327,410</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>55</id>
+								<points>163,142,177,142,177,232,177,236,163,236,163,232</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>56</id>
+								<points>163,232,177,232,218,232,218,238,217,238,204,238,163,238,163,236</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>57</id>
+								<points>237,327,217,327,204,327,204,322,217,322,237,322</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>58</id>
+								<points>217,327,204,327,204,322,204,238,204,233,217,233,217,238,217,322,217,327</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>59</id>
+								<points>203,328,208,328,208,362,208,403,208,410,208,412,203,412,203,410,203,403,203,362</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>60</id>
+								<points>208,412,203,412,182,412,182,410,182,403,182,362,203,362,208,362,208,403,208,410</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>61</id>
+								<points>208,412,203,412,182,412,117,412,94,412,94,410,94,403,117,403,182,403,203,403,208,403,208,410</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>62</id>
+								<points>117,412,94,412,94,410,94,403,94,363,117,363,117,403,117,410,117,412</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>63</id>
+								<points>94,306,107,306,107,363,94,363</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>64</id>
+								<points>95,468,42,468,42,465,42,443,42,421,94,421,95,421,95,464</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>65</id>
+								<points>50,465,42,465,-43,465,-51,465,-51,443,-43,443,42,443,50,443</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>66</id>
+								<points>-43,476,-106,476,-106,425,-106,423,-98,423,-92,423,-43,423,-43,443,-43,465</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>67</id>
+								<points>-98,306,-92,306,-92,353,-92,423,-92,425,-92,429,-98,429,-98,425,-98,423,-98,353</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>68</id>
+								<points>-92,425,-98,425,-106,425,-116,425,-117,425,-117,380,-117,353,-98,353,-92,353,-92,423</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>69</id>
+								<points>-116,463,-242,463,-244,463,-244,380,-242,380,-117,380,-116,380,-116,425</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>70</id>
+								<points>-242,464,-332,464,-332,344,-242,344,-242,380,-242,463</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>71</id>
+								<points>-266,299,-272,299,-279,299,-279,293,-279,292,-266,292</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>72</id>
+								<points>-272,344,-330,344,-330,301,-330,293,-294,293,-279,293,-272,293,-272,299</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>73</id>
+								<points>-294,301,-330,301,-375,301,-375,192,-338,192,-296,192,-294,192,-294,193,-294,197,-294,198,-294,293</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>74</id>
+								<points>-241,198,-294,198,-295,198,-295,197,-295,193,-294,193,-289,193,-241,193</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>75</id>
+								<points>-242,168,-253,168,-289,168,-296,168,-303,168,-326,168,-326,163,-326,162,-303,162,-242,162</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>76</id>
+								<points>-296,166,-289,166,-253,166,-253,168,-253,193,-289,193,-294,193,-295,193,-296,193,-296,192,-296,168</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>77</id>
+								<points>-289,197,-294,197,-295,197,-338,197,-338,192,-338,173,-338,163,-326,163,-303,163,-289,163,-289,166,-289,168,-289,193</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>78</id>
+								<points>-303,173,-338,173,-344,173,-344,105,-344,103,-320,103,-303,103,-303,162,-303,163,-303,168</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>79</id>
+								<points>-345,11,-320,11,-320,27,-320,103,-320,105,-344,105,-345,105,-345,27</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>80</id>
+								<points>320,-194,329,-194,348,-194,348,-131,331,-131,320,-131,320,-136,320,-182</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>81</id>
+								<points>-189,-478,186,-478,186,-463,186,-460,183,-460,-187,-460,-189,-460,-189,-464</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>82</id>
+								<points>183,-463,186,-463,187,-463,195,-463,195,-460,187,-460,186,-460,183,-460</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>83</id>
+								<points>-321,-53,-348,-53,-349,-53,-349,-122,-348,-122,-321,-122,-321,-116,-321,-102,-321,-60</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>84</id>
+								<points>21,119,44,119,69,119,69,120,69,129,67,129,41,129,21,129</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>85</id>
+								<points>41,125,67,125,67,129,67,140,41,140,41,129</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>86</id>
+								<points>44,68,117,68,117,77,117,120,69,120,44,120,44,119,44,77</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>87</id>
+								<points>22,40,41.5,40,99.5,40,119,40,119,77,117,77,44,77,22,77</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>88</id>
+								<points>99,41,99.5,40,108,23</points>
+							</occluder>
+							<occluder>
+								<id>89</id>
+								<points>108,23,118,23</points>
+							</occluder>
+							<occluder>
+								<id>90</id>
+								<points>118,23,119,40</points>
+							</occluder>
+							<occluder>
+								<id>91</id>
+								<points>95,40,80,36</points>
+							</occluder>
+							<occluder>
+								<id>92</id>
+								<points>80,36,75,28</points>
+							</occluder>
+							<occluder>
+								<id>93</id>
+								<points>75,28,68,24</points>
+							</occluder>
+							<occluder>
+								<id>94</id>
+								<points>68,24,43,23</points>
+							</occluder>
+							<occluder>
+								<id>95</id>
+								<points>43,23,41.5,40,41,45</points>
+							</occluder>
+							<occluder>
+								<id>96</id>
+								<points>-23,76,-43,76,-44,76,-48,76,-78,76,-78,41,-44,41,-23,41</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>97</id>
+								<points>-78,22,-44,22,-44,41,-44,68,-44,76,-44,81,-44,96,-78,96,-78,81,-78,76,-78,41</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>98</id>
+								<points>-96,81,-78,81,-44,81,-43,81,-43,97,-96,97</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>99</id>
+								<points>-43,81,-44,81,-48,81,-48,76,-48,68,-44,68,-43,68,-43,76</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>100</id>
+								<points>-23,127,-43,127,-58,127,-58,122,-43,122,-23,122</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>101</id>
+								<points>-58,97,-43,97,-43,122,-43,127,-58,127,-58,122</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>102</id>
+								<points>22,232,43,232,93,232,107,232,108,232,108,233,108,238,108,248,107,248,93,248,22,248</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>103</id>
+								<points>107,274,93,274,93,248,93,233,93,232,93,228,107,228,107,232,107,233,107,238,107,248</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>104</id>
+								<points>43,182,53.5,182,95.8,182,133,182,133,233,108,233,107,233,93,233,43,233,43,232</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>105</id>
+								<points>133,238,108,238,107,238,97,238,97,233,107,233,108,233,133,233</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>106</id>
+								<points>133,182,105,182,105,163,133,163</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>107</id>
+								<points>91,192,95.8,182,105,163</points>
+							</occluder>
+							<occluder>
+								<id>108</id>
+								<points>43,182,44,179</points>
+							</occluder>
+							<occluder>
+								<id>109</id>
+								<points>44,179,53.5,182,85,192</points>
+							</occluder>
+							<occluder>
+								<id>110</id>
+								<points>85,192,91,192</points>
+							</occluder>
+							<occluder>
+								<id>111</id>
+								<points>-23,247,-96,247,-98,247,-98,241,-98,231,-23,231</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>112</id>
+								<points>-98,247,-96,247,-92,247,-92,275,-98,275,-98,258</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>113</id>
+								<points>-96,258,-98,258,-114,258,-114,241,-98,241,-96,241,-96,247</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>114</id>
+								<points>-98,162,-43,162,-43,231,-98,231,-98,178,-98,166</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>115</id>
+								<points>-43,162,-58,162,-58,127,-43,127</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>116</id>
+								<points>-198,191,-188,191,-163,191,-163,198,-188,198,-198,198</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>117</id>
+								<points>-198,162,-98,162,-98,166,-98,169,-163,169,-188,169,-198,169</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>118</id>
+								<points>-163,198,-188,198,-188,191,-188,178,-188,169,-188,166,-163,166,-163,169,-163,178,-163,191</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>119</id>
+								<points>-188,166,-163,166,-98,166,-87,166,-87,178,-98,178,-163,178,-188,178,-188,169</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>120</id>
+								<points>-145,258,-163,258,-187,258,-187,242,-163,242,-145,242</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>121</id>
+								<points>-188,198,-163,198,-163,242,-163,258,-187,258,-188,258</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>122</id>
+								<points>-235,292,-187,292,-173,292,-173,298,-187,298,-235,298</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>123</id>
+								<points>-142,357,-172,357,-217,357,-217,352,-172,352,-142,352</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>124</id>
+								<points>-217,342,-172,342,-172,352,-172,357,-217,357,-217,352</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>125</id>
+								<points>-172,342,-187,342,-187,298,-187,292,-187,258,-172,258</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>126</id>
+								<points>24,-21,-23,-21,-23,-22,-23,-38,24,-38</points>
+								<toggleable />
+								<hidden />
+								<closed />
+							</occluder>
+							<occluder>
+								<id>127</id>
+								<points>24,-38,-23,-38,-23,-59,24,-59</points>
+								<toggleable />
+								<hidden />
+								<single_sided />
+								<terrain />
+								<allow_move />
+								<closed />
+								<counterclockwise />
+							</occluder>
+							<occluder>
+								<id>128</id>
+								<points>-23,67,22,67,22,76,-23,76</points>
+								<toggleable />
+								<hidden />
+								<closed />
+							</occluder>
+							<occluder>
+								<id>129</id>
+								<points>22,67,-23,67,-23,45,22,45</points>
+								<toggleable />
+								<hidden />
+								<single_sided />
+								<terrain />
+								<allow_move />
+								<closed />
+								<counterclockwise />
+							</occluder>
+							<occluder>
+								<id>130</id>
+								<points>208,328,204,328,204,327,208,327</points>
+								<closed />
+							</occluder>
+							<occluder>
+								<id>131</id>
+								<points>-142,352,-117,352,-117,353,-117,357,-142,357</points>
+								<toggleable />
+								<hidden />
+								<closed />
+							</occluder>
+							<occluder>
+								<id>132</id>
+								<points>-242,344,-217,344,-217,349,-242,349</points>
+								<toggleable />
+								<hidden />
+								<closed />
+							</occluder>
+							<occluder>
+								<id>133</id>
+								<points>-263,-351,-236,-351,-236,-343,-263,-343</points>
+								<toggleable />
+								<hidden />
+								<closed />
+							</occluder>
+						</occluders>
+						<lights>
+							<light>
+								<id>0</id>
+								<position>60,-212</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>1</id>
+								<position>-60,-211</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>2</id>
+								<position>-21,-169</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>3</id>
+								<position>19,-169</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>4</id>
+								<position>149,-28</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>5</id>
+								<position>149,26</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>6</id>
+								<position>149,98</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>7</id>
+								<position>149,140</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>8</id>
+								<position>291,375</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>9</id>
+								<position>120,308</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>10</id>
+								<position>120,276</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>11</id>
+								<position>-210,-181</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>12</id>
+								<position>-270,-181</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>13</id>
+								<position>-243,-71</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>14</id>
+								<position>-195,-71</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>15</id>
+								<position>-260,13</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>16</id>
+								<position>-111,37</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>17</id>
+								<position>-26,-9</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>18</id>
+								<position>32,-9</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>19</id>
+								<position>-180,106</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>20</id>
+								<position>-259,107</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>21</id>
+								<position>38,372</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>22</id>
+								<position>-42,375</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>23</id>
+								<position>-178,13</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>24</id>
+								<position>203,212</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>25</id>
+								<position>285,257</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>26</id>
+								<position>205,-327</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>27</id>
+								<position>201,-321</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>28</id>
+								<position>213,-288</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>29</id>
+								<position>194,-251</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>30</id>
+								<position>210,-209</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>31</id>
+								<position>268,-210</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>32</id>
+								<position>216,-129</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>33</id>
+								<position>264,-129</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>34</id>
+								<position>302,-71</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>35</id>
+								<position>301,9</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>0.25</animspeed>
+							</light>
+							<light>
+								<id>36</id>
+								<position>246,117</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>37</id>
+								<position>280,117</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>38</id>
+								<position>154,362</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>39</id>
+								<position>78,365</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>40</id>
+								<position>78,358</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>41</id>
+								<position>79,323</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>42</id>
+								<position>79,313</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>43</id>
+								<position>74,310</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>44</id>
+								<position>20,330</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>45</id>
+								<position>14,329</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>46</id>
+								<position>18,326</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>47</id>
+								<position>-15,326</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>48</id>
+								<position>-21,330</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>49</id>
+								<position>76,410</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>50</id>
+								<position>62,411</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>51</id>
+								<position>59,407</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>52</id>
+								<position>56,412</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>53</id>
+								<position>-55,410</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>54</id>
+								<position>-60,410</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>55</id>
+								<position>-74,408</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>56</id>
+								<position>-77,407</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>57</id>
+								<position>-82,410</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>58</id>
+								<position>-75,413</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>59</id>
+								<position>-81,374</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>60</id>
+								<position>-83,369</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>61</id>
+								<position>-82,358</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>62</id>
+								<position>-83,324</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>63</id>
+								<position>-82,319</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>64</id>
+								<position>-158,333</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>65</id>
+								<position>-156,282</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>66</id>
+								<position>-198,278</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>67</id>
+								<position>-202,281</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>68</id>
+								<position>-197,284</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>69</id>
+								<position>-206,234</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>70</id>
+								<position>-215,231</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>71</id>
+								<position>-203,214</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>72</id>
+								<position>-197,209</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>73</id>
+								<position>-276,252</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>74</id>
+								<position>-279,248</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>75</id>
+								<position>-278,241</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>76</id>
+								<position>-198,259</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>77</id>
+								<position>-197,181</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>78</id>
+								<position>-244,179</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>79</id>
+								<position>-151,191</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>80</id>
+								<position>-109,151</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>81</id>
+								<position>-214,-309</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>82</id>
+								<position>-282,-321</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>83</id>
+								<position>-288,-270</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>84</id>
+								<position>-282,-259</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>85</id>
+								<position>130,-191</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+						</lights>
+					</layer>
+					<layer>
+						<name>Lights</name>
+						<id>1</id>
+						<parentid>-32</parentid>
+						<type>image</type>
+						<bitmap />
+						<lights>
+							<light>
+								<id>0</id>
+								<position>-28,218</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+							<light>
+								<id>1</id>
+								<position>29,218</position>
+								<range>1,0.75,2,0.5</range>
+								<color>#FFFFFCC3</color>
+								<on />
+								<animtype>1</animtype>
+								<animspeed>1</animspeed>
+							</light>
+						</lights>
+					</layer>
+					<layer>
+						<name>Lights</name>
+						<id>2</id>
+						<parentid>-31</parentid>
+						<type>image</type>
+						<bitmap />
+						<lights>
+							<light>
+								<id>0</id>
+								<position>-112,-416</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+							</light>
+							<light>
+								<id>1</id>
+								<position>104,-417</position>
+								<range>4,0.75,8,0.5</range>
+								<color>#FFFFF3E1</color>
+								<on />
+							</light>
+						</lights>
+					</layer>
+					<layer>
+						<name>3. Corridor</name>
+						<id>3</id>
+						<parentid>-30</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00012@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,61,-161,0,1</matrix>
+					</layer>
+					<layer>
+						<name>4. Barracks</name>
+						<id>4</id>
+						<parentid>-29</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00014@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,244,-39,0,1</matrix>
+					</layer>
+					<layer>
+						<name>5. Mess Hall/ Kitchen</name>
+						<id>5</id>
+						<parentid>-28</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00013@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,216,123,0,1</matrix>
+					</layer>
+					<layer>
+						<name>portrait_id-00024_token</name>
+						<id>6</id>
+						<parentid>-1</parentid>
+						<type>token</type>
+						<token>
+							<name>Lucien Merrow</name>
+							<prototype>portrait_id-00024_token</prototype>
+							<prototype3Dflat />
+							<id>23</id>
+							<publicedit />
+							<publicvision />
+							<fowenabled />
+							<color>#FF56B33F</color>
+							<owner>aceunit</owner>
+							<visibility>visible</visibility>
+							<fow>
+								<points>187.1,-460,187.1,-417.4,162.1,-419,162.1,-216.9,83,-216.9,83,-197.9,41.5,-197.9,37,-217.9,23,-217.9,23,-182.9,28.9,-138.9,24,-138.9,24,-38,-23,-38,-23,-138.9,-24,-138.9,-22,-180.8,-22,-217.9,-38,-217.9,-40.7,-197.9,-82,-197.9,-82,-215.9,-164.1,-215.9,-164.1,-230.6,-163.1,-231.9,-163.1,-238.9,-164.1,-238.9,-164.1,-420,-216.7,-420,-187.1,-421.4,-187.1,-460,182.8,-460</points>
+							</fow>
+							<visions>
+								<vision>
+									<on />
+									<id>0</id>
+									<visiontype>0</visiontype>
+									<range>12,0.75,12,0.5</range>
+								</vision>
+							</visions>
+						</token>
+						<matrix>0.16,-4.768372E-08,0,0,4.768372E-08,0.16,0,0,0,0,0,0,-10,-430,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.03a Eastern Corridor</name>
+						<id>7</id>
+						<parentid>-11</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00023@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,140,1,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.03a Eastern Corridor</name>
+						<id>8</id>
+						<parentid>-10</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00023@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,99,141,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.03b Northern Corridor</name>
+						<id>9</id>
+						<parentid>-9</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00053@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-101,60,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.03 Southern Corridor</name>
+						<id>10</id>
+						<parentid>-8</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00012@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-218,-80,0,1</matrix>
+					</layer>
+					<layer>
+						<id>11</id>
+						<parentid>-27</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00015@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,238,-243,0,1</matrix>
+					</layer>
+					<layer>
+						<id>12</id>
+						<parentid>-26</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00017@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-243,-168,0,1</matrix>
+					</layer>
+					<layer>
+						<id>13</id>
+						<parentid>-25</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00016@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-218,57,0,1</matrix>
+					</layer>
+					<layer>
+						<name>9.</name>
+						<id>14</id>
+						<parentid>-24</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00018@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-238,247,0,1</matrix>
+					</layer>
+					<layer>
+						<name>10.</name>
+						<id>15</id>
+						<parentid>-23</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00019@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-233,316,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.03a Eastern Corridor</name>
+						<id>16</id>
+						<parentid>-12</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00023@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,195,-160,0,1</matrix>
+					</layer>
+					<layer>
+						<name>2. Entrance</name>
+						<id>17</id>
+						<parentid>-22</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00011@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-3,-238,0,1</matrix>
+					</layer>
+					<layer>
+						<name>8a. </name>
+						<id>18</id>
+						<parentid>-21</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00021@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-97,129,0,1</matrix>
+					</layer>
+					<layer>
+						<name>7a.</name>
+						<id>19</id>
+						<parentid>-20</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00022@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-253,-299,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.03 Southern Corridor</name>
+						<id>20</id>
+						<parentid>-7</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00012@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-81,-160,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.10</name>
+						<id>21</id>
+						<parentid>-19</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00020@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,1,305,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.10a</name>
+						<id>22</id>
+						<parentid>-18</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00024@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,151,311,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.10b</name>
+						<id>23</id>
+						<parentid>-17</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00025@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-129,256,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.10c</name>
+						<id>24</id>
+						<parentid>-16</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00026@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,1,171,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.07b Sewer</name>
+						<id>25</id>
+						<parentid>-15</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00027@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-251,-396,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.05a Kitchen</name>
+						<id>26</id>
+						<parentid>-5</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00146@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,258,251,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.09b Secret Entrance</name>
+						<id>27</id>
+						<parentid>-14</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00028@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,-179,366,0,1</matrix>
+					</layer>
+					<layer>
+						<name>portrait_id-00033_token</name>
+						<id>28</id>
+						<parentid>-4</parentid>
+						<type>token</type>
+						<token>
+							<name>Talia Vexmere</name>
+							<prototype>portrait_id-00033_token</prototype>
+							<prototype3Dflat />
+							<id>2</id>
+							<publicedit />
+							<publicvision />
+							<fowenabled />
+							<color>#FF56B33F</color>
+							<owner>motamorris</owner>
+							<visibility>visible</visibility>
+							<fow>
+								<points>187.1,-460,187.1,-413.1,162.1,-419,162.1,-216.9,83,-216.9,83,-197.9,37.6,-197.9,37,-217.9,23,-217.9,24,-38,-23,-38,-23,-138.9,-35.8,-138.9,-22,-180.9,-22,-217.9,-38,-217.9,-43,-197.9,-82.1,-197.9,-82.1,-215.9,-164.1,-215.9,-164.1,-231.4,-163.1,-232,-163.1,-238.9,-164.1,-238.9,-164.1,-420,-216.3,-420,-187.1,-423.7,-187.1,-460.1,-186.9,-460,187.1,-460.1</points>
+							</fow>
+							<visions>
+								<vision>
+									<on />
+									<ignoredark />
+									<id>0</id>
+									<visiontype>1</visiontype>
+									<range>2,0.75,2,0.5</range>
+								</vision>
+							</visions>
+						</token>
+						<matrix>0.16,-4.768372E-08,0,0,4.768372E-08,0.16,0,0,0,0,0,0,30,-450,0,1</matrix>
+					</layer>
+					<layer>
+						<name>portrait_id-00031_token</name>
+						<id>29</id>
+						<parentid>-3</parentid>
+						<type>token</type>
+						<token>
+							<name>Theryn Moondrift</name>
+							<prototype>portrait_id-00031_token</prototype>
+							<prototype3Dflat />
+							<id>3</id>
+							<publicedit />
+							<publicvision />
+							<fowenabled />
+							<color>#FF56B33F</color>
+							<visibility>visible</visibility>
+							<fow>
+								<points>187.1,-460,187.1,-414.2,162.1,-419,162.1,-216.8,162,-216.9,83,-216.9,83,-197.9,37.8,-197.9,37,-217.9,23,-217.9,23.2,-180.9,26.8,-138.9,24,-138.9,24,-38,-23,-38,-23,-138.9,-33,-138.9,-22,-180.9,-22,-217.9,-38,-217.9,-41.3,-197.9,-82.1,-197.9,-82.1,-215.9,-164.1,-215.9,-164.1,-231.2,-163.1,-232,-163.1,-238.9,-164.1,-238.9,-164.1,-420,-216.5,-420,-187.1,-424,-187.1,-460.1,-186.9,-460,186.8,-460,187.1,-460.1</points>
+							</fow>
+							<visions>
+								<vision>
+									<on />
+									<id>0</id>
+									<visiontype>0</visiontype>
+									<range>12,0.75,12,0.5</range>
+								</vision>
+							</visions>
+						</token>
+						<matrix>0.16,-4.768372E-08,0,0,4.768372E-08,0.16,0,0,0,0,0,0,10,-430,0,1</matrix>
+					</layer>
+					<layer>
+						<name>portrait_id-00032_token</name>
+						<id>30</id>
+						<parentid>-2</parentid>
+						<type>token</type>
+						<token>
+							<name>Hruk the Silent</name>
+							<prototype>portrait_id-00032_token</prototype>
+							<prototype3Dflat />
+							<id>4</id>
+							<publicedit />
+							<publicvision />
+							<fowenabled />
+							<color>#FF56B33F</color>
+							<visibility>visible</visibility>
+							<fow>
+								<points>187.1,-460,187.1,-415,162.1,-419,162.1,-216.8,162,-216.9,83.1,-216.9,83.1,-200.9,83,-198,83.1,-197.9,42.8,-197.9,37,-217.9,23,-217.9,23,-182.9,36,-138.9,24,-138.9,24,-38,-23,-38,-23,-138.9,-24.5,-138.9,-22,-180.9,-22,-217.9,-38,-217.9,-38,-197.9,-82,-197.9,-82,-215.9,-164.1,-215.9,-164.1,-231,-163.2,-231.8,-163.1,-232,-163.1,-238.9,-164.1,-238.9,-164.1,-420,-186.9,-420,-187.1,-419.9,-187.1,-420,-216.2,-420,-187.1,-424.9,-187.1,-460</points>
+							</fow>
+							<visions>
+								<vision>
+									<on />
+									<id>0</id>
+									<visiontype>0</visiontype>
+									<range>24,0.75,24,0.5</range>
+								</vision>
+							</visions>
+						</token>
+						<matrix>0.16,-4.768372E-08,0,0,4.768372E-08,0.16,0,0,0,0,0,0,-30,-450,0,1</matrix>
+					</layer>
+					<layer>
+						<name>1.03b Northern Corridor</name>
+						<id>32</id>
+						<parentid>-13</parentid>
+						<type>shortcut</type>
+						<shortcut>
+							<class>encounter</class>
+							<record>encounter.id-00053@(X)Battlegrounds</record>
+						</shortcut>
+						<matrix>1,0,0,0,0,1,0,0,0,0,1,0,56,0,0,1</matrix>
+					</layer>
+					<layer>
+						<name>Death Markers</name>
+						<id>36</id>
+						<parentid>-6</parentid>
+						<type>paint</type>
+						<strokes>
+							<stroke>
+								<id>0</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_03.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>-90,-370</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>1</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_02.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>-110,-391</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>2</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_11.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>-130,-370</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>3</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_04.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>-110,-250</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>4</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_02.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>-170,-130</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>5</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_14.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>-90,-150</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>6</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_07.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>-149,-168</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>7</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_04.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>230,-170,133,-150</points>
+										<sizes>20,20,20,20</sizes>
+										<angles>0,0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>8</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_09.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>130,-190,150,-170</points>
+										<sizes>20,20,20,20</sizes>
+										<angles>0,0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>9</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_15.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>250,-230,270,-10</points>
+										<sizes>20,20,20,20</sizes>
+										<angles>0,0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>10</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_17.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>290,-50</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>11</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_14.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>250,-70</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>12</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_16.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>270,-30</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>13</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_09.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>230,-30</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>14</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_10.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>250,-30</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>15</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_11.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>230,150</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>16</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_02.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>132,108</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>17</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_01.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>190,130</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>18</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_16.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>172,108</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>19</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_02.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>210,130</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+							<stroke>
+								<id>20</id>
+								<type>stamp</type>
+								<bitmap>images/Death Markers/blood/blood_07.png@SmiteWorks Assets</bitmap>
+								<size>20,20</size>
+								<color>#FF800000</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>210,110</points>
+										<sizes>20,20</sizes>
+										<angles>0</angles>
+									</path>
+								</paths>
+							</stroke>
+						</strokes>
+					</layer>
+				</layers>
+			</image>
+		</id-00005>
+	</image>
+	<npc>
+		<id-00020>
+			<spellslots>
+				<level1 type="number">0</level1>
+				<level2 type="number">0</level2>
+				<level3 type="number">0</level3>
+				<level4 type="number">0</level4>
+				<level5 type="number">0</level5>
+				<level6 type="number">0</level6>
+				<level7 type="number">0</level7>
+				<level8 type="number">0</level8>
+				<level9 type="number">0</level9>
+			</spellslots>
+		</id-00020>
+	</npc>
+</root>

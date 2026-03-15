@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<reference>
+		<refmanualdata>
+			<refpage_foreword>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</refpage_foreword>
+			<refpage_tombofannihilation>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</refpage_tombofannihilation>
+		</refmanualdata>
+	</reference>
+</root>

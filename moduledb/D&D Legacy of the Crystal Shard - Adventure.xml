@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<item>
+		<category name="Legacy of the Crystal Shard - Items">
+			<id-00001>
+				<isidentified type="deleted" />
+			</id-00001>
+			<id-00002>
+				<isidentified type="deleted" />
+			</id-00002>
+			<id-00003>
+				<isidentified type="deleted" />
+			</id-00003>
+			<id-00004>
+				<isidentified type="deleted" />
+			</id-00004>
+			<id-00005>
+				<isidentified type="deleted" />
+			</id-00005>
+			<id-00006>
+				<isidentified type="deleted" />
+			</id-00006>
+			<id-00007>
+				<isidentified type="deleted" />
+			</id-00007>
+			<id-00008>
+				<isidentified type="deleted" />
+			</id-00008>
+		</category>
+	</item>
+	<treasureparcels>
+		<category name="Legacy of the Crystal Shard - Parcels">
+			<id-00002>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00002>
+			<id-00003>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00003>
+			<id-00004>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00004>
+			<id-00007>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00007>
+			<id-00008>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00008>
+			<id-00009>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00009>
+			<id-00010>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00010>
+			<id-00011>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00011>
+			<id-00012>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00012>
+			<id-00013>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00013>
+			<id-00014>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00014>
+			<id-00015>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00015>
+			<id-00016>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00016>
+			<id-00017>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00017>
+			<id-00018>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00018>
+			<id-00019>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00019>
+			<id-00020>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00020>
+			<id-00021>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00021>
+			<id-00022>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00022>
+			<id-00023>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+					<id-00002>
+						<isidentified type="deleted" />
+					</id-00002>
+				</itemlist>
+			</id-00023>
+			<id-00024>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+				</itemlist>
+			</id-00024>
+			<id-00025>
+				<itemlist>
+					<id-00001>
+						<isidentified type="deleted" />
+					</id-00001>
+					<id-00002>
+						<isidentified type="deleted" />
+					</id-00002>
+				</itemlist>
+			</id-00025>
+		</category>
+	</treasureparcels>
+</root>

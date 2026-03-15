@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hotkeys version="5.1" dataversion="20260124">
+	<bank number="0">
+		<key number="0">
+			<data>
+				<type>dice</type>
+				<slot number="0">
+					<dice>d20+d4</dice>
+					<diedata>
+						<type>d20</type>
+						<sets />
+					</diedata>
+					<diedata>
+						<type>d4</type>
+						<sets />
+					</diedata>
+				</slot>
+			</data>
+		</key>
+		<key number="1">
+			<data>
+				<type>string</type>
+				<slot number="0">
+					<string>/roll d3+12</string>
+				</slot>
+			</data>
+		</key>
+		<key number="2">
+			<data>
+				<type>string</type>
+				<slot number="0">
+					<string>/roll d4+7</string>
+				</slot>
+			</data>
+		</key>
+		<key number="3">
+			<data>
+				<type>string</type>
+				<slot number="0">
+					<string>/roll d51+49</string>
+				</slot>
+			</data>
+		</key>
+		<key number="4">
+			<data>
+				<type>string</type>
+				<slot number="0">
+					<string>/roll d401+99</string>
+				</slot>
+			</data>
+		</key>
+		<key number="5">
+			<data>
+				<type>string</type>
+				<slot number="0">
+					<string>/roll d4501+499</string>
+				</slot>
+			</data>
+		</key>
+	</bank>
+	<bank number="1" />
+	<bank number="2">
+		<key number="11">
+			<data>
+				<type>string</type>
+				<slot number="0">
+					<string>/reload</string>
+				</slot>
+			</data>
+		</key>
+	</bank>
+	<bank number="3" />
+	<bank number="4">
+		<key number="8">
+			<description>Book - D&amp;D Princes of the Apocalypse</description>
+			<icon>button_link</icon>
+			<dbref>reference.refmanualindex@DD Princes of the Apocalypse</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>reference_manual</class>
+						<datasource>reference.refmanualindex@DD Princes of the Apocalypse</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="9">
+			<description>Book - D&amp;D Dragon of Icespire Peak</description>
+			<icon>button_link</icon>
+			<dbref>reference.refmanualindex@DD Dragon of Icespire Peak</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>reference_manual</class>
+						<datasource>reference.refmanualindex@DD Dragon of Icespire Peak</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="10">
+			<description>Book - D&amp;D Lost Mine of Phandelver</description>
+			<icon>button_link</icon>
+			<dbref>reference.refmanualindex@DD Lost Mine of Phandelver</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>reference_manual</class>
+						<datasource>reference.refmanualindex@DD Lost Mine of Phandelver</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+		<key number="11">
+			<description>Story: #Sound Control</description>
+			<icon>button_link_story</icon>
+			<dbref>encounter.id-00059</dbref>
+			<data>
+				<type>shortcut</type>
+				<slot number="0">
+					<shortcut>
+						<class>encounter</class>
+						<datasource>encounter.id-00059</datasource>
+					</shortcut>
+				</slot>
+			</data>
+		</key>
+	</bank>
+	<bank number="5" />
+	<bank number="6" />
+	<bank number="7" />
+</hotkeys>

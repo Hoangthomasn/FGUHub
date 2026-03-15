@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<item>
+		<id-00083 type="deleted" />
+		<id-00101 type="deleted" />
+		<id-00112 type="deleted" />
+		<id-00114 type="deleted" />
+		<id-00122 type="deleted" />
+		<id-00127 type="deleted" />
+		<id-00131 type="deleted" />
+		<id-00132 type="deleted" />
+		<id-00133 type="deleted" />
+		<id-00139 type="deleted" />
+		<id-00165 type="deleted" />
+		<id-00174 type="deleted" />
+		<id-00175 type="deleted" />
+		<id-00177 type="deleted" />
+		<id-00224 type="deleted" />
+		<id-00225 type="deleted" />
+		<id-00298 type="deleted" />
+		<id-00302 type="deleted" />
+		<id-00306 type="deleted" />
+		<id-00307 type="deleted" />
+		<id-00308 type="deleted" />
+		<id-00326 type="deleted" />
+		<id-00333 type="deleted" />
+		<id-00345 type="deleted" />
+		<id-00347 type="deleted" />
+		<id-00131>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<weight type="number">0</weight>
+			<width type="number">0</width>
+		</id-00131>
+		<category name="Alchemy Items">
+			<id-00001>
+				<isidentified type="deleted" />
+			</id-00001>
+			<id-00003>
+				<isidentified type="deleted" />
+			</id-00003>
+			<id-00004>
+				<isidentified type="deleted" />
+			</id-00004>
+			<id-00005>
+				<isidentified type="deleted" />
+			</id-00005>
+			<id-00006>
+				<isidentified type="deleted" />
+			</id-00006>
+			<id-00007>
+				<isidentified type="deleted" />
+			</id-00007>
+			<id-00008>
+				<isidentified type="deleted" />
+			</id-00008>
+			<id-00009>
+				<isidentified type="deleted" />
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<contentsvolume type="number">0</contentsvolume>
+				<depth type="number">0</depth>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<volume type="number">0</volume>
+				<width type="number">0</width>
+			</id-00009>
+			<id-00010>
+				<isidentified type="deleted" />
+			</id-00010>
+			<id-00011>
+				<isidentified type="deleted" />
+			</id-00011>
+			<id-00012>
+				<isidentified type="deleted" />
+			</id-00012>
+			<id-00014>
+				<isidentified type="deleted" />
+			</id-00014>
+			<id-00015>
+				<isidentified type="deleted" />
+			</id-00015>
+			<id-00016>
+				<isidentified type="deleted" />
+			</id-00016>
+			<id-00019>
+				<isidentified type="deleted" />
+			</id-00019>
+			<id-00020>
+				<isidentified type="deleted" />
+			</id-00020>
+			<id-00021>
+				<isidentified type="deleted" />
+			</id-00021>
+			<id-00022>
+				<isidentified type="deleted" />
+			</id-00022>
+			<id-00023>
+				<isidentified type="deleted" />
+			</id-00023>
+			<id-00024>
+				<isidentified type="deleted" />
+			</id-00024>
+			<id-00025>
+				<isidentified type="deleted" />
+			</id-00025>
+			<id-00026>
+				<isidentified type="deleted" />
+			</id-00026>
+			<id-00027>
+				<isidentified type="deleted" />
+			</id-00027>
+			<id-00028>
+				<isidentified type="deleted" />
+			</id-00028>
+			<id-00029>
+				<isidentified type="deleted" />
+			</id-00029>
+			<id-00030>
+				<isidentified type="deleted" />
+			</id-00030>
+			<id-00031>
+				<isidentified type="deleted" />
+			</id-00031>
+			<id-00032>
+				<isidentified type="deleted" />
+			</id-00032>
+			<id-00033>
+				<isidentified type="deleted" />
+			</id-00033>
+			<id-00034>
+				<isidentified type="deleted" />
+			</id-00034>
+			<id-00035>
+				<isidentified type="deleted" />
+			</id-00035>
+			<id-00036>
+				<isidentified type="deleted" />
+			</id-00036>
+			<id-00037>
+				<isidentified type="deleted" />
+			</id-00037>
+			<id-00040>
+				<isidentified type="deleted" />
+			</id-00040>
+			<id-00041>
+				<isidentified type="deleted" />
+			</id-00041>
+			<id-00042>
+				<isidentified type="deleted" />
+			</id-00042>
+			<id-00043>
+				<isidentified type="deleted" />
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<contentsvolume type="number">0</contentsvolume>
+				<depth type="number">0</depth>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<volume type="number">0</volume>
+				<width type="number">0</width>
+			</id-00043>
+			<id-00044>
+				<isidentified type="deleted" />
+			</id-00044>
+			<id-00045>
+				<isidentified type="deleted" />
+			</id-00045>
+			<id-00046>
+				<isidentified type="deleted" />
+			</id-00046>
+			<id-00047>
+				<isidentified type="deleted" />
+			</id-00047>
+			<id-00048>
+				<isidentified type="deleted" />
+			</id-00048>
+			<id-00049>
+				<isidentified type="deleted" />
+			</id-00049>
+			<id-00050>
+				<isidentified type="deleted" />
+			</id-00050>
+			<id-00051>
+				<isidentified type="deleted" />
+			</id-00051>
+			<id-00052>
+				<isidentified type="deleted" />
+			</id-00052>
+			<id-00053>
+				<isidentified type="deleted" />
+			</id-00053>
+			<id-00054>
+				<isidentified type="deleted" />
+			</id-00054>
+			<id-00055>
+				<isidentified type="deleted" />
+			</id-00055>
+			<id-00056>
+				<isidentified type="deleted" />
+			</id-00056>
+			<id-00057>
+				<isidentified type="deleted" />
+			</id-00057>
+			<id-00058>
+				<isidentified type="deleted" />
+			</id-00058>
+			<id-00059>
+				<isidentified type="deleted" />
+			</id-00059>
+			<id-00060>
+				<isidentified type="deleted" />
+			</id-00060>
+			<id-00061>
+				<isidentified type="deleted" />
+			</id-00061>
+			<id-00062>
+				<isidentified type="deleted" />
+			</id-00062>
+			<id-00063>
+				<isidentified type="deleted" />
+			</id-00063>
+			<id-00064>
+				<isidentified type="deleted" />
+			</id-00064>
+			<id-00066>
+				<isidentified type="deleted" />
+			</id-00066>
+			<id-00067>
+				<isidentified type="deleted" />
+			</id-00067>
+			<id-00068>
+				<isidentified type="deleted" />
+			</id-00068>
+			<id-00069>
+				<isidentified type="deleted" />
+			</id-00069>
+			<id-00070>
+				<isidentified type="deleted" />
+			</id-00070>
+			<id-00071>
+				<isidentified type="deleted" />
+			</id-00071>
+			<id-00073>
+				<isidentified type="deleted" />
+			</id-00073>
+			<id-00074>
+				<isidentified type="deleted" />
+			</id-00074>
+			<id-00075>
+				<isidentified type="deleted" />
+			</id-00075>
+			<id-00076>
+				<isidentified type="deleted" />
+			</id-00076>
+			<id-00077>
+				<isidentified type="deleted" />
+			</id-00077>
+			<id-00078>
+				<isidentified type="deleted" />
+			</id-00078>
+			<id-00079>
+				<isidentified type="deleted" />
+			</id-00079>
+			<id-00080>
+				<isidentified type="deleted" />
+			</id-00080>
+			<id-00081>
+				<isidentified type="deleted" />
+			</id-00081>
+			<id-00082>
+				<isidentified type="deleted" />
+			</id-00082>
+			<id-00084>
+				<isidentified type="deleted" />
+			</id-00084>
+			<id-00085>
+				<isidentified type="deleted" />
+			</id-00085>
+			<id-00088>
+				<isidentified type="deleted" />
+			</id-00088>
+			<id-00089>
+				<isidentified type="deleted" />
+			</id-00089>
+		</category>
+		<category name="Brewing Items">
+			<id-00013>
+				<isidentified type="deleted" />
+			</id-00013>
+			<id-00017>
+				<isidentified type="deleted" />
+			</id-00017>
+			<id-00018>
+				<isidentified type="deleted" />
+			</id-00018>
+			<id-00038>
+				<isidentified type="deleted" />
+			</id-00038>
+			<id-00039>
+				<isidentified type="deleted" />
+			</id-00039>
+			<id-00065>
+				<isidentified type="deleted" />
+			</id-00065>
+			<id-00072>
+				<isidentified type="deleted" />
+			</id-00072>
+			<id-00086>
+				<isidentified type="deleted" />
+			</id-00086>
+			<id-00087>
+				<isidentified type="deleted" />
+			</id-00087>
+			<id-00090>
+				<isidentified type="deleted" />
+			</id-00090>
+			<id-00091>
+				<isidentified type="deleted" />
+			</id-00091>
+			<id-00092>
+				<isidentified type="deleted" />
+			</id-00092>
+			<id-00093>
+				<isidentified type="deleted" />
+			</id-00093>
+			<id-00094>
+				<isidentified type="deleted" />
+			</id-00094>
+			<id-00095>
+				<isidentified type="deleted" />
+			</id-00095>
+			<id-00096>
+				<isidentified type="deleted" />
+			</id-00096>
+			<id-00097>
+				<isidentified type="deleted" />
+			</id-00097>
+			<id-00098>
+				<isidentified type="deleted" />
+			</id-00098>
+			<id-00099>
+				<isidentified type="deleted" />
+			</id-00099>
+			<id-00100>
+				<isidentified type="deleted" />
+			</id-00100>
+			<id-00102>
+				<isidentified type="deleted" />
+			</id-00102>
+			<id-00103>
+				<isidentified type="deleted" />
+			</id-00103>
+			<id-00104>
+				<isidentified type="deleted" />
+			</id-00104>
+			<id-00105>
+				<isidentified type="deleted" />
+			</id-00105>
+			<id-00106>
+				<isidentified type="deleted" />
+			</id-00106>
+			<id-00107>
+				<isidentified type="deleted" />
+			</id-00107>
+			<id-00108>
+				<isidentified type="deleted" />
+			</id-00108>
+			<id-00109>
+				<isidentified type="deleted" />
+			</id-00109>
+			<id-00110>
+				<isidentified type="deleted" />
+			</id-00110>
+			<id-00111>
+				<isidentified type="deleted" />
+			</id-00111>
+			<id-00113>
+				<isidentified type="deleted" />
+			</id-00113>
+			<id-00115>
+				<isidentified type="deleted" />
+			</id-00115>
+			<id-00116>
+				<isidentified type="deleted" />
+			</id-00116>
+			<id-00117>
+				<isidentified type="deleted" />
+			</id-00117>
+			<id-00118>
+				<isidentified type="deleted" />
+			</id-00118>
+			<id-00119>
+				<isidentified type="deleted" />
+			</id-00119>
+			<id-00120>
+				<isidentified type="deleted" />
+			</id-00120>
+			<id-00121>
+				<isidentified type="deleted" />
+			</id-00121>
+			<id-00123>
+				<isidentified type="deleted" />
+			</id-00123>
+			<id-00124>
+				<isidentified type="deleted" />
+			</id-00124>
+			<id-00125>
+				<isidentified type="deleted" />
+			</id-00125>
+			<id-00126>
+				<isidentified type="deleted" />
+			</id-00126>
+			<id-00128>
+				<isidentified type="deleted" />
+			</id-00128>
+			<id-00129>
+				<isidentified type="deleted" />
+			</id-00129>
+			<id-00130>
+				<isidentified type="deleted" />
+			</id-00130>
+		</category>
+		<category name="Calligraphy Items">
+			<id-00135>
+				<isidentified type="deleted" />
+			</id-00135>
+			<id-00137>
+				<isidentified type="deleted" />
+			</id-00137>
+			<id-00138>
+				<isidentified type="deleted" />
+			</id-00138>
+			<id-00140>
+				<isidentified type="deleted" />
+			</id-00140>
+			<id-00141>
+				<isidentified type="deleted" />
+			</id-00141>
+			<id-00142>
+				<isidentified type="deleted" />
+			</id-00142>
+			<id-00143>
+				<isidentified type="deleted" />
+			</id-00143>
+			<id-00144>
+				<isidentified type="deleted" />
+			</id-00144>
+			<id-00145>
+				<isidentified type="deleted" />
+			</id-00145>
+			<id-00146>
+				<isidentified type="deleted" />
+			</id-00146>
+			<id-00147>
+				<isidentified type="deleted" />
+			</id-00147>
+			<id-00148>
+				<isidentified type="deleted" />
+			</id-00148>
+			<id-00149>
+				<isidentified type="deleted" />
+			</id-00149>
+			<id-00150>
+				<isidentified type="deleted" />
+			</id-00150>
+			<id-00151>
+				<isidentified type="deleted" />
+			</id-00151>
+			<id-00152>
+				<isidentified type="deleted" />
+			</id-00152>
+			<id-00153>
+				<isidentified type="deleted" />
+			</id-00153>
+			<id-00154>
+				<isidentified type="deleted" />
+			</id-00154>
+			<id-00155>
+				<isidentified type="deleted" />
+			</id-00155>
+			<id-00156>
+				<isidentified type="deleted" />
+			</id-00156>
+			<id-00157>
+				<isidentified type="deleted" />
+			</id-00157>
+			<id-00158>
+				<isidentified type="deleted" />
+			</id-00158>
+			<id-00159>
+				<isidentified type="deleted" />
+			</id-00159>
+			<id-00160>
+				<isidentified type="deleted" />
+			</id-00160>
+			<id-00161>
+				<isidentified type="deleted" />
+			</id-00161>
+			<id-00162>
+				<isidentified type="deleted" />
+			</id-00162>
+			<id-00163>
+				<isidentified type="deleted" />
+			</id-00163>
+			<id-00164>
+				<isidentified type="deleted" />
+			</id-00164>
+			<id-00166>
+				<isidentified type="deleted" />
+			</id-00166>
+			<id-00167>
+				<isidentified type="deleted" />
+			</id-00167>
+			<id-00168>
+				<isidentified type="deleted" />
+			</id-00168>
+			<id-00169>
+				<isidentified type="deleted" />
+			</id-00169>
+			<id-00170>
+				<isidentified type="deleted" />
+			</id-00170>
+			<id-00171>
+				<isidentified type="deleted" />
+			</id-00171>
+			<id-00172>
+				<isidentified type="deleted" />
+			</id-00172>
+			<id-00173>
+				<isidentified type="deleted" />
+			</id-00173>
+			<id-00176>
+				<isidentified type="deleted" />
+			</id-00176>
+			<id-00178>
+				<isidentified type="deleted" />
+			</id-00178>
+			<id-00179>
+				<isidentified type="deleted" />
+			</id-00179>
+			<id-00180>
+				<isidentified type="deleted" />
+			</id-00180>
+		</category>
+		<category name="Herbalism Items">
+			<id-00181>
+				<isidentified type="deleted" />
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<contentsvolume type="number">0</contentsvolume>
+				<depth type="number">0</depth>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<volume type="number">0</volume>
+				<width type="number">0</width>
+			</id-00181>
+			<id-00182>
+				<isidentified type="deleted" />
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<contentsvolume type="number">0</contentsvolume>
+				<depth type="number">0</depth>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<volume type="number">0</volume>
+				<width type="number">0</width>
+			</id-00182>
+			<id-00183>
+				<isidentified type="deleted" />
+			</id-00183>
+			<id-00184>
+				<isidentified type="deleted" />
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<contentsvolume type="number">0</contentsvolume>
+				<depth type="number">0</depth>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<volume type="number">0</volume>
+				<width type="number">0</width>
+			</id-00184>
+			<id-00185>
+				<isidentified type="deleted" />
+			</id-00185>
+			<id-00196>
+				<isidentified type="deleted" />
+			</id-00196>
+			<id-00197>
+				<isidentified type="deleted" />
+			</id-00197>
+			<id-00198>
+				<isidentified type="deleted" />
+			</id-00198>
+			<id-00199>
+				<isidentified type="deleted" />
+			</id-00199>
+			<id-00200>
+				<isidentified type="deleted" />
+			</id-00200>
+			<id-00201>
+				<isidentified type="deleted" />
+			</id-00201>
+			<id-00202>
+				<isidentified type="deleted" />
+			</id-00202>
+			<id-00203>
+				<isidentified type="deleted" />
+			</id-00203>
+			<id-00204>
+				<isidentified type="deleted" />
+			</id-00204>
+			<id-00205>
+				<isidentified type="deleted" />
+			</id-00205>
+			<id-00206>
+				<isidentified type="deleted" />
+			</id-00206>
+			<id-00207>
+				<isidentified type="deleted" />
+			</id-00207>
+			<id-00208>
+				<isidentified type="deleted" />
+			</id-00208>
+			<id-00209>
+				<isidentified type="deleted" />
+			</id-00209>
+			<id-00210>
+				<isidentified type="deleted" />
+			</id-00210>
+			<id-00211>
+				<isidentified type="deleted" />
+			</id-00211>
+			<id-00212>
+				<isidentified type="deleted" />
+			</id-00212>
+			<id-00213>
+				<isidentified type="deleted" />
+			</id-00213>
+			<id-00214>
+				<isidentified type="deleted" />
+			</id-00214>
+			<id-00215>
+				<isidentified type="deleted" />
+			</id-00215>
+			<id-00216>
+				<isidentified type="deleted" />
+			</id-00216>
+			<id-00217>
+				<isidentified type="deleted" />
+			</id-00217>
+			<id-00218>
+				<isidentified type="deleted" />
+			</id-00218>
+			<id-00219>
+				<isidentified type="deleted" />
+			</id-00219>
+			<id-00220>
+				<public />
+				<isidentified type="deleted" />
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<contentsvolume type="number">0</contentsvolume>
+				<depth type="number">0</depth>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<volume type="number">0</volume>
+				<width type="number">0</width>
+			</id-00220>
+			<id-00221>
+				<isidentified type="deleted" />
+			</id-00221>
+			<id-00222>
+				<isidentified type="deleted" />
+			</id-00222>
+			<id-00223>
+				<isidentified type="deleted" />
+			</id-00223>
+			<id-00226>
+				<public />
+				<isidentified type="deleted" />
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<contentsvolume type="number">0</contentsvolume>
+				<depth type="number">0</depth>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<volume type="number">0</volume>
+				<width type="number">0</width>
+			</id-00226>
+			<id-00227>
+				<isidentified type="deleted" />
+			</id-00227>
+			<id-00228>
+				<isidentified type="deleted" />
+			</id-00228>
+		</category>
+		<category name="Poisoner Items">
+			<id-00186>
+				<isidentified type="deleted" />
+			</id-00186>
+			<id-00187>
+				<isidentified type="deleted" />
+			</id-00187>
+			<id-00188>
+				<isidentified type="deleted" />
+			</id-00188>
+			<id-00189>
+				<isidentified type="deleted" />
+			</id-00189>
+			<id-00190>
+				<isidentified type="deleted" />
+			</id-00190>
+			<id-00229>
+				<isidentified type="deleted" />
+			</id-00229>
+			<id-00230>
+				<isidentified type="deleted" />
+			</id-00230>
+			<id-00231>
+				<isidentified type="deleted" />
+			</id-00231>
+			<id-00232>
+				<isidentified type="deleted" />
+			</id-00232>
+			<id-00233>
+				<isidentified type="deleted" />
+			</id-00233>
+			<id-00234>
+				<isidentified type="deleted" />
+			</id-00234>
+			<id-00235>
+				<isidentified type="deleted" />
+			</id-00235>
+			<id-00236>
+				<isidentified type="deleted" />
+			</id-00236>
+			<id-00237>
+				<isidentified type="deleted" />
+			</id-00237>
+			<id-00238>
+				<isidentified type="deleted" />
+			</id-00238>
+			<id-00239>
+				<isidentified type="deleted" />
+			</id-00239>
+			<id-00240>
+				<isidentified type="deleted" />
+			</id-00240>
+			<id-00241>
+				<isidentified type="deleted" />
+			</id-00241>
+			<id-00242>
+				<isidentified type="deleted" />
+			</id-00242>
+			<id-00243>
+				<isidentified type="deleted" />
+			</id-00243>
+			<id-00244>
+				<isidentified type="deleted" />
+			</id-00244>
+			<id-00245>
+				<isidentified type="deleted" />
+			</id-00245>
+			<id-00246>
+				<isidentified type="deleted" />
+			</id-00246>
+			<id-00247>
+				<isidentified type="deleted" />
+			</id-00247>
+			<id-00248>
+				<isidentified type="deleted" />
+			</id-00248>
+			<id-00249>
+				<isidentified type="deleted" />
+			</id-00249>
+			<id-00250>
+				<isidentified type="deleted" />
+			</id-00250>
+			<id-00251>
+				<isidentified type="deleted" />
+			</id-00251>
+			<id-00252>
+				<isidentified type="deleted" />
+			</id-00252>
+			<id-00253>
+				<isidentified type="deleted" />
+			</id-00253>
+			<id-00254>
+				<isidentified type="deleted" />
+			</id-00254>
+			<id-00255>
+				<isidentified type="deleted" />
+			</id-00255>
+			<id-00256>
+				<isidentified type="deleted" />
+			</id-00256>
+			<id-00257>
+				<isidentified type="deleted" />
+			</id-00257>
+			<id-00258>
+				<isidentified type="deleted" />
+			</id-00258>
+			<id-00259>
+				<isidentified type="deleted" />
+			</id-00259>
+			<id-00260>
+				<isidentified type="deleted" />
+			</id-00260>
+			<id-00261>
+				<isidentified type="deleted" />
+			</id-00261>
+			<id-00262>
+				<isidentified type="deleted" />
+			</id-00262>
+			<id-00263>
+				<isidentified type="deleted" />
+			</id-00263>
+			<id-00264>
+				<isidentified type="deleted" />
+			</id-00264>
+			<id-00265>
+				<isidentified type="deleted" />
+			</id-00265>
+			<id-00266>
+				<isidentified type="deleted" />
+			</id-00266>
+			<id-00267>
+				<isidentified type="deleted" />
+			</id-00267>
+			<id-00268>
+				<isidentified type="deleted" />
+			</id-00268>
+			<id-00269>
+				<isidentified type="deleted" />
+			</id-00269>
+			<id-00270>
+				<isidentified type="deleted" />
+			</id-00270>
+			<id-00271>
+				<isidentified type="deleted" />
+			</id-00271>
+			<id-00272>
+				<isidentified type="deleted" />
+			</id-00272>
+			<id-00273>
+				<isidentified type="deleted" />
+			</id-00273>
+			<id-00274>
+				<isidentified type="deleted" />
+			</id-00274>
+			<id-00275>
+				<isidentified type="deleted" />
+			</id-00275>
+			<id-00276>
+				<isidentified type="deleted" />
+			</id-00276>
+			<id-00277>
+				<isidentified type="deleted" />
+			</id-00277>
+			<id-00278>
+				<isidentified type="deleted" />
+			</id-00278>
+			<id-00279>
+				<isidentified type="deleted" />
+			</id-00279>
+			<id-00280>
+				<isidentified type="deleted" />
+			</id-00280>
+			<id-00281>
+				<isidentified type="deleted" />
+			</id-00281>
+			<id-00282>
+				<isidentified type="deleted" />
+			</id-00282>
+			<id-00283>
+				<isidentified type="deleted" />
+			</id-00283>
+			<id-00284>
+				<isidentified type="deleted" />
+			</id-00284>
+			<id-00285>
+				<isidentified type="deleted" />
+			</id-00285>
+			<id-00286>
+				<isidentified type="deleted" />
+			</id-00286>
+			<id-00287>
+				<isidentified type="deleted" />
+			</id-00287>
+			<id-00288>
+				<isidentified type="deleted" />
+			</id-00288>
+			<id-00289>
+				<isidentified type="deleted" />
+			</id-00289>
+			<id-00290>
+				<isidentified type="deleted" />
+			</id-00290>
+			<id-00291>
+				<isidentified type="deleted" />
+			</id-00291>
+			<id-00292>
+				<isidentified type="deleted" />
+			</id-00292>
+			<id-00293>
+				<isidentified type="deleted" />
+			</id-00293>
+			<id-00294>
+				<isidentified type="deleted" />
+			</id-00294>
+			<id-00295>
+				<isidentified type="deleted" />
+			</id-00295>
+			<id-00296>
+				<isidentified type="deleted" />
+			</id-00296>
+			<id-00297>
+				<isidentified type="deleted" />
+			</id-00297>
+			<id-00299>
+				<isidentified type="deleted" />
+			</id-00299>
+			<id-00300>
+				<isidentified type="deleted" />
+			</id-00300>
+			<id-00301>
+				<isidentified type="deleted" />
+			</id-00301>
+			<id-00303>
+				<isidentified type="deleted" />
+			</id-00303>
+			<id-00304>
+				<isidentified type="deleted" />
+			</id-00304>
+			<id-00305>
+				<isidentified type="deleted" />
+			</id-00305>
+		</category>
+		<category name="Tinkering Items">
+			<id-00191>
+				<isidentified type="deleted" />
+			</id-00191>
+			<id-00192>
+				<isidentified type="deleted" />
+			</id-00192>
+			<id-00193>
+				<isidentified type="deleted" />
+			</id-00193>
+			<id-00194>
+				<isidentified type="deleted" />
+			</id-00194>
+			<id-00195>
+				<isidentified type="deleted" />
+			</id-00195>
+			<id-00309>
+				<isidentified type="deleted" />
+			</id-00309>
+			<id-00310>
+				<isidentified type="deleted" />
+			</id-00310>
+			<id-00311>
+				<isidentified type="deleted" />
+			</id-00311>
+			<id-00312>
+				<isidentified type="deleted" />
+			</id-00312>
+			<id-00313>
+				<isidentified type="deleted" />
+			</id-00313>
+			<id-00314>
+				<isidentified type="deleted" />
+			</id-00314>
+			<id-00315>
+				<isidentified type="deleted" />
+			</id-00315>
+			<id-00316>
+				<isidentified type="deleted" />
+			</id-00316>
+			<id-00317>
+				<isidentified type="deleted" />
+			</id-00317>
+			<id-00318>
+				<isidentified type="deleted" />
+			</id-00318>
+			<id-00319>
+				<isidentified type="deleted" />
+			</id-00319>
+			<id-00320>
+				<isidentified type="deleted" />
+			</id-00320>
+			<id-00321>
+				<isidentified type="deleted" />
+			</id-00321>
+			<id-00322>
+				<isidentified type="deleted" />
+			</id-00322>
+			<id-00323>
+				<isidentified type="deleted" />
+			</id-00323>
+			<id-00324>
+				<isidentified type="deleted" />
+			</id-00324>
+			<id-00325>
+				<isidentified type="deleted" />
+			</id-00325>
+			<id-00327>
+				<isidentified type="deleted" />
+			</id-00327>
+			<id-00328>
+				<isidentified type="deleted" />
+			</id-00328>
+			<id-00329>
+				<isidentified type="deleted" />
+			</id-00329>
+			<id-00330>
+				<isidentified type="deleted" />
+			</id-00330>
+			<id-00331>
+				<isidentified type="deleted" />
+			</id-00331>
+			<id-00332>
+				<isidentified type="deleted" />
+			</id-00332>
+			<id-00334>
+				<isidentified type="deleted" />
+			</id-00334>
+			<id-00335>
+				<isidentified type="deleted" />
+			</id-00335>
+			<id-00336>
+				<isidentified type="deleted" />
+			</id-00336>
+			<id-00337>
+				<isidentified type="deleted" />
+			</id-00337>
+			<id-00338>
+				<isidentified type="deleted" />
+			</id-00338>
+			<id-00339>
+				<isidentified type="deleted" />
+			</id-00339>
+			<id-00340>
+				<isidentified type="deleted" />
+			</id-00340>
+			<id-00341>
+				<isidentified type="deleted" />
+			</id-00341>
+			<id-00342>
+				<isidentified type="deleted" />
+			</id-00342>
+			<id-00343>
+				<isidentified type="deleted" />
+			</id-00343>
+			<id-00344>
+				<isidentified type="deleted" />
+			</id-00344>
+			<id-00346>
+				<isidentified type="deleted" />
+			</id-00346>
+		</category>
+	</item>
+	<itemtemplate>
+		<id-00001>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">100gp</cost>
+			<description type="formattedtext">
+				<p>Casting Time: 1 action</p>
+				<p>Duration: 2 hours</p>
+				<p>Yield: 1 Pot (4 uses each)</p>
+				<p>This soothing white tea causes your mind to feel peaceful and fortified. You gain resistance to psychic damage. This effect lasts until you suffer psychic damage twice. Afterward, the tea is fully metabolized and is not present in your body.</p>
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">Bright Luminance</name>
+			<rarity type="string">Very Rare</rarity>
+			<subtype type="string">Master</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00001>
+		<id-00002>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">10gp</cost>
+			<description type="formattedtext">
+				<p>Casting Time: 1 action</p>
+				<p>Duration: 1 hour</p>
+				<p>Yield: 1 Bottle (2 uses each)</p>
+				<p>This gelatinous and flavorless juice invigorates your muscles with extra ambidexterity. You can add your ability modifier to your bonus attack if you do not normally. You cannot learn this brew.</p>
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">Octopus Jelly</name>
+			<rarity type="string">Common</rarity>
+			<subtype type="string">Novice</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00002>
+		<id-00003>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">10gp</cost>
+			<description type="formattedtext">
+				<p>Casting Time: 1 action</p>
+				<p>Duration: 1 hour</p>
+				<p>Yield: 1 Bottle (2 uses each)</p>
+				<p>This vile juice causes you to feel nauseous and blend into the background in obscurity. Your pathetic nature allows you to attempt to hide even when only lightly obscured. You cannot learn this brew.</p>
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">Shrouded Juice</name>
+			<rarity type="string">Common</rarity>
+			<subtype type="string">Novice</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00003>
+		<id-00004>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">50gp</cost>
+			<description type="formattedtext">
+				<p>Casting Time: 1 action</p>
+				<p>Duration: 1 hour</p>
+				<p>Yield: 1 bottle (4 uses each)</p>
+				<p>This earthy and gingery juice makes you feel at home with the surrounding environment. When you move through difficult terrain, you can travel at your normal pace without penalty.</p>
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">Root Juice</name>
+			<rarity type="string">Rare</rarity>
+			<subtype type="string">Advanced</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00004>
+		<id-00005>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">100gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 Master Template</name>
+			<rarity type="string">Very Rare</rarity>
+			<subtype type="string">Master</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00005>
+		<id-00006>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">50gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 Advanced Template</name>
+			<rarity type="string">Rare</rarity>
+			<subtype type="string">Advanced</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00006>
+		<id-00007>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">10gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 Novice Template</name>
+			<rarity type="string">Common</rarity>
+			<subtype type="string">Novice</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00007>
+		<id-00008>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">25gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 Intermediate Template</name>
+			<rarity type="string">Uncommon</rarity>
+			<subtype type="string">Intermediate</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00008>
+		<id-00009>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">250gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 GM Template</name>
+			<rarity type="string">Legendary</rarity>
+			<subtype type="string">Grand Master</subtype>
+			<type type="string">Brewing</type>
+			<weight type="number">0</weight>
+		</id-00009>
+		<id-00010>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">50gp</cost>
+			<description type="formattedtext">
+				<p>Advanced: 3rd level spell</p>
+				<p>Casting Time: 1 action or 1 bonus action</p>
+				<p>Duration: 1 hour</p>
+				<p>Class: Any</p>
+				<p>After reading these confusing words, the world seems to appear to be split in two. The next spell you cast that normally only targets one creature and doesn't have a range of self, can target a second creature in range with the same spell. The difficulty of the script determines the level of spell you can duplicate.</p>
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">Exceptional Duplicate Script</name>
+			<rarity type="string">Rare</rarity>
+			<subtype type="string">Advanced</subtype>
+			<type type="string">Calligraphy</type>
+			<weight type="number">0</weight>
+		</id-00010>
+		<id-00011>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">250gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 GM Template</name>
+			<rarity type="string">Legendary</rarity>
+			<subtype type="string">Grand Master</subtype>
+			<type type="string">Calligraphy</type>
+			<weight type="number">0</weight>
+		</id-00011>
+		<id-00012>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">50gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 Advanced Template</name>
+			<rarity type="string">Rare</rarity>
+			<subtype type="string">Advanced</subtype>
+			<type type="string">Calligraphy</type>
+			<weight type="number">0</weight>
+		</id-00012>
+		<id-00013>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">25gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 Intermediate Template</name>
+			<rarity type="string">Uncommon</rarity>
+			<subtype type="string">Intermediate</subtype>
+			<type type="string">Calligraphy</type>
+			<weight type="number">0</weight>
+		</id-00013>
+		<id-00014>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">100gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 Master Template</name>
+			<rarity type="string">Very Rare</rarity>
+			<subtype type="string">Master</subtype>
+			<type type="string">Calligraphy</type>
+			<weight type="number">0</weight>
+		</id-00014>
+		<id-00015>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">25gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 Intermediate Template</name>
+			<rarity type="string">Uncommon</rarity>
+			<subtype type="string">Intermediate</subtype>
+			<type type="string">Herbalism</type>
+			<weight type="number">0</weight>
+		</id-00015>
+		<id-00016>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">250gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">0 GM Template</name>
+			<rarity type="string">Legendary</rarity>
+			<subtype type="string">Grand Master</subtype>
+			<type type="string">Herbalism</type>
+			<weight type="number">0</weight>
+		</id-00016>
+		<id-00017>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">250gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">4Superior</name>
+			<rarity type="string">Very Rare</rarity>
+			<subtype type="string">Master</subtype>
+			<type type="string">Poisoner</type>
+			<weight type="number">0</weight>
+		</id-00017>
+		<id-00018>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">100gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">3Exceptional</name>
+			<rarity type="string">Rare</rarity>
+			<subtype type="string">Advanced</subtype>
+			<type type="string">Poisoner</type>
+			<weight type="number">0</weight>
+		</id-00018>
+		<id-00019>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">50gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">2Greater</name>
+			<rarity type="string">Uncommon</rarity>
+			<subtype type="string">Intermediate</subtype>
+			<type type="string">Poisoner</type>
+			<weight type="number">0</weight>
+		</id-00019>
+		<id-00020>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">25gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">1Basic</name>
+			<rarity type="string">Common</rarity>
+			<subtype type="string">Novice</subtype>
+			<type type="string">Poisoner</type>
+			<weight type="number">0</weight>
+		</id-00020>
+		<id-00021>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">500gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">5Supreme</name>
+			<rarity type="string">Legendary</rarity>
+			<subtype type="string">Grand Master</subtype>
+			<type type="string">Poisoner</type>
+			<weight type="number">0</weight>
+		</id-00021>
+		<id-00022>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">1000gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">4Master Template</name>
+			<rarity type="string">Very Rare</rarity>
+			<subtype type="string">Master</subtype>
+			<type type="string">Tinker</type>
+			<weight type="number">0</weight>
+		</id-00022>
+		<id-00023>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">50gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">1Novice Template</name>
+			<rarity type="string">Common</rarity>
+			<subtype type="string">Novice</subtype>
+			<type type="string">Tinker</type>
+			<weight type="number">0</weight>
+		</id-00023>
+		<id-00024>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">500gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">3Advanced Template</name>
+			<rarity type="string">Rare</rarity>
+			<subtype type="string">Advanced</subtype>
+			<type type="string">Tinker</type>
+			<weight type="number">0</weight>
+		</id-00024>
+		<id-00025>
+			<ac type="number">0</ac>
+			<bonus type="number">0</bonus>
+			<cost type="string">2000gp</cost>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<istemplate type="number">1</istemplate>
+			<locked type="number">1</locked>
+			<name type="string">5GM Template</name>
+			<rarity type="string">Legendary</rarity>
+			<subtype type="string">Grand Master</subtype>
+			<type type="string">Tinker</type>
+			<weight type="number">0</weight>
+		</id-00025>
+	</itemtemplate>
+	<tables>
+		<id-00007>
+			<output type="string">parcel</output>
+		</id-00007>
+		<category name="Herbalism">
+			<id-00018>
+				<output type="string">parcel</output>
+			</id-00018>
+			<id-00019>
+				<output type="string">parcel</output>
+			</id-00019>
+			<id-00020>
+				<output type="string">parcel</output>
+			</id-00020>
+			<id-00021>
+				<output type="string">parcel</output>
+			</id-00021>
+			<id-00022>
+				<output type="string">parcel</output>
+			</id-00022>
+		</category>
+	</tables>
+</root>

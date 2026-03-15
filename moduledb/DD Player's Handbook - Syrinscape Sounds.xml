@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<soundset>
+		<category name="Attack/Item Triggers">
+			<id-00096>
+				<locked type="number">1</locked>
+				<subtype type="string">attackhit</subtype>
+			</id-00096>
+			<id-00138>
+				<disabled type="number">1</disabled>
+				<locked type="number">1</locked>
+			</id-00138>
+			<id-00139>
+				<disabled type="number">1</disabled>
+				<locked type="number">1</locked>
+			</id-00139>
+			<id-00140>
+				<disabled type="number">0</disabled>
+				<locked type="number">0</locked>
+			</id-00140>
+			<id-00141>
+				<locked type="number">1</locked>
+			</id-00141>
+			<id-00163>
+				<disabled type="number">1</disabled>
+				<locked type="number">0</locked>
+			</id-00163>
+			<id-00164>
+				<disabled type="number">1</disabled>
+				<locked type="number">0</locked>
+			</id-00164>
+			<id-00165>
+				<disabled type="number">1</disabled>
+				<locked type="number">1</locked>
+			</id-00165>
+			<id-00166>
+				<disabled type="number">1</disabled>
+				<locked type="number">0</locked>
+			</id-00166>
+			<id-00167>
+				<disabled type="number">1</disabled>
+				<locked type="number">0</locked>
+			</id-00167>
+			<id-00168>
+				<disabled type="number">1</disabled>
+				<locked type="number">1</locked>
+			</id-00168>
+			<id-00169>
+				<disabled type="number">1</disabled>
+				<locked type="number">1</locked>
+			</id-00169>
+			<id-00170>
+				<disabled type="number">1</disabled>
+				<locked type="number">1</locked>
+			</id-00170>
+		</category>
+		<category name="Spells">
+			<id-00109>
+				<locked type="number">1</locked>
+			</id-00109>
+			<id-00275>
+				<disabled type="number">0</disabled>
+				<locked type="number">0</locked>
+				<subpatterns>
+					<id-00001>
+						<regex type="number">1</regex>
+					</id-00001>
+				</subpatterns>
+				<subsounds>
+					<id-00001 type="deleted" />
+					<id-00001>
+						<soundid type="string">ss|4598188|element|oneshot|TVS Eldritch Blast</soundid>
+					</id-00001>
+				</subsounds>
+			</id-00275>
+		</category>
+		<category name="Damage Triggers">
+			<id-00181>
+				<disabled type="number">1</disabled>
+				<locked type="number">0</locked>
+				<subpatterns>
+					<id-00001>
+						<regex type="number">1</regex>
+					</id-00001>
+					<id-00002>
+						<regex type="number">1</regex>
+					</id-00002>
+				</subpatterns>
+			</id-00181>
+		</category>
+	</soundset>
+</root>

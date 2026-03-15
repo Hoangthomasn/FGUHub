@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<image>
+		<category name="D&amp;D Monster Manual">
+			<img_griffon_jpg>
+				<holder name="mizvalor" />
+				<holder name="Darkshowtime" />
+				<holder name="lemon pepper" />
+				<holder name="NetherBuddah" />
+			</img_griffon_jpg>
+		</category>
+	</image>
+</root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<location>
+		<category name="Dungeon Master's Guide - Bastions">
+			<id-00036>
+				<picture type="token"></picture>
+			</id-00036>
+		</category>
+	</location>
+</root>

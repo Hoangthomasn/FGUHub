@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<reference>
+		<magicitemdata>
+			<potionofhealing>
+				<public />
+				<spells>
+					<public />
+					<id-00001>
+						<public />
+					</id-00001>
+					<id-00002>
+						<public />
+					</id-00002>
+				</spells>
+			</potionofhealing>
+		</magicitemdata>
+	</reference>
+</root>

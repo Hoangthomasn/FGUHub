@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<tables>
+		<criticalhit>
+			<dice type="dice"></dice>
+			<mod type="number">0</mod>
+			<notes type="formattedtext">
+				<p />
+			</notes>
+			<table_positionoffset type="number">0</table_positionoffset>
+			<tablerows>
+				<id-00000>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+					</results>
+				</id-00000>
+				<id-00001>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+					</results>
+				</id-00001>
+			</tablerows>
+		</criticalhit>
+		<criticalhiteffect>
+			<dice type="dice"></dice>
+			<hiderollresults type="number">0</hiderollresults>
+			<mod type="number">0</mod>
+			<notes type="formattedtext">
+				<p />
+			</notes>
+			<table_positionoffset type="number">0</table_positionoffset>
+			<tablerows>
+				<id-00000>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00000>
+				<id-00001>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00001>
+				<id-00002>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00002>
+				<id-00003>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00003>
+				<id-00004>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00004>
+				<id-00005>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00005>
+				<id-00006>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00006>
+				<id-00007>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00007>
+				<id-00008>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00008>
+				<id-00009>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00009>
+				<id-00010>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00010>
+				<id-00011>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00011>
+				<id-00012>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00012>
+				<id-00013>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00013>
+				<id-00014>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00014>
+				<id-00015>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00015>
+				<id-00016>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00016>
+				<id-00017>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00017>
+				<id-00018>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00018>
+				<id-00019>
+					<results>
+						<id-00000>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00000>
+						<id-00001>
+							<resultlink type="windowreference">
+								<class />
+								<recordname />
+							</resultlink>
+						</id-00001>
+					</results>
+				</id-00019>
+			</tablerows>
+		</criticalhiteffect>
+	</tables>
+</root>

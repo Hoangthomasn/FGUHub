@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20251111" release="9|CoreRPG:7">
+	<reference>
+		<refmanualdata>
+			<id-00002>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00002>
+			<id-00003>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00003>
+			<id-00004>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00004>
+			<id-00009>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00009>
+			<id-00010>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00010>
+			<id-00011>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00011>
+			<id-00015>
+				<blocks>
+					<id-00001>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00001>
+				</blocks>
+			</id-00015>
+		</refmanualdata>
+	</reference>
+</root>

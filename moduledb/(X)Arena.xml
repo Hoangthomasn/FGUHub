@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<item>
+		<id-00001>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00001>
+	</item>
+	<npc>
+		<id-00007>
+			<spellslots>
+				<level1 type="number">0</level1>
+				<level2 type="number">0</level2>
+				<level3 type="number">0</level3>
+				<level4 type="number">0</level4>
+				<level5 type="number">0</level5>
+				<level6 type="number">0</level6>
+				<level7 type="number">0</level7>
+				<level8 type="number">0</level8>
+				<level9 type="number">0</level9>
+			</spellslots>
+		</id-00007>
+		<id-00017>
+			<spellslots>
+				<level1 type="number">0</level1>
+				<level2 type="number">0</level2>
+				<level3 type="number">0</level3>
+				<level4 type="number">0</level4>
+				<level5 type="number">0</level5>
+				<level6 type="number">0</level6>
+				<level7 type="number">0</level7>
+				<level8 type="number">0</level8>
+				<level9 type="number">0</level9>
+			</spellslots>
+		</id-00017>
+	</npc>
+</root>

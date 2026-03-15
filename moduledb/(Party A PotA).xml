@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<encounter>
+		<id-00001 type="deleted" />
+		<id-00003 type="deleted" />
+		<id-00024 type="deleted" />
+		<id-00025 type="deleted" />
+		<category name="(Homebrew Rules)">
+			<id-00026 />
+		</category>
+	</encounter>
+</root>

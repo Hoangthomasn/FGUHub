@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<reference>
+		<refmanualdata>
+			<id-00001>
+				<blocks>
+					<id-00003>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00003>
+				</blocks>
+			</id-00001>
+			<id-00002>
+				<blocks>
+					<id-00002>
+						<button_image_scaledown type="number">0</button_image_scaledown>
+						<button_image_scaleup type="number">0</button_image_scaleup>
+					</id-00002>
+				</blocks>
+			</id-00002>
+		</refmanualdata>
+		<refmanualindex>
+			<chapters>
+				<id-00001>
+					<subchapters>
+						<id-00002>
+							<refpages>
+								<id-00001>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+										<id-00006>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00006>
+										<id-00008>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00008>
+										<id-00011>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00011>
+									</blocks>
+								</id-00001>
+								<id-00002>
+									<blocks>
+										<id-00004>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00004>
+									</blocks>
+								</id-00002>
+								<id-00003>
+									<blocks>
+										<id-00003>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00003>
+										<id-00005>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00005>
+									</blocks>
+								</id-00003>
+							</refpages>
+						</id-00002>
+						<id-00003>
+							<refpages>
+								<id-00001>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+									</blocks>
+								</id-00001>
+								<id-00002>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+									</blocks>
+								</id-00002>
+								<id-00003>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+									</blocks>
+								</id-00003>
+								<id-00004>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+									</blocks>
+								</id-00004>
+								<id-00005>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+									</blocks>
+								</id-00005>
+								<id-00006>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+									</blocks>
+								</id-00006>
+								<id-00007>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+										<id-00004>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00004>
+									</blocks>
+								</id-00007>
+								<id-00008>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+										<id-00004>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00004>
+									</blocks>
+								</id-00008>
+								<id-00009>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+									</blocks>
+								</id-00009>
+								<id-00010>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+										<id-00004>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00004>
+									</blocks>
+								</id-00010>
+							</refpages>
+						</id-00003>
+						<id-00004>
+							<refpages>
+								<id-00002>
+									<blocks>
+										<id-00002>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00002>
+										<id-00004>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00004>
+										<id-00006>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00006>
+										<id-00008>
+											<button_image_scaledown type="number">0</button_image_scaledown>
+											<button_image_scaleup type="number">0</button_image_scaleup>
+										</id-00008>
+									</blocks>
+								</id-00002>
+							</refpages>
+						</id-00004>
+					</subchapters>
+				</id-00001>
+			</chapters>
+		</refmanualindex>
+	</reference>
+</root>

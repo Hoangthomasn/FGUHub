@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<effects>
+		<id-00003 type="deleted" />
+		<id-00007>
+			<label type="string">Hide</label>
+		</id-00007>
+	</effects>
+	<encounter>
+		<category name="(1. AMy Ref tools)">
+			<id-00004>
+				<locked type="number">1</locked>
+				<name type="string">Cryovain's Location</name>
+			</id-00004>
+		</category>
+	</encounter>
+	<item>
+		<id-00002>
+			<locked type="number">1</locked>
+		</id-00002>
+		<id-00003>
+			<description type="formattedtext">
+				<p>Axebeaks possess extremely dense, mineral-rich keratin in their beaks. When properly harvested and processed, parts of the creature can be used in weapon maintenance, alchemy, and minor martial enhancements.</p>
+				<p />
+				<p>Uses</p>
+				<p>Sharpen Axes: For 24 hours, an axe (handaxe/battleaxe/greataxe) deals +1 damage on the first hit per combat and has advantage on checks to chop/breach wood. Doesn&#8217;t stack with magic weapons.</p>
+				<p />
+				<p>Track Beasts (keratin): Advantage on one Survival check to track beasts (1 hour).</p>
+				<p />
+				<p>Anti-Disarm (sinew): Advantage on the first check to resist being disarmed.</p>
+			</description>
+			<destroyon type="number">1</destroyon>
+			<dischargedice type="dice"></dischargedice>
+			<dischargerechargebonus type="number">0</dischargerechargebonus>
+			<dischargerechargedice type="dice"></dischargerechargedice>
+			<locked type="number">1</locked>
+			<name type="string">Axebeak</name>
+			<picture type="token"></picture>
+			<powergroup type="string">Spells</powergroup>
+			<powers />
+			<prepared type="number">0</prepared>
+			<rechargebonus type="number">0</rechargebonus>
+			<rechargedice type="dice"></rechargedice>
+			<rechargeon type="number">0</rechargeon>
+			<rechargesingle type="number">0</rechargesingle>
+		</id-00003>
+	</item>
+	<treasureparcels>
+		<id-00003>
+			<encumbrance>
+				<load type="number">8</load>
+			</encumbrance>
+			<hiderollresults type="number">0</hiderollresults>
+			<mapparcel_breaklockdc type="number">0</mapparcel_breaklockdc>
+			<mapparcel_picklockdc type="number">0</mapparcel_picklockdc>
+			<token type="token"></token>
+		</id-00003>
+	</treasureparcels>
+</root>

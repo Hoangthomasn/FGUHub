@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<class_specialization>
+		<id-00009>
+			<featurechoices />
+		</id-00009>
+		<id-00012>
+			<featurechoices />
+		</id-00012>
+		<id-00016>
+			<featurechoices />
+		</id-00016>
+		<id-00020>
+			<featurechoices>
+				<id-00001>
+					<repeatable type="number">0</repeatable>
+				</id-00001>
+				<id-00002>
+					<repeatable type="number">0</repeatable>
+				</id-00002>
+				<id-00004>
+					<repeatable type="number">0</repeatable>
+				</id-00004>
+				<id-00009>
+					<repeatable type="number">0</repeatable>
+				</id-00009>
+				<id-00012>
+					<repeatable type="number">0</repeatable>
+				</id-00012>
+				<id-00013>
+					<repeatable type="number">0</repeatable>
+				</id-00013>
+				<id-00018>
+					<repeatable type="number">0</repeatable>
+				</id-00018>
+				<id-00019>
+					<repeatable type="number">0</repeatable>
+				</id-00019>
+				<id-00020>
+					<repeatable type="number">0</repeatable>
+				</id-00020>
+			</featurechoices>
+		</id-00020>
+		<id-00035>
+			<featurechoices />
+		</id-00035>
+		<id-00046>
+			<featurechoices />
+		</id-00046>
+	</class_specialization>
+	<feat>
+		<id-00056>
+			<locked type="number">0</locked>
+		</id-00056>
+	</feat>
+	<item>
+		<id-00003>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00003>
+		<id-00013>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00013>
+		<id-00022>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00022>
+		<id-00024>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00024>
+		<id-00026>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00026>
+		<id-00037>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<locked type="number">0</locked>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00037>
+		<id-00038>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00038>
+		<id-00040>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00040>
+		<id-00045>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00045>
+		<id-00048>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00048>
+		<id-00049>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00049>
+		<id-00056>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00056>
+		<id-00059>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00059>
+		<id-00060>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00060>
+		<id-00062>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00062>
+		<id-00063>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00063>
+		<id-00069>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00069>
+		<id-00070>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00070>
+		<id-00071>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00071>
+		<id-00074>
+			<picture type="token"></picture>
+		</id-00074>
+		<id-00076>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00076>
+		<id-00099>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00099>
+		<id-00100>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00100>
+		<id-00101>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00101>
+		<id-00102>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00102>
+		<id-00104>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00104>
+		<id-00111>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00111>
+		<id-00112>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00112>
+		<id-00115>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<locked type="number">1</locked>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00115>
+		<id-00120>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00120>
+		<id-00123>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00123>
+		<id-00140>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00140>
+		<id-00141>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<destroyon type="number">1</destroyon>
+			<dischargedice type="dice"></dischargedice>
+			<dischargerechargebonus type="number">0</dischargerechargebonus>
+			<dischargerechargedice type="dice"></dischargerechargedice>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<powergroup type="string">Spells</powergroup>
+			<powers />
+			<prepared type="number">0</prepared>
+			<rechargebonus type="number">0</rechargebonus>
+			<rechargedice type="dice"></rechargedice>
+			<rechargeon type="number">0</rechargeon>
+			<rechargesingle type="number">0</rechargesingle>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00141>
+		<id-00143>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00143>
+		<id-00144>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00144>
+		<id-00146>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00146>
+		<id-00156>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00156>
+		<id-00160>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00160>
+		<id-00161>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00161>
+		<id-00165>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00165>
+		<id-00166>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00166>
+		<id-00175>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<picture type="token"></picture>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00175>
+		<id-00177>
+			<bonus type="number">0</bonus>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00177>
+		<id-00202>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00202>
+		<id-00210>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<weight type="number">0</weight>
+			<width type="number">0</width>
+		</id-00210>
+		<id-00229>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00229>
+		<id-00239>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<weight type="number">0</weight>
+			<width type="number">0</width>
+		</id-00239>
+		<id-00241>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00241>
+		<id-00244>
+			<locked type="number">1</locked>
+		</id-00244>
+		<id-00245>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00245>
+		<id-00246>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00246>
+		<id-00247>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00247>
+	</item>
+	<spell>
+		<bestowcurse>
+			<locked type="number">0</locked>
+		</bestowcurse>
+		<bless>
+			<locked type="number">0</locked>
+		</bless>
+		<blight>
+			<locked type="number">0</locked>
+		</blight>
+		<blindnessdeafness>
+			<locked type="number">0</locked>
+		</blindnessdeafness>
+		<counterspell>
+			<locked type="number">0</locked>
+		</counterspell>
+		<eldritchblast>
+			<holder name="lemon pepper" />
+		</eldritchblast>
+		<guidance>
+			<locked type="number">0</locked>
+		</guidance>
+		<mending>
+			<picture type="token"></picture>
+		</mending>
+		<rayofenfeeblement>
+			<locked type="number">0</locked>
+		</rayofenfeeblement>
+		<shield>
+			<locked type="number">0</locked>
+		</shield>
+	</spell>
+</root>

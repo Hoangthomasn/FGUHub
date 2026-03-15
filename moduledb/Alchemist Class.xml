@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<class_specialization>
+		<id-00001>
+			<text type="formattedtext">
+				<p />
+			</text>
+		</id-00001>
+		<id-00003>
+			<text type="formattedtext">
+				<p />
+			</text>
+		</id-00003>
+		<id-00004>
+			<text type="formattedtext">
+				<p />
+			</text>
+		</id-00004>
+	</class_specialization>
+</root>

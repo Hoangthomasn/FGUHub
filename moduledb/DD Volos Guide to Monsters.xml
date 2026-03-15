@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.8" dataversion="20241002" release="8.1|CoreRPG:7">
+	<reference>
+		<npcdata>
+			<apprenticewizard>
+				<bonusactions />
+				<damagethreshold type="number">0</damagethreshold>
+				<innatespells />
+				<lairactions />
+				<legendaryactions />
+				<reactions />
+				<spellslots>
+					<level1 type="number">0</level1>
+					<level2 type="number">0</level2>
+					<level3 type="number">0</level3>
+					<level4 type="number">0</level4>
+					<level5 type="number">0</level5>
+					<level6 type="number">0</level6>
+					<level7 type="number">0</level7>
+					<level8 type="number">0</level8>
+					<level9 type="number">0</level9>
+				</spellslots>
+			</apprenticewizard>
+		</npcdata>
+	</reference>
+	<tables>
+		<category name="Volos Guide to Monsters">
+			<tab_gautheyeray>
+				<table_positionoffset type="number">0</table_positionoffset>
+				<tablerows>
+					<id-00001>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00001>
+					<id-00002>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00002>
+					<id-00003>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00003>
+					<id-00004>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00004>
+					<id-00005>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00005>
+					<id-00006>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00006>
+				</tablerows>
+			</tab_gautheyeray>
+			<tab_koboldinventorweaponinvention>
+				<table_positionoffset type="number">0</table_positionoffset>
+				<tablerows>
+					<id-00001>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00001>
+					<id-00002>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00002>
+					<id-00003>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00003>
+					<id-00004>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00004>
+					<id-00005>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00005>
+					<id-00006>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00006>
+					<id-00007>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00007>
+					<id-00008>
+						<results>
+							<id-00001>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00001>
+							<id-00002>
+								<resultlink type="windowreference">
+									<class />
+									<recordname />
+								</resultlink>
+							</id-00002>
+						</results>
+					</id-00008>
+				</tablerows>
+			</tab_koboldinventorweaponinvention>
+		</category>
+	</tables>
+</root>

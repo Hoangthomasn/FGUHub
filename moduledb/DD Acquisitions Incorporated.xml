@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
+	<lists>
+		<table>
+			<bycategory>
+				<groups>
+					<typecategoryd_dacquisitionsincorporated>
+						<footer type="formattedtext">
+							<p />
+						</footer>
+					</typecategoryd_dacquisitionsincorporated>
+					<typecategoryddacquisitionsincorporated>
+						<footer type="formattedtext">
+							<p />
+						</footer>
+					</typecategoryddacquisitionsincorporated>
+				</groups>
+			</bycategory>
+		</table>
+	</lists>
+</root>
