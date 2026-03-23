@@ -1,5 +1,6 @@
 .DS_Store
 chatlog.html
+debug.log
 
 db.session.*.xml
 db.script.*.xml
