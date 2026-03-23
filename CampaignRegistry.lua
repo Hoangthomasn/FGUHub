@@ -97,7 +97,7 @@
 				["sPageRecord"] = "reference.refmanualindex.chapters.id-00001.subchapters.id-00001.refpages.id-00001@Sleeping Dragon's Wake",
 			},
 			["reference.refmanualindex@Monster Loot - Volume 1 - Monster Manual"] = {
-				["sPageRecord"] = "reference.refmanualindex.chapters.id-00004.subchapters.id-00001.refpages.id-00001@Monster Loot - Volume 1 - Monster Manual",
+				["sPageRecord"] = "reference.refmanualindex.chapters.id-00006.subchapters.id-00001.refpages.id-00001@Monster Loot - Volume 1 - Monster Manual",
 			},
 			["reference.refmanualindex@Divine Contention"] = {
 				["sPageRecord"] = "reference.refmanualindex.chapters.id-00001.subchapters.id-00001.refpages.id-00001@Divine Contention",
@@ -124,6 +124,12 @@
 				["sPageRecord"] = "reference.refmanualindex.chapters.chapter_0.subchapters.subchapter_10.refpages.refpage_00@DD Dragon of Icespire Peak",
 			},
 		},
+		["tokenbag"] = {
+			["lastfilter"] = "all",
+			["history"] = "sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Creature|&|sFilterType|=|token|||sFilterType|=|portrait|||sPath|=|Data|&|sFilterType|=|portrait|||sPath|=|Data|&|nDisplayIndex|=|33|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|luc|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|tobin|&|sFilterType|=|portrait|||sFilterType|=|token|||sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Auras|&|sFilterType|=|token|||",
+			["viewtype"] = "grid",
+			["viewzoom"] = 1,
+		},
 		["masterindex"] = {
 			["storytemplate"] = {
 				["category"] = "D&D Dungeon Master's Guide (Legacy)",
@@ -132,10 +138,10 @@
 				["category"] = "",
 			},
 			["tables"] = {
-				["category"] = "(Monster Loot)",
+				["category"] = "(2. Weapon Packs)",
 			},
 			["encounter"] = {
-				["category"] = "(2. LDoP: The Pale Requiem )",
+				["category"] = "(1. Homebrew Rules)",
 			},
 			["class"] = {
 				["category"] = "(Homebrew)",
@@ -147,19 +153,19 @@
 				["category"] = "",
 			},
 			["soundset"] = {
-				["category"] = "((Q)WEAPON: Battleaxe)",
+				["category"] = "Spells",
+			},
+			["image"] = {
+				["category"] = "(Sword Coast, North)",
+			},
+			["item"] = {
+				["category"] = "(Ammunition)",
 			},
 			["battle"] = {
 				["category"] = "(DoIP Jade's Campaign)",
 			},
-			["item"] = {
-				["category"] = "(Key Items)",
-			},
 			["treasureparcels"] = {
 				["category"] = "",
-			},
-			["image"] = {
-				["category"] = "(Sword Coast)",
 			},
 			["vehicle"] = {
 				["category"] = "",
@@ -170,12 +176,6 @@
 			["MKshops"] = {
 				["category"] = "",
 			},
-		},
-		["tokenbag"] = {
-			["history"] = "sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Creature|&|sFilterType|=|token|||sFilterType|=|portrait|||sPath|=|Data|&|sFilterType|=|portrait|||sPath|=|Data|&|nDisplayIndex|=|33|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|luc|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|tobin|&|sFilterType|=|portrait|||sFilterType|=|token|||sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Auras|&|sFilterType|=|token|||",
-			["viewzoom"] = 1,
-			["viewtype"] = "grid",
-			["lastfilter"] = "all",
 		},
 	},
 	["OptASGTGT"] = "autotarget",
@@ -195,6 +195,10 @@
 	["OptGAVE"] = "2014",
 	["tabletopstate"] = {
 		[1] = {
+			["path"] = "",
+			["class"] = "library",
+		},
+		[2] = {
 			["path"] = "tables",
 			["class"] = "masterindex",
 		},

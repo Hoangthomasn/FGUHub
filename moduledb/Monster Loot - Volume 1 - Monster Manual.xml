@@ -200,6 +200,23 @@
 			<volume type="number">0</volume>
 			<width type="number">0</width>
 		</id-00340>
+		<id-00586>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<volume type="number">0</volume>
+			<width type="number">0</width>
+		</id-00586>
 		<id-00659>
 			<capacitycount type="number">0</capacitycount>
 			<capacityweight type="number">0</capacityweight>
@@ -279,6 +296,12 @@
 					</id-00001>
 				</blocks>
 			</id-00001>
+			<id-00007>
+				<locked type="number">0</locked>
+			</id-00007>
+			<id-00008>
+				<locked type="number">1</locked>
+			</id-00008>
 			<id-00010>
 				<blocks>
 					<id-00002>

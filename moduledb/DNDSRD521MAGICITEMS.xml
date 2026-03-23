@@ -2,6 +2,23 @@
 <root version="5.1" dataversion="20260124" release="9|CoreRPG:7">
 	<item>
 		<category name="SRD 5.2">
+			<id-00195>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<contentsvolume type="number">0</contentsvolume>
+				<depth type="number">0</depth>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<volume type="number">0</volume>
+				<width type="number">0</width>
+			</id-00195>
 			<id-00626>
 				<capacitycount type="number">0</capacitycount>
 				<capacityweight type="number">0</capacityweight>
