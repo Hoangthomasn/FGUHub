@@ -833,6 +833,11 @@
 		<guidance>
 			<locked type="number">0</locked>
 		</guidance>
+		<magicmissile>
+			<actions />
+			<picture type="token"></picture>
+			<prepared type="number">0</prepared>
+		</magicmissile>
 		<mending>
 			<picture type="token"></picture>
 		</mending>

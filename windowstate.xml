@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <windowstate version="5.1" dataversion="20260124">
 	<window data="" class="moduleselection" pos="455,138,1592,937" />
-	<window data="" class="library" pos="1825,133,2555,1015" />
+	<window data="" class="library" pos="660,133,1390,1015" />
 	<window data="" class="select_dialog" pos="439,218,789,618" />
 	<window data="" class="pointerselection" pos="825,388,1075,643" />
 	<window data="" class="tokenbag" pos="1930,249,2980,1044" />
@@ -17,8 +17,8 @@
 	<window data="" class="quickmap" pos="709,151,1209,851" />
 	<window data="" class="characterlist" pos="5,1,49,121" />
 	<window data="" class="chat" pos="-5,112,345,1062" />
-	<window data="" class="chattime" pos="5,1071,255,1175" />
-	<window data="" class="dicetower" pos="265,1055,365,1155" />
+	<window data="" class="chattime" pos="5,715,255,820" />
+	<window data="" class="dicetower" pos="265,716,365,816" />
 	<window data="" class="initind_select" pos="1261,262,2307,1075" />
 	<window data="" class="closewindows" pos="616,467,816,667" />
 	<window data="" class="class_spell_views_index" pos="1012,442,1462,892" />
@@ -68,8 +68,8 @@
 	<window data="race" class="masterindex" pos="471,94,1215,807" />
 	<window data="class" class="masterindex" pos="1322,280,1792,780" />
 	<window data="background" class="masterindex" pos="434,170,904,670" />
-	<window data="spell" class="masterindex" pos="738,288,1308,986" />
-	<window data="item" class="masterindex" pos="660,385,1385,1035" />
+	<window data="spell" class="masterindex" pos="737,287,1307,985" />
+	<window data="item" class="masterindex" pos="341,110,1525,1114" />
 	<window data="notes" class="masterindex" pos="475,141,975,922" />
 	<window data="encounter" class="masterindex" pos="1365,64,2202,927" />
 	<window data="npc" class="masterindex" pos="1975,132,2802,1105" />
@@ -105,7 +105,7 @@
 	<window data="quest.quest_manticorehunt@DD Princes of the Apocalypse" class="quest" pos="784,333,1134,683" />
 	<window data="encounter.enc_1_09runningtheadventure@DD Princes of the Apocalypse" class="encounter" pos="759,183,1159,833" />
 	<window data="image.img_elemental_prophets_jpg@DD Princes of the Apocalypse" class="imagewindow" pos="669,218,1249,798" />
-	<window data="tables" class="masterindex" pos="1145,95,1835,1020" />
+	<window data="tables" class="masterindex" pos="1586,135,2276,1060" />
 	<window data="encounter.enc_2_02currentevents@DD Princes of the Apocalypse" class="encounter" pos="759,183,1226,833" />
 	<window data="tables.tab_whichbarrel@DD Dragon of Icespire Peak" class="table" pos="421,316,821,816" />
 	<window data="encounter.enc_04_00highhorn@The Tortle Package" class="encounter" pos="759,183,1159,833" />
@@ -891,7 +891,7 @@
 	<window data="reference.backgrounddata.acolyte@DD PHB Deluxe" class="reference_background" pos="1238,33,1638,533" />
 	<window data="spell.blur@WOTC50PHB" class="power" pos="760,254,1160,754" />
 	<window data="spell.truestrike@WOTC50PHB" class="power" pos="917,266,1317,766" />
-	<window data="spell.magicmissile@WOTC50PHB" class="power" pos="760,254,1160,754" />
+	<window data="spell.magicmissile@WOTC50PHB" class="power" pos="1974,320,2374,820" />
 	<window data="charsheet.id-00006" class="pictures" pos="1487,230,1887,730" />
 	<window data="charsheet.id-00006" class="charsheet" pos="555,372,1425,1108" />
 	<window data="charsheet.id-00006" class="charsheet_invmeta" pos="760,432,1160,577" />
@@ -1538,7 +1538,7 @@
 	<window data="npc.berserker@DD Princes of the Apocalypse" class="npc" pos="1136,236,1636,736" />
 	<window data="npc.cultfanatic@DD Princes of the Apocalypse" class="npc" pos="1057,244,1557,769" />
 	<window data="npc.banditcaptain@DD Princes of the Apocalypse" class="npc" pos="1237,268,1737,768" />
-	<window data="item.id-00013" class="item" pos="992,137,1392,637" />
+	<window data="item.id-00013" class="item" pos="992,135,1392,635" />
 	<window data="image.id-00004" class="imagewindow" pos="763,260,1363,860" />
 	<window data="reference.equipmentdata.disguisekit@DD PHB Deluxe" class="item" pos="760,254,1160,754" />
 	<window data="reference.refmanualdata.refpage_stonehillinn@DD Dragon of Icespire Peak" class="referencemanualpage" pos="635,179,1285,829" />
@@ -2153,7 +2153,7 @@
 	<window data="item.id-00055" class="item" pos="904,391,1304,891" />
 	<window data="item.id-00052" class="item" pos="867,310,1267,810" />
 	<window data="item.id-00053" class="item" pos="867,310,1267,810" />
-	<window data="item.id-00005" class="item" pos="720,280,1406,790" />
+	<window data="item.id-00005" class="item" pos="720,280,1405,790" />
 	<window data="item.id-00056" class="item" pos="867,310,1267,810" />
 	<window data="item.id-00054" class="item" pos="867,310,1267,810" />
 	<window data="item.id-00051" class="item" pos="867,310,1267,810" />
@@ -2298,7 +2298,7 @@
 	<window data="encounter.id-00021@(1A DoIP Jade's Party)" class="encounter" pos="867,236,1267,886" />
 	<window data="tables.tab_phandalintales@DD Dragon of Icespire Peak" class="table" pos="866,310,1266,810" />
 	<window data="image.img_umbrage_hill_players_jpg@DD Dragon of Icespire Peak" class="imagewindow" pos="366,77,1121,918" />
-	<window data="item.id-00020" class="item" pos="1454,408,1854,908" />
+	<window data="item.id-00020" class="item" pos="1454,407,1854,907" />
 	<window data="battle.bat_06_02arrival@DD Dragon of Icespire Peak" class="battle" pos="840,336,1290,786" />
 	<window data="treasureparcels.par_06_03_03e3_courtyardandtemplefacade@DD Dragon of Icespire Peak" class="treasureparcel" pos="790,360,1340,760" />
 	<window data="battle.bat_06_03_05e5_temple2@DD Dragon of Icespire Peak" class="battle" pos="840,336,1290,786" />
@@ -3153,7 +3153,7 @@
 	<window data="tables.id-00163@Monster Loot - Volume 1 - Monster Manual" class="table" pos="1570,384,2759,1112" />
 	<window data="reference.refmanualindex@Monster Loot - Volume 1 - Monster Manual" class="reference_manual" pos="304,188,1562,1040" />
 	<window data="tables.id-00004@RCR" class="table" pos="1454,408,1854,908" />
-	<window data="item.id-00131@RCR" class="item" pos="1454,408,1854,908" />
+	<window data="item.id-00131@RCR" class="item" pos="1454,406,1854,906" />
 	<window data="encounter.id-00029@RCR" class="encounter" pos="1454,333,1854,983" />
 	<window data="encounter.id-00023@RCR" class="encounter" pos="1454,333,1854,983" />
 	<window data="item.id-00009@RCR" class="item" pos="1454,408,1854,908" />
@@ -3390,6 +3390,7 @@
 	<window data="tables.id-00211@DNDSRD521MAGICITEMS" class="table" pos="1364,372,1764,872" />
 	<window data="item.id-00195@DNDSRD521MAGICITEMS" class="item" pos="1364,372,1764,872" />
 	<window data="shops.id-00006.shop_items.id-00045" class="item" pos="1364,372,1764,872" />
+	<window data="item.id-00083" class="item" pos="680,276,1080,776" />
 	<image data="image.img_dessarinvalleydm_jpg@DD Princes of the Apocalypse" class="imagewindow" control="image" view="566,-1292" zoom="0.81872605541901" />
 	<image data="image.img_dessarinvalley_jpg@DD Princes of the Apocalypse" class="imagewindow" control="image" view="710,-843.993" zoom="1.10676715877868" />
 	<image data="image.img_red_larch_environs_players_jpg@DD Princes of the Apocalypse" class="imagewindow" control="image" view="510,-675" zoom="0.776666695848107" />

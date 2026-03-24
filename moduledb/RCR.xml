@@ -26,27 +26,6 @@
 		<id-00333 type="deleted" />
 		<id-00345 type="deleted" />
 		<id-00347 type="deleted" />
-		<id-00131>
-			<capacitycount type="number">0</capacitycount>
-			<capacityweight type="number">0</capacityweight>
-			<contentsvolume type="number">0</contentsvolume>
-			<depth type="number">0</depth>
-			<description type="formattedtext">
-				<p />
-			</description>
-			<dm_privatenotes type="formattedtext">
-				<p />
-			</dm_privatenotes>
-			<extraplanarcontents type="number">0</extraplanarcontents>
-			<internal_depth type="number">0</internal_depth>
-			<internal_length type="number">0</internal_length>
-			<internal_volume type="number">0</internal_volume>
-			<internal_width type="number">0</internal_width>
-			<length type="number">0</length>
-			<volume type="number">0</volume>
-			<weight type="number">0</weight>
-			<width type="number">0</width>
-		</id-00131>
 		<category name="Alchemy Items">
 			<id-00001>
 				<isidentified type="deleted" />

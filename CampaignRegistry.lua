@@ -10,12 +10,12 @@
 	["OptHRNH"] = "off",
 	["OptEXTRAPLANAR_COUNT"] = "off",
 	["sidebarexpand"] = {
-		[1] = "campaign",
+		[6] = "library",
 		[2] = "world",
 		[3] = "player",
+		[1] = "campaign",
 		[4] = "tool",
 		[5] = "create",
-		[6] = "library",
 	},
 	["OptTOAST"] = "off",
 	["OptSHPC"] = "detailed",
@@ -125,17 +125,14 @@
 			},
 		},
 		["tokenbag"] = {
-			["lastfilter"] = "all",
 			["history"] = "sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Creature|&|sFilterType|=|token|||sFilterType|=|portrait|||sPath|=|Data|&|sFilterType|=|portrait|||sPath|=|Data|&|nDisplayIndex|=|33|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|luc|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|tobin|&|sFilterType|=|portrait|||sFilterType|=|token|||sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Auras|&|sFilterType|=|token|||",
-			["viewtype"] = "grid",
 			["viewzoom"] = 1,
+			["viewtype"] = "grid",
+			["lastfilter"] = "all",
 		},
 		["masterindex"] = {
 			["storytemplate"] = {
 				["category"] = "D&D Dungeon Master's Guide (Legacy)",
-			},
-			["skill"] = {
-				["category"] = "",
 			},
 			["tables"] = {
 				["category"] = "(2. Weapon Packs)",
@@ -149,17 +146,17 @@
 			["npc"] = {
 				["category"] = "(TestingCodexHere)",
 			},
-			["notes"] = {
+			["skill"] = {
 				["category"] = "",
 			},
-			["soundset"] = {
-				["category"] = "Spells",
+			["notes"] = {
+				["category"] = "",
 			},
 			["image"] = {
 				["category"] = "(Sword Coast, North)",
 			},
-			["item"] = {
-				["category"] = "(Ammunition)",
+			["soundset"] = {
+				["category"] = "Spells",
 			},
 			["battle"] = {
 				["category"] = "(DoIP Jade's Campaign)",
@@ -195,12 +192,20 @@
 	["OptGAVE"] = "2014",
 	["tabletopstate"] = {
 		[1] = {
-			["path"] = "",
 			["class"] = "library",
+			["path"] = "",
 		},
 		[2] = {
-			["path"] = "tables",
 			["class"] = "masterindex",
+			["path"] = "tables",
+		},
+		[4] = {
+			["class"] = "masterindex",
+			["path"] = "item",
+		},
+		[3] = {
+			["class"] = "item",
+			["path"] = "item.id-00013",
 		},
 	},
 	["OptNNPC"] = "append",

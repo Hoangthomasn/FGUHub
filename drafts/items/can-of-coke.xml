@@ -1,0 +1,75 @@
+<id-00084>
+  <capacitycount type="number">0</capacitycount>
+  <capacityweight type="number">0</capacityweight>
+  <contentsvolume type="number">0</contentsvolume>
+  <cost type="string">10 gp</cost>
+  <count type="number">1</count>
+  <depth type="number">0</depth>
+  <description type="formattedtext">
+    <p><b>Can of Coke</b></p>
+    <p><i>Common consumable</i></p>
+    <p>A bright red aluminum can filled with a dark, bubbling liquid. When opened, it gives off a sharp hiss and releases a burst of sweet caramel scent. Tiny bubbles cling to the rim, and the drink has a crisp, biting fizz. Though it looks strange compared to traditional potions, it is widely enjoyed by adventurers who need a quick mental pick-me-up.</p>
+    <p>When consumed as an action, the drinker gains a +1 bonus to Perception checks for 1 hour.</p>
+    <p>Some merchants market Can of Coke as an alchemical tonic, while others treat it as a novelty imported from a distant and mysterious land.</p>
+  </description>
+  <destroyon type="number">1</destroyon>
+  <dischargedice type="dice"></dischargedice>
+  <dischargerechargebonus type="number">0</dischargerechargebonus>
+  <dischargerechargedice type="dice"></dischargerechargedice>
+  <dm_privatenotes type="formattedtext">
+    <p />
+  </dm_privatenotes>
+  <extraplanarcontents type="number">0</extraplanarcontents>
+  <internal_depth type="number">0</internal_depth>
+  <internal_length type="number">0</internal_length>
+  <internal_volume type="number">0</internal_volume>
+  <internal_width type="number">0</internal_width>
+  <length type="number">0</length>
+  <name type="string">Can of Coke</name>
+  <nonid_name type="string">Fizzy Red Can</nonid_name>
+  <nonidentified type="string">A bright red can of sweet, sharply carbonated liquid.</nonidentified>
+  <picture type="token"></picture>
+  <powergroup type="string">Spells</powergroup>
+  <powers>
+    <id-00001>
+      <actions>
+        <id-00001>
+          <apply type="string">action</apply>
+          <durmod type="number">1</durmod>
+          <durunit type="string">hour</durunit>
+          <label type="string">Can of Coke; SKILL: 1 perception</label>
+          <order type="number">1</order>
+          <targeting type="string">self</targeting>
+          <type type="string">effect</type>
+        </id-00001>
+      </actions>
+      <castingtime type="string">1 action</castingtime>
+      <chargeperiod type="string">never</chargeperiod>
+      <charges type="number">1</charges>
+      <description type="formattedtext">
+        <p>You gain a +1 bonus to Perception checks for 1 hour.</p>
+      </description>
+      <duration type="string">1 hour</duration>
+      <level type="number">0</level>
+      <name type="string">Can of Coke</name>
+      <picture type="token"></picture>
+      <prepared type="number">0</prepared>
+      <range type="string">Self</range>
+      <ritual type="number">0</ritual>
+      <school type="string">Transmutation</school>
+      <value type="string">Can of Coke[EFF: SKILL: 1 perception (D:1 HR)]</value>
+    </id-00001>
+  </powers>
+  <prepared type="number">0</prepared>
+  <rarity type="string">Common</rarity>
+  <rechargebonus type="number">0</rechargebonus>
+  <rechargedice type="dice"></rechargedice>
+  <rechargeon type="number">0</rechargeon>
+  <rechargesingle type="number">0</rechargesingle>
+  <subtype type="string">Potion</subtype>
+  <type type="string">Consumable</type>
+  <version type="string">2024</version>
+  <volume type="number">0</volume>
+  <weight type="number">1</weight>
+  <width type="number">0</width>
+</id-00084>
