@@ -125,14 +125,17 @@
 			},
 		},
 		["tokenbag"] = {
-			["history"] = "sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Creature|&|sFilterType|=|token|||sFilterType|=|portrait|||sPath|=|Data|&|sFilterType|=|portrait|||sPath|=|Data|&|nDisplayIndex|=|33|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|luc|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|tobin|&|sFilterType|=|portrait|||sFilterType|=|token|||sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Auras|&|sFilterType|=|token|||",
-			["viewzoom"] = 1,
-			["viewtype"] = "grid",
 			["lastfilter"] = "all",
+			["history"] = "sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Creature|&|sFilterType|=|token|||sFilterType|=|portrait|||sPath|=|Data|&|sFilterType|=|portrait|||sPath|=|Data|&|nDisplayIndex|=|33|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|luc|&|sFilterType|=|portrait|||sPath|=|Data|&|sFilterSearch|=|tobin|&|sFilterType|=|portrait|||sFilterType|=|token|||sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Auras|&|sFilterType|=|token|||",
+			["viewtype"] = "grid",
+			["viewzoom"] = 1,
 		},
 		["masterindex"] = {
 			["storytemplate"] = {
 				["category"] = "D&D Dungeon Master's Guide (Legacy)",
+			},
+			["skill"] = {
+				["category"] = "",
 			},
 			["tables"] = {
 				["category"] = "(2. Weapon Packs)",
@@ -146,17 +149,17 @@
 			["npc"] = {
 				["category"] = "(TestingCodexHere)",
 			},
-			["skill"] = {
-				["category"] = "",
-			},
 			["notes"] = {
 				["category"] = "",
+			},
+			["soundset"] = {
+				["category"] = "Spells",
 			},
 			["image"] = {
 				["category"] = "(Sword Coast, North)",
 			},
-			["soundset"] = {
-				["category"] = "Spells",
+			["item"] = {
+				["category"] = "(Potions)",
 			},
 			["battle"] = {
 				["category"] = "(DoIP Jade's Campaign)",
@@ -191,6 +194,10 @@
 	["OptTNAM"] = "tooltip",
 	["OptGAVE"] = "2014",
 	["tabletopstate"] = {
+		[7] = {
+			["class"] = "combattracker_host",
+			["path"] = "combattracker",
+		},
 		[1] = {
 			["class"] = "library",
 			["path"] = "",
@@ -200,12 +207,28 @@
 			["path"] = "tables",
 		},
 		[4] = {
+			["class"] = "item",
+			["path"] = "item.id-00083",
+		},
+		[8] = {
+			["class"] = "power",
+			["path"] = "item.id-00084.powers.id-00001",
+		},
+		[9] = {
 			["class"] = "masterindex",
 			["path"] = "item",
+		},
+		[5] = {
+			["class"] = "charsheet",
+			["path"] = "charsheet.id-00060",
 		},
 		[3] = {
 			["class"] = "item",
 			["path"] = "item.id-00013",
+		},
+		[6] = {
+			["class"] = "item",
+			["path"] = "item.id-00084",
 		},
 	},
 	["OptNNPC"] = "append",

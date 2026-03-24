@@ -43439,7 +43439,7 @@
 				<encumbered type="number">40</encumbered>
 				<encumberedheavy type="number">80</encumberedheavy>
 				<liftpushdrag type="number">240</liftpushdrag>
-				<load type="number">117</load>
+				<load type="number">118</load>
 				<max type="number">120</max>
 			</encumbrance>
 			<exp type="number">635.25</exp>
@@ -44690,6 +44690,7 @@
 					<public />
 					<holder name="aceunit" owner="true" />
 					<ac type="number">0</ac>
+					<attune type="number">0</attune>
 					<bonus type="number">0</bonus>
 					<carried type="number">2</carried>
 					<cost type="string">50 gp</cost>
@@ -44701,11 +44702,109 @@
 					<isidentified type="number">1</isidentified>
 					<locked type="number">1</locked>
 					<name type="string">Broken Longbow</name>
+					<powers>
+						<public />
+						<holder name="aceunit" owner="true" />
+					</powers>
 					<properties type="string">Ammunition (range 150/600), heavy, two-handed</properties>
 					<subtype type="string">Martial Ranged Weapons</subtype>
 					<type type="string">Weapon</type>
 					<weight type="number">2</weight>
 				</id-00026>
+				<id-00027>
+					<public />
+					<holder name="aceunit" owner="true" />
+					<attune type="number">0</attune>
+					<capacitycount type="number">0</capacitycount>
+					<capacityweight type="number">0</capacityweight>
+					<carried type="number">2</carried>
+					<contentsvolume type="number">0</contentsvolume>
+					<cost type="string">10 gp</cost>
+					<count type="number">1</count>
+					<depth type="number">0</depth>
+					<description type="formattedtext">
+						<p>
+							<b>Can of Coke</b>
+						</p>
+						<p>
+							<i>Common consumable</i>
+						</p>
+						<p>A bright red aluminum can filled with a dark, bubbling liquid. When opened, it gives off a sharp hiss and releases a burst of sweet caramel scent. Tiny bubbles cling to the rim, and the drink has a crisp, biting fizz. Though it looks strange compared to traditional potions, it is widely enjoyed by adventurers who need a quick mental pick-me-up.</p>
+						<p>When consumed as an action, the drinker gains a +1 bonus to Perception checks for 1 hour.</p>
+						<p>Some merchants market Can of Coke as an alchemical tonic, while others treat it as a novelty imported from a distant and mysterious land.</p>
+					</description>
+					<destroyon type="number">1</destroyon>
+					<discharged type="number">NaN</discharged>
+					<dischargedice type="dice"></dischargedice>
+					<dischargerechargebonus type="number">0</dischargerechargebonus>
+					<dischargerechargedice type="dice"></dischargerechargedice>
+					<dm_privatenotes type="formattedtext">
+						<p />
+					</dm_privatenotes>
+					<extraplanarcontents type="number">0</extraplanarcontents>
+					<internal_depth type="number">0</internal_depth>
+					<internal_length type="number">0</internal_length>
+					<internal_volume type="number">0</internal_volume>
+					<internal_width type="number">0</internal_width>
+					<length type="number">0</length>
+					<locked type="number">1</locked>
+					<name type="string">Can of Coke</name>
+					<nonid_name type="string">Fizzy Red Can</nonid_name>
+					<nonidentified type="string">A bright red can of sweet, sharply carbonated liquid.</nonidentified>
+					<picture type="token"></picture>
+					<powergroup type="string">Spells</powergroup>
+					<powers>
+						<public />
+						<holder name="aceunit" owner="true" />
+						<id-00001>
+							<public />
+							<holder name="aceunit" owner="true" />
+							<actions>
+								<public />
+								<holder name="aceunit" owner="true" />
+								<id-00001>
+									<public />
+									<holder name="aceunit" owner="true" />
+									<apply type="string">action</apply>
+									<durmod type="number">1</durmod>
+									<durunit type="string">hour</durunit>
+									<label type="string">Can of Coke; SKILL: 1, perception</label>
+									<order type="number">1</order>
+									<targeting type="string">self</targeting>
+									<type type="string">effect</type>
+								</id-00001>
+							</actions>
+							<cast type="number">0</cast>
+							<castingtime type="string">1 action</castingtime>
+							<chargeperiod type="string">never</chargeperiod>
+							<charges type="number">1</charges>
+							<description type="formattedtext">
+								<p>You gain a +1 bonus to Perception checks for 1 hour.</p>
+							</description>
+							<duration type="string">1 hour</duration>
+							<level type="number">0</level>
+							<name type="string">Can of Coke</name>
+							<picture type="token"></picture>
+							<prepared type="number">0</prepared>
+							<range type="string">Self</range>
+							<ritual type="number">0</ritual>
+							<school type="string">Transmutation</school>
+							<value type="string">Can of Coke [EFF: SKILL: 1, perception (D:1 HR)]</value>
+						</id-00001>
+					</powers>
+					<prepared type="number">0</prepared>
+					<rarity type="string">Common</rarity>
+					<rechargebonus type="number">0</rechargebonus>
+					<rechargedice type="dice"></rechargedice>
+					<rechargeon type="number">0</rechargeon>
+					<rechargesingle type="number">0</rechargesingle>
+					<subtype type="string">Potion</subtype>
+					<type type="string">Consumable</type>
+					<version type="string">2024</version>
+					<volume type="number">0</volume>
+					<weight type="number">1</weight>
+					<width type="number">0</width>
+				</id-00027>
 			</inventorylist>
 			<itemgroups>
 				<public />
@@ -44845,6 +44944,11 @@
 					<holder name="aceunit" owner="true" />
 					<name type="string">Broken Longbow</name>
 				</id-00027>
+				<id-00028>
+					<public />
+					<holder name="aceunit" owner="true" />
+					<name type="string">Can of Coke</name>
+				</id-00028>
 			</itemgroups>
 			<languagelist>
 				<public />
@@ -108289,7 +108393,7 @@
 				<encumbered type="number">50</encumbered>
 				<encumberedheavy type="number">100</encumberedheavy>
 				<liftpushdrag type="number">300</liftpushdrag>
-				<load type="number">77.7</load>
+				<load type="number">78.7</load>
 				<max type="number">150</max>
 			</encumbrance>
 			<exp type="number">0</exp>
@@ -109092,6 +109196,95 @@
 					<type type="string">Tools</type>
 					<weight type="number">2</weight>
 				</id-00017>
+				<id-00018>
+					<public />
+					<attune type="number">0</attune>
+					<capacitycount type="number">0</capacitycount>
+					<capacityweight type="number">0</capacityweight>
+					<carried type="number">2</carried>
+					<contentsvolume type="number">0</contentsvolume>
+					<cost type="string">10 gp</cost>
+					<count type="number">1</count>
+					<depth type="number">0</depth>
+					<description type="formattedtext">
+						<p>
+							<b>Can of Coke</b>
+						</p>
+						<p>
+							<i>Common consumable</i>
+						</p>
+						<p>A bright red aluminum can filled with a dark, bubbling liquid. When opened, it gives off a sharp hiss and releases a burst of sweet caramel scent. Tiny bubbles cling to the rim, and the drink has a crisp, biting fizz. Though it looks strange compared to traditional potions, it is widely enjoyed by adventurers who need a quick mental pick-me-up.</p>
+						<p>When consumed as an action, the drinker gains a +1 bonus to Perception checks for 1 hour.</p>
+						<p>Some merchants market Can of Coke as an alchemical tonic, while others treat it as a novelty imported from a distant and mysterious land.</p>
+					</description>
+					<destroyon type="number">1</destroyon>
+					<discharged type="number">NaN</discharged>
+					<dischargedice type="dice"></dischargedice>
+					<dischargerechargebonus type="number">0</dischargerechargebonus>
+					<dischargerechargedice type="dice"></dischargerechargedice>
+					<dm_privatenotes type="formattedtext">
+						<p />
+					</dm_privatenotes>
+					<extraplanarcontents type="number">0</extraplanarcontents>
+					<internal_depth type="number">0</internal_depth>
+					<internal_length type="number">0</internal_length>
+					<internal_volume type="number">0</internal_volume>
+					<internal_width type="number">0</internal_width>
+					<length type="number">0</length>
+					<locked type="number">1</locked>
+					<name type="string">Can of Coke</name>
+					<nonid_name type="string">Fizzy Red Can</nonid_name>
+					<nonidentified type="string">A bright red can of sweet, sharply carbonated liquid.</nonidentified>
+					<picture type="token"></picture>
+					<powergroup type="string">Spells</powergroup>
+					<powers>
+						<public />
+						<id-00001>
+							<public />
+							<actions>
+								<public />
+								<id-00001>
+									<public />
+									<apply type="string">action</apply>
+									<durmod type="number">1</durmod>
+									<durunit type="string">hour</durunit>
+									<label type="string">Can of Coke; SKILL: 1, perception</label>
+									<order type="number">1</order>
+									<targeting type="string">self</targeting>
+									<type type="string">effect</type>
+								</id-00001>
+							</actions>
+							<cast type="number">1</cast>
+							<castingtime type="string">1 action</castingtime>
+							<chargeperiod type="string">never</chargeperiod>
+							<charges type="number">1</charges>
+							<description type="formattedtext">
+								<p>You gain a +1 bonus to Perception checks for 1 hour.</p>
+							</description>
+							<duration type="string">1 hour</duration>
+							<level type="number">0</level>
+							<name type="string">Can of Coke</name>
+							<picture type="token"></picture>
+							<prepared type="number">0</prepared>
+							<range type="string">Self</range>
+							<ritual type="number">0</ritual>
+							<school type="string">Transmutation</school>
+							<value type="string">Can of Coke [EFF: SKILL: 1, perception (D:1 HR)]</value>
+						</id-00001>
+					</powers>
+					<prepared type="number">0</prepared>
+					<rarity type="string">Common</rarity>
+					<rechargebonus type="number">0</rechargebonus>
+					<rechargedice type="dice"></rechargedice>
+					<rechargeon type="number">0</rechargeon>
+					<rechargesingle type="number">0</rechargesingle>
+					<subtype type="string">Potion</subtype>
+					<type type="string">Consumable</type>
+					<version type="string">2024</version>
+					<volume type="number">0</volume>
+					<weight type="number">1</weight>
+					<width type="number">0</width>
+				</id-00018>
 			</inventorylist>
 			<itemgroups>
 				<public />
@@ -109163,6 +109356,10 @@
 					<public />
 					<name type="string">Tinderbox</name>
 				</id-00017>
+				<id-00018>
+					<public />
+					<name type="string">Can of Coke</name>
+				</id-00018>
 			</itemgroups>
 			<languagelist>
 				<public />
@@ -158841,6 +159038,9 @@
 				<button_npcf_regen type="number">0</button_npcf_regen>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
 				<encumbrance>
 					<public />
 					<encumbered type="number">40</encumbered>
@@ -158871,10 +159071,10 @@
 				<status type="string">Healthy</status>
 				<targets>
 					<public />
-					<id-00001>
+					<id-00003>
 						<public />
-						<noderef type="string">combattracker.list.id-00007</noderef>
-					</id-00001>
+						<noderef type="string">combattracker.list.id-00008</noderef>
+					</id-00003>
 				</targets>
 				<token type="token">portrait_id-00024_token</token>
 				<token3Dflat type="token"></token3Dflat>
@@ -158959,7 +159159,7 @@
 		</busylist>
 		<byhours type="number">3</byhours>
 		<checkweather type="number">0</checkweather>
-		<destination type="number">3.12169404338342E-15</destination>
+		<destination type="number">4.65764258946263E-16</destination>
 		<encounterchance type="number">0</encounterchance>
 		<encounterchancenum type="number">1</encounterchancenum>
 		<isgmonly type="number">0</isgmonly>
@@ -158970,8 +159170,8 @@
 		<lastyear type="number">1491</lastyear>
 		<perlimit type="number">0</perlimit>
 		<perlimittwo type="number">0</perlimittwo>
-		<remaining type="number">2.84074157947892E-15</remaining>
-		<speed type="number">1.33786887573575E-17</speed>
+		<remaining type="number">4.23845475641099E-16</remaining>
+		<speed type="number">1.99613253834112E-18</speed>
 		<speedunit type="number">0</speedunit>
 		<timedeventlist>
 			<id-00001>
@@ -159011,7 +159211,7 @@
 				<repeattime type="number">1</repeattime>
 			</id-00003>
 		</timedreminderlist>
-		<traveled type="number">2.80952463904507E-16</traveled>
+		<traveled type="number">4.19187833051635E-17</traveled>
 	</DB>
 	<effects>
 		<public />
@@ -183109,7 +183309,7 @@
 							<apply type="string">action</apply>
 							<durmod type="number">1</durmod>
 							<durunit type="string">hour</durunit>
-							<label type="string">Can of Coke; SKILL: 1 perception</label>
+							<label type="string">Can of Coke; SKILL: 1, perception</label>
 							<order type="number">1</order>
 							<targeting type="string">self</targeting>
 							<type type="string">effect</type>
@@ -183129,7 +183329,7 @@
 					<range type="string">Self</range>
 					<ritual type="number">0</ritual>
 					<school type="string">Transmutation</school>
-					<value type="string">Can of Coke[EFF: SKILL: 1 perception (D:1 HR)]</value>
+					<value type="string">Can of Coke [EFF: SKILL: 1, perception (D:1 HR)]</value>
 				</id-00001>
 			</powers>
 			<prepared type="number">0</prepared>
@@ -183224,7 +183424,7 @@
 							<apply type="string">action</apply>
 							<durmod type="number">1</durmod>
 							<durunit type="string">hour</durunit>
-							<label type="string">Can of Coke; SKILL: 1 perception</label>
+							<label type="string">Can of Coke; SKILL: 1, perception</label>
 							<order type="number">1</order>
 							<targeting type="string">self</targeting>
 							<type type="string">effect</type>
@@ -183245,7 +183445,7 @@
 					<range type="string">Self</range>
 					<ritual type="number">0</ritual>
 					<school type="string">Transmutation</school>
-					<value type="string">Can of Coke[EFF: SKILL: 1 perception (D:1 HR)]</value>
+					<value type="string">Can of Coke [EFF: SKILL: 1, perception (D:1 HR)]</value>
 				</id-00001>
 			</powers>
 			<prepared type="number">0</prepared>
@@ -183261,6 +183461,191 @@
 			<weight type="number">1</weight>
 			<width type="number">0</width>
 		</id-00084>
+		<id-00085>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<cost type="string">10 gp</cost>
+			<count type="number">1</count>
+			<depth type="number">0</depth>
+			<description type="formattedtext">
+				<p>
+					<b>Can of Sprite</b>
+				</p>
+				<p>
+					<i>Common consumable</i>
+				</p>
+				<p>This unusual potion comes in a bright green metal can instead of a glass vial. Inside is a clear, sparkling liquid with a sharp citrus scent. When opened, it releases a lively hiss, and the drink tastes crisp, sweet, and clean with a bright lemon-lime bite.</p>
+				<p>As an action, a creature can drink this can. For 1 hour, the drinker gains a +1 bonus to Perception checks.</p>
+				<p>This item is consumed on use.</p>
+			</description>
+			<destroyon type="number">1</destroyon>
+			<discharged type="number">NaN</discharged>
+			<dischargedice type="dice"></dischargedice>
+			<dischargerechargebonus type="number">0</dischargerechargebonus>
+			<dischargerechargedice type="dice"></dischargerechargedice>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<name type="string">Can of Sprite</name>
+			<nonid_name type="string">Fizzy Green Can</nonid_name>
+			<nonidentified type="string">A bright green can of clear, sparkling citrus soda.</nonidentified>
+			<picture type="token"></picture>
+			<powergroup type="string">Spells</powergroup>
+			<powers>
+				<id-00001>
+					<actions>
+						<id-00001>
+							<apply type="string">action</apply>
+							<durmod type="number">1</durmod>
+							<durunit type="string">hour</durunit>
+							<label type="string">Can of Sprite; SKILL: 1, perception</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">1</cast>
+					<castingtime type="string">1 action</castingtime>
+					<chargeperiod type="string">never</chargeperiod>
+					<charges type="number">1</charges>
+					<description type="formattedtext">
+						<p>You gain a +1 bonus to Perception checks for 1 hour.</p>
+					</description>
+					<duration type="string">1 hour</duration>
+					<level type="number">0</level>
+					<name type="string">Can of Sprite</name>
+					<picture type="token"></picture>
+					<prepared type="number">0</prepared>
+					<range type="string">Self</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Transmutation</school>
+					<value type="string">Can of Sprite [EFF: SKILL: 1, perception (D:1 HR)]</value>
+				</id-00001>
+			</powers>
+			<prepared type="number">0</prepared>
+			<rarity type="string">Common</rarity>
+			<rechargebonus type="number">0</rechargebonus>
+			<rechargedice type="dice"></rechargedice>
+			<rechargeon type="number">0</rechargeon>
+			<rechargesingle type="number">0</rechargesingle>
+			<subtype type="string">Potion</subtype>
+			<type type="string">Consumable</type>
+			<version type="string">2024</version>
+			<volume type="number">0</volume>
+			<weight type="number">1</weight>
+			<width type="number">0</width>
+		</id-00085>
+		<id-00086>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<depth type="number">0</depth>
+			<description type="formattedtext">
+				<p />
+			</description>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<locked type="number">1</locked>
+			<name type="string">devthewrench</name>
+			<volume type="number">0</volume>
+			<weight type="number">0</weight>
+			<width type="number">0</width>
+		</id-00086>
+		<id-00087>
+			<capacitycount type="number">0</capacitycount>
+			<capacityweight type="number">0</capacityweight>
+			<contentsvolume type="number">0</contentsvolume>
+			<cost type="string">10 gp</cost>
+			<count type="number">1</count>
+			<depth type="number">0</depth>
+			<description type="formattedtext">
+				<p>
+					<b>Can of Dr Pepper</b>
+				</p>
+				<p>
+					<i>Common consumable</i>
+				</p>
+				<p>This unusual potion is sealed in a dark red metal can and contains a deep brown, sparkling liquid with a rich, spiced aroma. When opened, it lets out a sharp hiss and releases a scent of cherry, caramel, and warm spice. Its flavor is sweet, bold, and layered, leaving the drinker feeling pleasantly sharpened and alert.</p>
+				<p>As an action, a creature can drink this can. For 1 hour, the drinker gains a +1 bonus to Perception checks.</p>
+				<p>This item is consumed on use.</p>
+			</description>
+			<destroyon type="number">1</destroyon>
+			<discharged type="number">NaN</discharged>
+			<dischargedice type="dice"></dischargedice>
+			<dischargerechargebonus type="number">0</dischargerechargebonus>
+			<dischargerechargedice type="dice"></dischargerechargedice>
+			<dm_privatenotes type="formattedtext">
+				<p />
+			</dm_privatenotes>
+			<extraplanarcontents type="number">0</extraplanarcontents>
+			<internal_depth type="number">0</internal_depth>
+			<internal_length type="number">0</internal_length>
+			<internal_volume type="number">0</internal_volume>
+			<internal_width type="number">0</internal_width>
+			<length type="number">0</length>
+			<name type="string">Can of Dr Pepper</name>
+			<nonid_name type="string">Dark Fizzy Can</nonid_name>
+			<nonidentified type="string">A dark red can of rich, sparkling soda with a spiced aroma.</nonidentified>
+			<picture type="token"></picture>
+			<powergroup type="string">Spells</powergroup>
+			<powers>
+				<id-00001>
+					<actions>
+						<id-00001>
+							<apply type="string">action</apply>
+							<durmod type="number">1</durmod>
+							<durunit type="string">hour</durunit>
+							<label type="string">Can of Dr Pepper; SKILL: 1, perception</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">1</cast>
+					<castingtime type="string">1 action</castingtime>
+					<chargeperiod type="string">never</chargeperiod>
+					<charges type="number">1</charges>
+					<description type="formattedtext">
+						<p>You gain a +1 bonus to Perception checks for 1 hour.</p>
+					</description>
+					<duration type="string">1 hour</duration>
+					<level type="number">0</level>
+					<name type="string">Can of Dr Pepper</name>
+					<picture type="token"></picture>
+					<prepared type="number">0</prepared>
+					<range type="string">Self</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Transmutation</school>
+					<value type="string">Can of Dr Pepper [EFF: SKILL: 1, perception (D:1 HR)]</value>
+				</id-00001>
+			</powers>
+			<prepared type="number">0</prepared>
+			<rarity type="string">Common</rarity>
+			<rechargebonus type="number">0</rechargebonus>
+			<rechargedice type="dice"></rechargedice>
+			<rechargeon type="number">0</rechargeon>
+			<rechargesingle type="number">0</rechargesingle>
+			<subtype type="string">Potion</subtype>
+			<type type="string">Consumable</type>
+			<version type="string">2024</version>
+			<volume type="number">0</volume>
+			<weight type="number">1</weight>
+			<width type="number">0</width>
+		</id-00087>
 		<category name="D&amp;D Player's Handbook">
 			<id-00018>
 				<capacitycount type="number">0</capacitycount>
@@ -185107,12 +185492,11 @@
 				<weight type="number">1.5</weight>
 				<width type="number">0</width>
 			</id-00057>
-		</category>
-		<category name="(Effects)">
 			<id-00058>
 				<capacitycount type="number">0</capacitycount>
 				<capacityweight type="number">0</capacityweight>
 				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">5 gp</cost>
 				<count type="number">1</count>
 				<depth type="number">0</depth>
 				<description type="formattedtext">
@@ -185132,9 +185516,39 @@
 				<internal_width type="number">0</internal_width>
 				<length type="number">0</length>
 				<name type="string">Effect: Disoriented</name>
+				<nonid_name type="string">Steaming Herbal Cup</nonid_name>
+				<nonidentified type="string">A warm cup of clear green-gold tea with a soft herbal aroma.</nonidentified>
 				<picture type="token"></picture>
 				<powergroup type="string">Spells</powergroup>
 				<powers>
+					<id-00001>
+						<actions>
+							<id-00001>
+								<apply type="string">action</apply>
+								<durmod type="number">1</durmod>
+								<durunit type="string">hour</durunit>
+								<label type="string">Cup of Green Tea; SKILL: 1, perception</label>
+								<order type="number">1</order>
+								<targeting type="string">self</targeting>
+								<type type="string">effect</type>
+							</id-00001>
+						</actions>
+						<castingtime type="string">1 action</castingtime>
+						<chargeperiod type="string">never</chargeperiod>
+						<charges type="number">1</charges>
+						<description type="formattedtext">
+							<p>You gain a +1 bonus to Perception checks for 1 hour.</p>
+						</description>
+						<duration type="string">1 hour</duration>
+						<level type="number">0</level>
+						<name type="string">Cup of Green Tea</name>
+						<picture type="token"></picture>
+						<prepared type="number">0</prepared>
+						<range type="string">Self</range>
+						<ritual type="number">0</ritual>
+						<school type="string">Transmutation</school>
+						<value type="string">Cup of Green Tea [EFF: SKILL: 1, perception (D:1 HR)]</value>
+					</id-00001>
 					<id-00002>
 						<actions>
 							<id-00001>
@@ -185162,16 +185576,20 @@
 					</id-00002>
 				</powers>
 				<prepared type="number">0</prepared>
+				<rarity type="string">Common</rarity>
 				<rechargebonus type="number">0</rechargebonus>
 				<rechargedice type="dice"></rechargedice>
 				<rechargeon type="number">0</rechargeon>
 				<rechargesingle type="number">0</rechargesingle>
+				<subtype type="string">Potion</subtype>
 				<type type="string">Effects</type>
 				<version type="string">2024</version>
 				<volume type="number">0</volume>
 				<weight type="number">0</weight>
 				<width type="number">0</width>
 			</id-00058>
+		</category>
+		<category name="(Effects)">
 			<id-00059>
 				<capacitycount type="number">0</capacitycount>
 				<capacityweight type="number">0</capacityweight>
@@ -206137,6 +206555,12 @@
 				<p>Lucien Merrow:[DAMAGE (M)] Dagger [TYPE: piercing (1d4+3=4)]:7</p>
 				<p>Lucien Merrow:[DAMAGE (M)] Dagger [TYPE: piercing (1d4+3=6)]:9</p>
 				<p>Lucien Merrow:[DAMAGE (M)] Dagger [TYPE: piercing (1d4+3=4)]:7</p>
+				<p>Alarion:[EFFECT] Can of Coke; SKILL: 1 perception [UNITS HR] [SELF] [ACTION]:1</p>
+				<p>Lucien Merrow:[EFFECT] Can of Coke; SKILL: 1 perception [UNITS HR] [SELF] [ACTION]:1</p>
+				<p>Lucien Merrow:[SKILL] Perception [PROF x2] [EFFECTS +1]:8</p>
+				<p>Lucien Merrow:[EFFECT] Can of Coke; SKILL: 1 perception [UNITS HR] [SELF] [ACTION]:1</p>
+				<p>Lucien Merrow:[EFFECT] Can of Coke; SKILL: 1 perception [UNITS HR] [SELF] [ACTION]:1</p>
+				<p>Lucien Merrow:[SKILL] Perception [PROF x2] [EFFECTS +2]:19</p>
 			</text>
 		</id-00001>
 	</notes>
@@ -215910,79 +216334,6 @@
 				<public />
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
-				<carried type="number">2</carried>
-				<carriedby type="string">Lucien Merrow [2]</carriedby>
-				<cost type="string">200,002 gp</cost>
-				<count type="number">2</count>
-				<damage type="string">1d4 Bludgeoning</damage>
-				<description type="formattedtext">
-					<h>Enspelled Weapon</h>
-					<p>
-						<i>Weapon (Any Simple or Martial), Rarity Varies (Requires Attunement)</i>
-					</p>
-					<p>Bound into this weapon is an 8th level spell. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains 1d6 expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell.</p>
-					<p>The spell has a +10 attack bonus and a save DC of 18.</p>
-				</description>
-				<mastery type="string">Nick</mastery>
-				<name type="string">Light Hammer</name>
-				<nonid_name type="string">Light Hammer</nonid_name>
-				<nonidentified type="string">Faintly glowing magical runes adorn this weapon.</nonidentified>
-				<picture type="token">images/Weapon Light Hammer.webp@WOTC50PHB</picture>
-				<powers>
-					<public />
-				</powers>
-				<properties type="string">Light, Thrown (Range 20/60), magic</properties>
-				<rarity type="string">Legendary (Requires Attunement)</rarity>
-				<subtype type="string">Simple Melee Weapons</subtype>
-				<type type="string">Weapon</type>
-				<version type="string">2024</version>
-				<weight type="number">2</weight>
-			</id-00009>
-			<id-00010>
-				<public />
-				<attune type="number">0</attune>
-				<capacitycount type="number">0</capacitycount>
-				<capacityweight type="number">0</capacityweight>
-				<carried type="number">2</carried>
-				<carriedby type="string">Hruk the Silent [59], Talia Vexmere [57]</carriedby>
-				<contentsvolume type="number">0</contentsvolume>
-				<cost type="string">0 GP</cost>
-				<count type="number">116</count>
-				<depth type="number">0</depth>
-				<description type="formattedtext">
-					<p>Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.</p>
-				</description>
-				<dm_privatenotes type="formattedtext">
-					<p />
-				</dm_privatenotes>
-				<extraplanarcontents type="number">0</extraplanarcontents>
-				<internal_depth type="number">0</internal_depth>
-				<internal_length type="number">0</internal_length>
-				<internal_volume type="number">0</internal_volume>
-				<internal_width type="number">0</internal_width>
-				<length type="number">0</length>
-				<location type="string">Quiver</location>
-				<locationshortcut type="windowreference">
-					<class>item</class>
-					<recordname>charsheet.id-00033.inventorylist.id-00006</recordname>
-				</locationshortcut>
-				<name type="string">Arrows</name>
-				<powers>
-					<public />
-				</powers>
-				<rarity type="string">common</rarity>
-				<subtype type="string">Ammunition</subtype>
-				<type type="string">Adventuring Gear</type>
-				<value type="string">1 GP</value>
-				<version type="string">2024</version>
-				<volume type="number">0</volume>
-				<weight type="number">0.05</weight>
-				<width type="number">0</width>
-			</id-00010>
-			<id-00011>
-				<public />
-				<attune type="number">0</attune>
-				<bonus type="number">0</bonus>
 				<capacitycount type="number">0</capacitycount>
 				<capacityweight type="number">0</capacityweight>
 				<carried type="number">2</carried>
@@ -216029,8 +216380,108 @@
 				<volume type="number">0</volume>
 				<weight type="number">3</weight>
 				<width type="number">0</width>
+			</id-00009>
+			<id-00010>
+				<public />
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<carried type="number">2</carried>
+				<carriedby type="string">Lucien Merrow [2]</carriedby>
+				<cost type="string">200,002 gp</cost>
+				<count type="number">2</count>
+				<damage type="string">1d4 Bludgeoning</damage>
+				<description type="formattedtext">
+					<h>Enspelled Weapon</h>
+					<p>
+						<i>Weapon (Any Simple or Martial), Rarity Varies (Requires Attunement)</i>
+					</p>
+					<p>Bound into this weapon is an 8th level spell. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains 1d6 expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell.</p>
+					<p>The spell has a +10 attack bonus and a save DC of 18.</p>
+				</description>
+				<mastery type="string">Nick</mastery>
+				<name type="string">Light Hammer</name>
+				<nonid_name type="string">Light Hammer</nonid_name>
+				<nonidentified type="string">Faintly glowing magical runes adorn this weapon.</nonidentified>
+				<picture type="token">images/Weapon Light Hammer.webp@WOTC50PHB</picture>
+				<powers>
+					<public />
+				</powers>
+				<properties type="string">Light, Thrown (Range 20/60), magic</properties>
+				<rarity type="string">Legendary (Requires Attunement)</rarity>
+				<subtype type="string">Simple Melee Weapons</subtype>
+				<type type="string">Weapon</type>
+				<version type="string">2024</version>
+				<weight type="number">2</weight>
+			</id-00010>
+			<id-00011>
+				<public />
+				<attune type="number">0</attune>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<carriedby type="string">Hruk the Silent [59], Talia Vexmere [57]</carriedby>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">0 GP</cost>
+				<count type="number">116</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.</p>
+				</description>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<location type="string">Quiver</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>charsheet.id-00033.inventorylist.id-00006</recordname>
+				</locationshortcut>
+				<name type="string">Arrows</name>
+				<powers>
+					<public />
+				</powers>
+				<rarity type="string">common</rarity>
+				<subtype type="string">Ammunition</subtype>
+				<type type="string">Adventuring Gear</type>
+				<value type="string">1 GP</value>
+				<version type="string">2024</version>
+				<volume type="number">0</volume>
+				<weight type="number">0.05</weight>
+				<width type="number">0</width>
 			</id-00011>
 			<id-00012>
+				<public />
+				<ac type="number">2</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<carried type="number">2</carried>
+				<carriedby type="string">Hruk the Silent [1]</carriedby>
+				<cost type="string">10 GP</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<dexbonus type="string">-</dexbonus>
+				<location type="string">Chain Mail</location>
+				<name type="string">Shield</name>
+				<picture type="token">images/Kite Shield.webp@WOTC50PHB</picture>
+				<powers>
+					<public />
+				</powers>
+				<rarity type="string">common</rarity>
+				<stealth type="string">-</stealth>
+				<strength type="string">-</strength>
+				<subtype type="string">Shield</subtype>
+				<type type="string">Armor</type>
+				<version type="string">2024</version>
+				<weight type="number">6</weight>
+			</id-00012>
+			<id-00013>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -216054,8 +216505,8 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">1</weight>
-			</id-00012>
-			<id-00013>
+			</id-00013>
+			<id-00014>
 				<public />
 				<attune type="number">0</attune>
 				<bonus type="number">1</bonus>
@@ -216114,33 +216565,6 @@
 				<volume type="number">0</volume>
 				<weight type="number">1</weight>
 				<width type="number">0</width>
-			</id-00013>
-			<id-00014>
-				<public />
-				<ac type="number">2</ac>
-				<attune type="number">0</attune>
-				<bonus type="number">0</bonus>
-				<carried type="number">2</carried>
-				<carriedby type="string">Hruk the Silent [1]</carriedby>
-				<cost type="string">10 GP</cost>
-				<count type="number">1</count>
-				<description type="formattedtext">
-					<p />
-				</description>
-				<dexbonus type="string">-</dexbonus>
-				<location type="string">Chain Mail</location>
-				<name type="string">Shield</name>
-				<picture type="token">images/Kite Shield.webp@WOTC50PHB</picture>
-				<powers>
-					<public />
-				</powers>
-				<rarity type="string">common</rarity>
-				<stealth type="string">-</stealth>
-				<strength type="string">-</strength>
-				<subtype type="string">Shield</subtype>
-				<type type="string">Armor</type>
-				<version type="string">2024</version>
-				<weight type="number">6</weight>
 			</id-00014>
 			<id-00015>
 				<public />
@@ -216273,119 +216697,6 @@
 			</id-00018>
 			<id-00019>
 				<public />
-				<ac type="number">16</ac>
-				<attune type="number">0</attune>
-				<bonus type="number">0</bonus>
-				<carried type="number">2</carried>
-				<carriedby type="string">Hruk the Silent [1]</carriedby>
-				<cost type="string">75 GP</cost>
-				<count type="number">1</count>
-				<description type="formattedtext">
-					<p />
-				</description>
-				<dexbonus type="string">No</dexbonus>
-				<name type="string">Chain Mail</name>
-				<picture type="token">images/Heavy Armor Chain Mail.webp@WOTC50PHB</picture>
-				<powers>
-					<public />
-				</powers>
-				<rarity type="string">common</rarity>
-				<stealth type="string">Disadvantage</stealth>
-				<strength type="string">Str 13</strength>
-				<subtype type="string">Heavy Armor</subtype>
-				<type type="string">Armor</type>
-				<version type="string">2024</version>
-				<weight type="number">55</weight>
-			</id-00019>
-			<id-00020>
-				<public />
-				<ac type="number">11</ac>
-				<attune type="number">0</attune>
-				<bonus type="number">0</bonus>
-				<carried type="number">2</carried>
-				<carriedby type="string">Lucien Merrow [1], Talia Vexmere [1]</carriedby>
-				<cost type="string">10 GP</cost>
-				<count type="number">2</count>
-				<description type="formattedtext">
-					<p />
-				</description>
-				<dexbonus type="string">Yes</dexbonus>
-				<name type="string">Leather Armor</name>
-				<picture type="token">images/Light Armor Leather Armor.webp@WOTC50PHB</picture>
-				<powers>
-					<public />
-				</powers>
-				<rarity type="string">common</rarity>
-				<stealth type="string">-</stealth>
-				<strength type="string">-</strength>
-				<subtype type="string">Light Armor</subtype>
-				<type type="string">Armor</type>
-				<version type="string">2024</version>
-				<weight type="number">10</weight>
-			</id-00020>
-			<id-00021>
-				<public />
-				<attune type="number">0</attune>
-				<capacitycount type="number">0</capacitycount>
-				<capacityweight type="number">0</capacityweight>
-				<carried type="number">2</carried>
-				<carriedby type="string">Lucien Merrow [58]</carriedby>
-				<contentsvolume type="number">0</contentsvolume>
-				<cost type="string">5 cp</cost>
-				<count type="number">58</count>
-				<depth type="number">0</depth>
-				<description type="formattedtext" />
-				<dm_privatenotes type="formattedtext">
-					<p />
-				</dm_privatenotes>
-				<extraplanarcontents type="number">0</extraplanarcontents>
-				<internal_depth type="number">0</internal_depth>
-				<internal_length type="number">0</internal_length>
-				<internal_volume type="number">0</internal_volume>
-				<internal_width type="number">0</internal_width>
-				<length type="number">0</length>
-				<location type="string">Quiver</location>
-				<locationshortcut type="windowreference">
-					<class>item</class>
-					<recordname>charsheet.id-00024.inventorylist.id-00020</recordname>
-				</locationshortcut>
-				<name type="string">Arrow</name>
-				<powers>
-					<public />
-				</powers>
-				<subtype type="string">Ammunition</subtype>
-				<type type="string">Adventuring Gear</type>
-				<volume type="number">0</volume>
-				<weight type="number">0.05</weight>
-				<width type="number">0</width>
-			</id-00021>
-			<id-00022>
-				<public />
-				<attune type="number">0</attune>
-				<carried type="number">1</carried>
-				<carriedby type="string">Lucien Merrow [1], Talia Vexmere [1], Hruk the Silent [3], Theryn Moondrift [1]</carriedby>
-				<cost type="string">2 SP</cost>
-				<count type="number">6</count>
-				<description type="formattedtext">
-					<p>A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration (see the rules glossary).</p>
-				</description>
-				<location type="string">Backpack</location>
-				<locationshortcut type="windowreference">
-					<class>item</class>
-					<recordname>charsheet.id-00024.inventorylist.id-00011</recordname>
-				</locationshortcut>
-				<name type="string">Waterskin</name>
-				<powers>
-					<public />
-				</powers>
-				<rarity type="string">common</rarity>
-				<subtype type="string">Standard</subtype>
-				<type type="string">Adventuring Gear</type>
-				<version type="string">2024</version>
-				<weight type="number">5</weight>
-			</id-00022>
-			<id-00023>
-				<public />
 				<attune type="number">0</attune>
 				<capacitycount type="number">0</capacitycount>
 				<capacityweight type="number">0</capacityweight>
@@ -216421,8 +216732,146 @@
 				<volume type="number">0</volume>
 				<weight type="number">10</weight>
 				<width type="number">0</width>
+			</id-00019>
+			<id-00020>
+				<public />
+				<ac type="number">16</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<carried type="number">2</carried>
+				<carriedby type="string">Hruk the Silent [1]</carriedby>
+				<cost type="string">75 GP</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<dexbonus type="string">No</dexbonus>
+				<name type="string">Chain Mail</name>
+				<picture type="token">images/Heavy Armor Chain Mail.webp@WOTC50PHB</picture>
+				<powers>
+					<public />
+				</powers>
+				<rarity type="string">common</rarity>
+				<stealth type="string">Disadvantage</stealth>
+				<strength type="string">Str 13</strength>
+				<subtype type="string">Heavy Armor</subtype>
+				<type type="string">Armor</type>
+				<version type="string">2024</version>
+				<weight type="number">55</weight>
+			</id-00020>
+			<id-00021>
+				<public />
+				<ac type="number">11</ac>
+				<attune type="number">0</attune>
+				<bonus type="number">0</bonus>
+				<carried type="number">2</carried>
+				<carriedby type="string">Lucien Merrow [1], Talia Vexmere [1]</carriedby>
+				<cost type="string">10 GP</cost>
+				<count type="number">2</count>
+				<description type="formattedtext">
+					<p />
+				</description>
+				<dexbonus type="string">Yes</dexbonus>
+				<name type="string">Leather Armor</name>
+				<picture type="token">images/Light Armor Leather Armor.webp@WOTC50PHB</picture>
+				<powers>
+					<public />
+				</powers>
+				<rarity type="string">common</rarity>
+				<stealth type="string">-</stealth>
+				<strength type="string">-</strength>
+				<subtype type="string">Light Armor</subtype>
+				<type type="string">Armor</type>
+				<version type="string">2024</version>
+				<weight type="number">10</weight>
+			</id-00021>
+			<id-00022>
+				<public />
+				<attune type="number">0</attune>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<carriedby type="string">Lucien Merrow [58]</carriedby>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">5 cp</cost>
+				<count type="number">58</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext" />
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<location type="string">Quiver</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>charsheet.id-00024.inventorylist.id-00020</recordname>
+				</locationshortcut>
+				<name type="string">Arrow</name>
+				<powers>
+					<public />
+				</powers>
+				<subtype type="string">Ammunition</subtype>
+				<type type="string">Adventuring Gear</type>
+				<volume type="number">0</volume>
+				<weight type="number">0.05</weight>
+				<width type="number">0</width>
+			</id-00022>
+			<id-00023>
+				<public />
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<carriedby type="string">Lucien Merrow [1], Talia Vexmere [1], Hruk the Silent [3], Theryn Moondrift [1]</carriedby>
+				<cost type="string">2 SP</cost>
+				<count type="number">6</count>
+				<description type="formattedtext">
+					<p>A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration (see the rules glossary).</p>
+				</description>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>charsheet.id-00024.inventorylist.id-00011</recordname>
+				</locationshortcut>
+				<name type="string">Waterskin</name>
+				<powers>
+					<public />
+				</powers>
+				<rarity type="string">common</rarity>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<version type="string">2024</version>
+				<weight type="number">5</weight>
 			</id-00023>
 			<id-00024>
+				<public />
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<carriedby type="string">Hruk the Silent [1], Talia Vexmere [1]</carriedby>
+				<cost type="string">2 GP</cost>
+				<count type="number">2</count>
+				<description type="formattedtext">
+					<p>Using a Crowbar gives you Advantage on Strength checks where the Crowbar's leverage can be applied.</p>
+				</description>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>charsheet.id-00033.inventorylist.id-00008</recordname>
+				</locationshortcut>
+				<name type="string">Crowbar</name>
+				<powers>
+					<public />
+				</powers>
+				<rarity type="string">common</rarity>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<version type="string">2024</version>
+				<weight type="number">5</weight>
+			</id-00024>
+			<id-00025>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -216447,8 +216896,8 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">2</weight>
-			</id-00024>
-			<id-00025>
+			</id-00025>
+			<id-00026>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -216472,8 +216921,8 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">2</weight>
-			</id-00025>
-			<id-00026>
+			</id-00026>
+			<id-00027>
 				<public />
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
@@ -216513,33 +216962,98 @@
 				<volume type="number">0</volume>
 				<weight type="number">2</weight>
 				<width type="number">0</width>
-			</id-00026>
-			<id-00027>
-				<public />
-				<attune type="number">0</attune>
-				<carried type="number">1</carried>
-				<carriedby type="string">Hruk the Silent [1], Talia Vexmere [1]</carriedby>
-				<cost type="string">2 GP</cost>
-				<count type="number">2</count>
-				<description type="formattedtext">
-					<p>Using a Crowbar gives you Advantage on Strength checks where the Crowbar's leverage can be applied.</p>
-				</description>
-				<location type="string">Backpack</location>
-				<locationshortcut type="windowreference">
-					<class>item</class>
-					<recordname>charsheet.id-00033.inventorylist.id-00008</recordname>
-				</locationshortcut>
-				<name type="string">Crowbar</name>
-				<powers>
-					<public />
-				</powers>
-				<rarity type="string">common</rarity>
-				<subtype type="string">Standard</subtype>
-				<type type="string">Adventuring Gear</type>
-				<version type="string">2024</version>
-				<weight type="number">5</weight>
 			</id-00027>
 			<id-00028>
+				<public />
+				<attune type="number">0</attune>
+				<capacitycount type="number">0</capacitycount>
+				<capacityweight type="number">0</capacityweight>
+				<carried type="number">2</carried>
+				<carriedby type="string">Lucien Merrow [1]</carriedby>
+				<contentsvolume type="number">0</contentsvolume>
+				<cost type="string">10 gp</cost>
+				<count type="number">1</count>
+				<depth type="number">0</depth>
+				<description type="formattedtext">
+					<p>
+						<b>Can of Coke</b>
+					</p>
+					<p>
+						<i>Common consumable</i>
+					</p>
+					<p>A bright red aluminum can filled with a dark, bubbling liquid. When opened, it gives off a sharp hiss and releases a burst of sweet caramel scent. Tiny bubbles cling to the rim, and the drink has a crisp, biting fizz. Though it looks strange compared to traditional potions, it is widely enjoyed by adventurers who need a quick mental pick-me-up.</p>
+					<p>When consumed as an action, the drinker gains a +1 bonus to Perception checks for 1 hour.</p>
+					<p>Some merchants market Can of Coke as an alchemical tonic, while others treat it as a novelty imported from a distant and mysterious land.</p>
+				</description>
+				<destroyon type="number">1</destroyon>
+				<discharged type="number">NaN</discharged>
+				<dischargedice type="dice"></dischargedice>
+				<dischargerechargebonus type="number">0</dischargerechargebonus>
+				<dischargerechargedice type="dice"></dischargerechargedice>
+				<dm_privatenotes type="formattedtext">
+					<p />
+				</dm_privatenotes>
+				<extraplanarcontents type="number">0</extraplanarcontents>
+				<internal_depth type="number">0</internal_depth>
+				<internal_length type="number">0</internal_length>
+				<internal_volume type="number">0</internal_volume>
+				<internal_width type="number">0</internal_width>
+				<length type="number">0</length>
+				<locked type="number">1</locked>
+				<name type="string">Can of Coke</name>
+				<nonid_name type="string">Fizzy Red Can</nonid_name>
+				<nonidentified type="string">A bright red can of sweet, sharply carbonated liquid.</nonidentified>
+				<picture type="token"></picture>
+				<powergroup type="string">Spells</powergroup>
+				<powers>
+					<public />
+					<id-00001>
+						<public />
+						<actions>
+							<public />
+							<id-00001>
+								<public />
+								<apply type="string">action</apply>
+								<durmod type="number">1</durmod>
+								<durunit type="string">hour</durunit>
+								<label type="string">Can of Coke; SKILL: 1, perception</label>
+								<order type="number">1</order>
+								<targeting type="string">self</targeting>
+								<type type="string">effect</type>
+							</id-00001>
+						</actions>
+						<cast type="number">0</cast>
+						<castingtime type="string">1 action</castingtime>
+						<chargeperiod type="string">never</chargeperiod>
+						<charges type="number">1</charges>
+						<description type="formattedtext">
+							<p>You gain a +1 bonus to Perception checks for 1 hour.</p>
+						</description>
+						<duration type="string">1 hour</duration>
+						<level type="number">0</level>
+						<name type="string">Can of Coke</name>
+						<picture type="token"></picture>
+						<prepared type="number">0</prepared>
+						<range type="string">Self</range>
+						<ritual type="number">0</ritual>
+						<school type="string">Transmutation</school>
+						<value type="string">Can of Coke [EFF: SKILL: 1, perception (D:1 HR)]</value>
+					</id-00001>
+				</powers>
+				<prepared type="number">0</prepared>
+				<rarity type="string">Common</rarity>
+				<rechargebonus type="number">0</rechargebonus>
+				<rechargedice type="dice"></rechargedice>
+				<rechargeon type="number">0</rechargeon>
+				<rechargesingle type="number">0</rechargesingle>
+				<subtype type="string">Potion</subtype>
+				<type type="string">Consumable</type>
+				<version type="string">2024</version>
+				<volume type="number">0</volume>
+				<weight type="number">1</weight>
+				<width type="number">0</width>
+			</id-00028>
+			<id-00029>
 				<public />
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
@@ -216568,8 +217082,8 @@
 				<type type="string">Weapon</type>
 				<version type="string">2024</version>
 				<weight type="number">4</weight>
-			</id-00028>
-			<id-00029>
+			</id-00029>
+			<id-00030>
 				<public />
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
@@ -216619,8 +217133,8 @@
 				<volume type="number">0</volume>
 				<weight type="number">1</weight>
 				<width type="number">0</width>
-			</id-00029>
-			<id-00030>
+			</id-00030>
+			<id-00031>
 				<public />
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
@@ -216645,8 +217159,8 @@
 				<type type="string">Weapon</type>
 				<version type="string">2024</version>
 				<weight type="number">2</weight>
-			</id-00030>
-			<id-00031>
+			</id-00031>
+			<id-00032>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -216670,8 +217184,8 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">2</weight>
-			</id-00031>
-			<id-00032>
+			</id-00032>
+			<id-00033>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">0</carried>
@@ -216694,8 +217208,8 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">0</weight>
-			</id-00032>
-			<id-00033>
+			</id-00033>
+			<id-00034>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -216717,8 +217231,8 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">5</weight>
-			</id-00033>
-			<id-00034>
+			</id-00034>
+			<id-00035>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -216753,8 +217267,8 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">1</weight>
-			</id-00034>
-			<id-00035>
+			</id-00035>
+			<id-00036>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -216783,8 +217297,8 @@
 				<value type="string">25 GP</value>
 				<version type="string">2024</version>
 				<weight type="number">1</weight>
-			</id-00035>
-			<id-00036>
+			</id-00036>
+			<id-00037>
 				<public />
 				<ac type="number">2</ac>
 				<attune type="number">0</attune>
@@ -216825,8 +217339,8 @@
 				<volume type="number">0</volume>
 				<weight type="number">6</weight>
 				<width type="number">0</width>
-			</id-00036>
-			<id-00037>
+			</id-00037>
+			<id-00038>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">2</carried>
@@ -216843,8 +217357,8 @@
 				<subtype type="string">Martial Weapons</subtype>
 				<type type="string">Weapon</type>
 				<weight type="number">2</weight>
-			</id-00037>
-			<id-00038>
+			</id-00038>
+			<id-00039>
 				<public />
 				<attune type="number">0</attune>
 				<capacitycount type="number">0</capacitycount>
@@ -216895,97 +217409,8 @@
 				<volume type="number">0</volume>
 				<weight type="number">3</weight>
 				<width type="number">0</width>
-			</id-00038>
-			<id-00039>
-				<public />
-				<attune type="number">0</attune>
-				<carried type="number">1</carried>
-				<carriedby type="string">Lucien Merrow [1], Hruk the Silent [1], Theryn Moondrift [1]</carriedby>
-				<cost type="string">2 gp</cost>
-				<count type="number">3</count>
-				<location type="string">Backpack</location>
-				<locationshortcut type="windowreference">
-					<class>item</class>
-					<recordname>charsheet.id-00024.inventorylist.id-00011</recordname>
-				</locationshortcut>
-				<name type="string">Clothes, Traveler's</name>
-				<powers>
-					<public />
-				</powers>
-				<subtype type="string">Standard Adventuring Gear</subtype>
-				<type type="string">Adventuring Gear</type>
-				<weight type="number">4</weight>
 			</id-00039>
 			<id-00040>
-				<public />
-				<attune type="number">0</attune>
-				<carried type="number">2</carried>
-				<carriedby type="string">Lucien Merrow [1]</carriedby>
-				<cost type="string">1 sp</cost>
-				<count type="number">1</count>
-				<description type="formattedtext">
-					<p>This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
-				</description>
-				<location type="string">Leather Armor</location>
-				<name type="string">Dice Set</name>
-				<powers>
-					<public />
-				</powers>
-				<subtype type="string">Gaming Set</subtype>
-				<type type="string">Tools</type>
-				<weight type="number">0</weight>
-			</id-00040>
-			<id-00041>
-				<public />
-				<attune type="number">0</attune>
-				<carried type="number">1</carried>
-				<carriedby type="string">Lucien Merrow [1]</carriedby>
-				<cost type="string">10 GP</cost>
-				<count type="number">1</count>
-				<description type="formattedtext">
-					<p>A Bullseye Lantern burns Oil as fuel to cast Bright Light in a 60-foot Cone and Dim Light for an additional 60 feet.</p>
-				</description>
-				<location type="string">Backpack</location>
-				<locationshortcut type="windowreference">
-					<class>item</class>
-					<recordname>charsheet.id-00024.inventorylist.id-00011</recordname>
-				</locationshortcut>
-				<name type="string">Lantern, Bullseye</name>
-				<powers>
-					<public />
-				</powers>
-				<rarity type="string">common</rarity>
-				<subtype type="string">Standard</subtype>
-				<type type="string">Adventuring Gear</type>
-				<version type="string">2024</version>
-				<weight type="number">2</weight>
-			</id-00041>
-			<id-00042>
-				<public />
-				<attune type="number">0</attune>
-				<carried type="number">1</carried>
-				<carriedby type="string">Lucien Merrow [1], Theryn Moondrift [1]</carriedby>
-				<cost type="string">1 GP</cost>
-				<count type="number">2</count>
-				<description type="formattedtext">
-					<p>A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the Dungeon Master's Guide).</p>
-				</description>
-				<location type="string">Backpack</location>
-				<locationshortcut type="windowreference">
-					<class>item</class>
-					<recordname>charsheet.id-00024.inventorylist.id-00011</recordname>
-				</locationshortcut>
-				<name type="string">Bedroll</name>
-				<powers>
-					<public />
-				</powers>
-				<rarity type="string">common</rarity>
-				<subtype type="string">Standard</subtype>
-				<type type="string">Adventuring Gear</type>
-				<version type="string">2024</version>
-				<weight type="number">7</weight>
-			</id-00042>
-			<id-00043>
 				<public />
 				<attune type="number">0</attune>
 				<capacitycount type="number">0</capacitycount>
@@ -217076,8 +217501,97 @@
 				<volume type="number">0</volume>
 				<weight type="number">0.4</weight>
 				<width type="number">0</width>
+			</id-00040>
+			<id-00041>
+				<public />
+				<attune type="number">0</attune>
+				<carried type="number">2</carried>
+				<carriedby type="string">Lucien Merrow [1]</carriedby>
+				<cost type="string">1 sp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+				</description>
+				<location type="string">Leather Armor</location>
+				<name type="string">Dice Set</name>
+				<powers>
+					<public />
+				</powers>
+				<subtype type="string">Gaming Set</subtype>
+				<type type="string">Tools</type>
+				<weight type="number">0</weight>
+			</id-00041>
+			<id-00042>
+				<public />
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<carriedby type="string">Lucien Merrow [1]</carriedby>
+				<cost type="string">10 GP</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>A Bullseye Lantern burns Oil as fuel to cast Bright Light in a 60-foot Cone and Dim Light for an additional 60 feet.</p>
+				</description>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>charsheet.id-00024.inventorylist.id-00011</recordname>
+				</locationshortcut>
+				<name type="string">Lantern, Bullseye</name>
+				<powers>
+					<public />
+				</powers>
+				<rarity type="string">common</rarity>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<version type="string">2024</version>
+				<weight type="number">2</weight>
+			</id-00042>
+			<id-00043>
+				<public />
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<carriedby type="string">Lucien Merrow [1], Theryn Moondrift [1]</carriedby>
+				<cost type="string">1 GP</cost>
+				<count type="number">2</count>
+				<description type="formattedtext">
+					<p>A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the Dungeon Master's Guide).</p>
+				</description>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>charsheet.id-00024.inventorylist.id-00011</recordname>
+				</locationshortcut>
+				<name type="string">Bedroll</name>
+				<powers>
+					<public />
+				</powers>
+				<rarity type="string">common</rarity>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<version type="string">2024</version>
+				<weight type="number">7</weight>
 			</id-00043>
 			<id-00044>
+				<public />
+				<attune type="number">0</attune>
+				<carried type="number">1</carried>
+				<carriedby type="string">Lucien Merrow [1], Hruk the Silent [1], Theryn Moondrift [1]</carriedby>
+				<cost type="string">2 gp</cost>
+				<count type="number">3</count>
+				<location type="string">Backpack</location>
+				<locationshortcut type="windowreference">
+					<class>item</class>
+					<recordname>charsheet.id-00024.inventorylist.id-00011</recordname>
+				</locationshortcut>
+				<name type="string">Clothes, Traveler's</name>
+				<powers>
+					<public />
+				</powers>
+				<subtype type="string">Standard Adventuring Gear</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">4</weight>
+			</id-00044>
+			<id-00045>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -217099,8 +217613,8 @@
 				<subtype type="string">Arcane Focus</subtype>
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">4</weight>
-			</id-00044>
-			<id-00045>
+			</id-00045>
+			<id-00046>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -217126,8 +217640,8 @@
 				<value type="string">2 GP</value>
 				<version type="string">2024</version>
 				<weight type="number">1</weight>
-			</id-00045>
-			<id-00046>
+			</id-00046>
+			<id-00047>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -217152,10 +217666,11 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">4</weight>
-			</id-00046>
-			<id-00047>
+			</id-00047>
+			<id-00048>
 				<public />
 				<ac type="number">0</ac>
+				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
 				<carried type="number">2</carried>
 				<carriedby type="string">Lucien Merrow [1]</carriedby>
@@ -217168,12 +217683,15 @@
 				<isidentified type="number">1</isidentified>
 				<locked type="number">1</locked>
 				<name type="string">Broken Longbow</name>
+				<powers>
+					<public />
+				</powers>
 				<properties type="string">Ammunition (range 150/600), heavy, two-handed</properties>
 				<subtype type="string">Martial Ranged Weapons</subtype>
 				<type type="string">Weapon</type>
 				<weight type="number">2</weight>
-			</id-00047>
-			<id-00048>
+			</id-00048>
+			<id-00049>
 				<public />
 				<attune type="number">0</attune>
 				<bonus type="number">0</bonus>
@@ -217197,8 +217715,8 @@
 				<type type="string">Weapon</type>
 				<version type="string">2024</version>
 				<weight type="number">2</weight>
-			</id-00048>
-			<id-00049>
+			</id-00049>
+			<id-00050>
 				<public />
 				<attune type="number">0</attune>
 				<carried type="number">1</carried>
@@ -217223,7 +217741,7 @@
 				<type type="string">Adventuring Gear</type>
 				<version type="string">2024</version>
 				<weight type="number">5</weight>
-			</id-00049>
+			</id-00050>
 		</inventorylist>
 		<partyinformation>
 			<public />
